@@ -101,7 +101,7 @@ def merge(json_path: Path, tax_data: dict):
     if unmatched:
         print(f"WARNING: No tax data for {len(unmatched)} counties: {unmatched}")
     else:
-        print(f"All {matched} AFIR counties matched successfully.")
+        print(f"All {matched} counties matched successfully.")
 
     with open(json_path, "w") as f:
         json.dump(counties, f, indent=2)

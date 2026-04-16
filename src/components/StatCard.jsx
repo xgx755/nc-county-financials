@@ -1,4 +1,36 @@
-export default function StatCard({ label, value, sub, accent, isMobile }) {
+function Sparkline({ trend }) {
+  if (!trend || trend.length < 2) return null;
+
+  const values = trend.map(([, v]) => v);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const w = 60;
+  const h = 20;
+  const n = values.length;
+
+  const points = values
+    .map((v, i) => {
+      const x = (i / (n - 1)) * w;
+      const y = max === min ? h / 2 : h - ((v - min) / (max - min)) * h;
+      return `${x.toFixed(1)},${y.toFixed(1)}`;
+    })
+    .join(" ");
+
+  return (
+    <svg width={w} height={h} style={{ display: "block", marginTop: 6 }}>
+      <polyline
+        points={points}
+        fill="none"
+        stroke="#5FA8D3"
+        strokeWidth="1.5"
+        strokeLinejoin="round"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+}
+
+export default function StatCard({ label, value, sub, accent, isMobile, trend }) {
   return (
     <div style={{
       background: "linear-gradient(135deg, #0d1f3c 0%, #132744 100%)",
@@ -24,6 +56,7 @@ export default function StatCard({ label, value, sub, accent, isMobile }) {
       {sub && (
         <div style={{ fontSize: 12, color: "#5a7d9a", marginTop: 4 }}>{sub}</div>
       )}
+      {trend && <Sparkline trend={trend} />}
     </div>
   );
 }

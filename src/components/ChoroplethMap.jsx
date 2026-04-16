@@ -50,8 +50,8 @@ function fmtTooltipValue(value, metricKey) {
   return "$" + Math.round(value).toLocaleString() + " / capita";
 }
 
-function fmtPC(n)    { return "$" + Math.round(n).toLocaleString(); }
-function fmtPop(n)   { return n.toLocaleString(); }
+function fmtPC(n)    { return n != null ? "$" + Math.round(n).toLocaleString() : "—"; }
+function fmtPop(n)   { return n != null ? n.toLocaleString() : "—"; }
 function fmtFbPct(v) { return v != null ? (v * 100).toFixed(1) + "%" : "—"; }
 
 const COLOR_STEPS   = ["#cce8f4", "#93cce0", "#5FA8D3", "#2d7aad", "#0d4a7a"];
@@ -458,7 +458,7 @@ export default function ChoroplethMap({ data, selectedCounty, onCountyClick }) {
                   <div style={{ fontSize: 15, fontWeight: 700, color: "#e8f1f8", fontFamily: "'Playfair Display', serif", lineHeight: 1.2 }}>
                     {d.name}
                   </div>
-                  <div style={{ fontSize: 10, color: "#4a6d8c", marginTop: 3 }}>{d.pg}</div>
+                  <div style={{ fontSize: 10, color: "#4a6d8c", marginTop: 3 }}>{d.pg ?? "No AFIR snapshot"}</div>
                 </div>
                 <button
                   onClick={closePanel}

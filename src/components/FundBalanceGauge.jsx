@@ -184,9 +184,8 @@ export default function FundBalanceGauge({ county, compare }) {
       style={{
         background: "linear-gradient(135deg, #0d1f3c 0%, #132744 100%)",
         borderRadius: 12,
-        padding: "16px 24px",
+        padding: "20px 24px",
         border: "1px solid #1a3456",
-        marginBottom: 24,
       }}
     >
       <div
@@ -195,12 +194,34 @@ export default function FundBalanceGauge({ county, compare }) {
           textTransform: "uppercase",
           letterSpacing: 1.5,
           color: "#6b8aad",
-          marginBottom: 10,
+          marginBottom: 6,
           fontWeight: 600,
         }}
       >
         Fund Balance
       </div>
+
+      {hasFb && (
+        <div style={{
+          fontSize: 26,
+          fontWeight: 700,
+          color: fillColor(county.fb.pct),
+          fontFamily: "'Playfair Display', serif",
+          lineHeight: 1.1,
+          marginBottom: 16,
+          display: "flex",
+          alignItems: "baseline",
+          gap: 10,
+          flexWrap: "wrap",
+        }}>
+          {fmtFbPct(county.fb.pct)}
+          {county.fb.grp_pct != null && (
+            <span style={{ fontSize: 12, fontWeight: 400, color: "#5a7d9a", fontFamily: "'DM Sans', sans-serif" }}>
+              Group avg {fmtFbPct(county.fb.grp_pct)}
+            </span>
+          )}
+        </div>
+      )}
 
       {!hasFb ? (
         /* Null state */

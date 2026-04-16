@@ -10,13 +10,13 @@ An interactive data visualization of North Carolina county finances, built from 
 - Expenditure allocation by function (education, public safety, human services, etc.)
 - Per capita comparisons against population-group averages
 - Side-by-side comparison between any two counties
-- Sortable table of all 75 counties that filed an AFIR
+- Sortable table of all 100 counties, using FY2025 AFIR data where available and earlier AFIR fallback years for non-filers
 
 ## Data
 
-Fiscal year ending **June 30, 2025**. Source: [NC Department of State Treasurer — AFIR](https://www.nctreasurer.com/local-government/financial-data/annual-financial-information-report).
+Primary snapshot is fiscal year ending **June 30, 2025**. Counties missing FY2025 AFIR data fall back to FY2024, then the latest older AFIR year available locally. Source: [NC Department of State Treasurer — AFIR](https://www.nctreasurer.com/local-government/financial-data/annual-financial-information-report).
 
-The raw Excel file was processed into `src/data/counties.json` using the `scripts/convert-data.js` script.
+The runtime snapshot in `src/data/counties.json` is assembled from the yearly AFIR extracts using `scripts/merge_county_snapshots.py`.
 
 ## Development
 

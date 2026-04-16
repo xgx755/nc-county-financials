@@ -1,0 +1,6530 @@
+[
+  {
+    "name": "Alamance",
+    "pop": 157522,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 76525761.0,
+      "Other Taxes": 6691096.0,
+      "Sales Tax": 27608429.0,
+      "Sales & Services": 14875336.0,
+      "Intergovernmental": 28076540.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1856597.0,
+      "Total Revenue": 155633759.0
+    },
+    "e": {
+      "Education": 41497017.0,
+      "Debt Service": 9945079.0,
+      "Human Services": 36538317.0,
+      "General Government": 13969879.0,
+      "Public Safety": 36073698.0,
+      "Other": 9880671.0,
+      "Total Expenditures": 147904661.0
+    },
+    "pr": {
+      "Property Taxes": 485.80998845,
+      "Other Taxes": 42.47721588,
+      "Sales Tax": 175.26713094,
+      "Sales & Services": 94.43338708,
+      "Intergovernmental": 178.23884918,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 11.78627112,
+      "Total Revenue": 988.01284265
+    },
+    "pe": {
+      "Education": 263.43632635,
+      "Debt Service": 63.13453994,
+      "Human Services": 231.95691395,
+      "General Government": 88.68525666,
+      "Public Safety": 229.00736405,
+      "Other": 62.72565737,
+      "Total Expenditures": 938.94605833
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 35605500,
+      "pct": 0.25928496,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Alexander",
+    "pop": 37952,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 20341092.0,
+      "Other Taxes": 1211191.0,
+      "Sales Tax": 5867932.0,
+      "Sales & Services": 7412718.0,
+      "Intergovernmental": 10432542.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 809405.0,
+      "Total Revenue": 46074880.0
+    },
+    "e": {
+      "Education": 6883496.0,
+      "Debt Service": 2605566.0,
+      "Human Services": 9625723.0,
+      "General Government": 5388475.0,
+      "Public Safety": 10705895.0,
+      "Other": 7854453.0,
+      "Total Expenditures": 43063608.0
+    },
+    "pr": {
+      "Property Taxes": 535.96890809,
+      "Other Taxes": 31.91375949,
+      "Sales Tax": 154.61456577,
+      "Sales & Services": 195.3182441,
+      "Intergovernmental": 274.88780565,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 21.32707104,
+      "Total Revenue": 1214.03035413
+    },
+    "pe": {
+      "Education": 181.37373524,
+      "Debt Service": 68.65424747,
+      "Human Services": 253.62887331,
+      "General Government": 141.98131851,
+      "Public Safety": 282.09040367,
+      "Other": 206.95755164,
+      "Total Expenditures": 1134.68612985
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 9987271,
+      "pct": 0.2835041,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Alleghany",
+    "pop": 11190,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 8836193.0,
+      "Other Taxes": 353692.0,
+      "Sales Tax": 1908435.0,
+      "Sales & Services": 1465936.0,
+      "Intergovernmental": 2604303.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 822379.0,
+      "Total Revenue": 15990938.0
+    },
+    "e": {
+      "Education": 3004426.0,
+      "Debt Service": 1065006.0,
+      "Human Services": 2377738.0,
+      "General Government": 3309774.0,
+      "Public Safety": 3513968.0,
+      "Other": 2262956.0,
+      "Total Expenditures": 15533868.0
+    },
+    "pr": {
+      "Property Taxes": 789.65084897,
+      "Other Taxes": 31.60786416,
+      "Sales Tax": 170.54825737,
+      "Sales & Services": 131.00411081,
+      "Intergovernmental": 232.73485255,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 73.49231457,
+      "Total Revenue": 1429.03824844
+    },
+    "pe": {
+      "Education": 268.49204647,
+      "Debt Service": 95.17479893,
+      "Human Services": 212.48775693,
+      "General Government": 295.77962466,
+      "Public Safety": 314.02752458,
+      "Other": 202.23020554,
+      "Total Expenditures": 1388.1919571
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 3464396,
+      "pct": 0.24339819,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Anson",
+    "pop": 26155,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 15485989.0,
+      "Other Taxes": 338425.0,
+      "Sales Tax": 2825137.0,
+      "Sales & Services": 10220013.0,
+      "Intergovernmental": 5965367.0,
+      "Debt Proceeds": 187857.0,
+      "Other Misc": 990338.0,
+      "Total Revenue": 36013126.0
+    },
+    "e": {
+      "Education": 5351572.0,
+      "Debt Service": 716346.0,
+      "Human Services": 7570855.0,
+      "General Government": 3005696.0,
+      "Public Safety": 7225988.0,
+      "Other": 7886492.0,
+      "Total Expenditures": 31756949.0
+    },
+    "pr": {
+      "Property Taxes": 592.08522271,
+      "Other Taxes": 12.93920856,
+      "Sales Tax": 108.01517874,
+      "Sales & Services": 390.74796406,
+      "Intergovernmental": 228.07749952,
+      "Debt Proceeds": 7.18245077,
+      "Other Misc": 37.86419423,
+      "Total Revenue": 1376.9117186
+    },
+    "pe": {
+      "Education": 204.6099025,
+      "Debt Service": 27.38849168,
+      "Human Services": 289.4610973,
+      "General Government": 114.91860065,
+      "Public Safety": 276.27558784,
+      "Other": 301.52903842,
+      "Total Expenditures": 1214.18271841
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 13313576,
+      "pct": 0.53213315,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Ashe",
+    "pop": 27332,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 17074233.0,
+      "Other Taxes": 477346.0,
+      "Sales Tax": 5722379.0,
+      "Sales & Services": 3847065.0,
+      "Intergovernmental": 8721756.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 301642.0,
+      "Total Revenue": 36144421.0
+    },
+    "e": {
+      "Education": 5393366.0,
+      "Debt Service": 3540654.0,
+      "Human Services": 10708881.0,
+      "General Government": 3968384.0,
+      "Public Safety": 6841269.0,
+      "Other": 5136687.0,
+      "Total Expenditures": 35589241.0
+    },
+    "pr": {
+      "Property Taxes": 624.69753403,
+      "Other Taxes": 17.46472999,
+      "Sales Tax": 209.36554222,
+      "Sales & Services": 140.75314649,
+      "Intergovernmental": 319.1042002,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 11.03622128,
+      "Total Revenue": 1322.42137421
+    },
+    "pe": {
+      "Education": 197.32789404,
+      "Debt Service": 129.54244109,
+      "Human Services": 391.80744183,
+      "General Government": 145.19186302,
+      "Public Safety": 250.30253915,
+      "Other": 187.93674082,
+      "Total Expenditures": 1302.10891995
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 9640898,
+      "pct": 0.29653738,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Avery",
+    "pop": 17816,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 14566221.0,
+      "Other Taxes": 2856193.0,
+      "Sales Tax": 4646719.0,
+      "Sales & Services": 1577118.0,
+      "Intergovernmental": 4425082.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 172851.0,
+      "Total Revenue": 28244184.0
+    },
+    "e": {
+      "Education": 5560574.0,
+      "Debt Service": 1310146.0,
+      "Human Services": 5055406.0,
+      "General Government": 3168403.0,
+      "Public Safety": 9274106.0,
+      "Other": 3446352.0,
+      "Total Expenditures": 27814987.0
+    },
+    "pr": {
+      "Property Taxes": 817.59210822,
+      "Other Taxes": 160.31617647,
+      "Sales Tax": 260.8171868,
+      "Sales & Services": 88.52256399,
+      "Intergovernmental": 248.37685227,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 9.70200943,
+      "Total Revenue": 1585.32689717
+    },
+    "pe": {
+      "Education": 312.11124832,
+      "Debt Service": 73.53760665,
+      "Human Services": 283.756511,
+      "General Government": 177.84031208,
+      "Public Safety": 520.54928154,
+      "Other": 193.44140099,
+      "Total Expenditures": 1561.23636057
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 13374601,
+      "pct": 0.49024323,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Beaufort",
+    "pop": 47829,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 33995575.0,
+      "Other Taxes": 315917.0,
+      "Sales Tax": 7978947.0,
+      "Sales & Services": 10166781.0,
+      "Intergovernmental": 13844972.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1572583.0,
+      "Total Revenue": 67874775.0
+    },
+    "e": {
+      "Education": 18257331.0,
+      "Debt Service": 4943945.0,
+      "Human Services": 16397636.0,
+      "General Government": 6255130.0,
+      "Public Safety": 12838370.0,
+      "Other": 9278245.0,
+      "Total Expenditures": 67970657.0
+    },
+    "pr": {
+      "Property Taxes": 710.77327563,
+      "Other Taxes": 6.60513496,
+      "Sales Tax": 166.82236718,
+      "Sales & Services": 212.56520103,
+      "Intergovernmental": 289.46814694,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 32.87927826,
+      "Total Revenue": 1419.113404
+    },
+    "pe": {
+      "Education": 381.72094336,
+      "Debt Service": 103.36709946,
+      "Human Services": 342.83877982,
+      "General Government": 130.78111606,
+      "Public Safety": 268.4222961,
+      "Other": 193.98785256,
+      "Total Expenditures": 1421.11808735
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 19918007,
+      "pct": 0.3397341,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Bertie",
+    "pop": 20533,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 11241047.0,
+      "Other Taxes": 92093.0,
+      "Sales Tax": 1928562.0,
+      "Sales & Services": 4769471.0,
+      "Intergovernmental": 6626923.0,
+      "Debt Proceeds": 826650.0,
+      "Other Misc": 2270665.0,
+      "Total Revenue": 27755411.0
+    },
+    "e": {
+      "Education": 3337099.0,
+      "Debt Service": 4463150.0,
+      "Human Services": 5090959.0,
+      "General Government": 3617864.0,
+      "Public Safety": 7957373.0,
+      "Other": 5704330.0,
+      "Total Expenditures": 30170775.0
+    },
+    "pr": {
+      "Property Taxes": 547.46247504,
+      "Other Taxes": 4.48512151,
+      "Sales Tax": 93.92499878,
+      "Sales & Services": 232.28320265,
+      "Intergovernmental": 322.74499586,
+      "Debt Proceeds": 40.25958214,
+      "Other Misc": 110.58612964,
+      "Total Revenue": 1351.74650563
+    },
+    "pe": {
+      "Education": 162.52369357,
+      "Debt Service": 217.36472995,
+      "Human Services": 247.94033994,
+      "General Government": 176.19753567,
+      "Public Safety": 387.5406906,
+      "Other": 277.81278917,
+      "Total Expenditures": 1469.37977889
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 5398190,
+      "pct": 0.21118503,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Bladen",
+    "pop": 35011,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 23919282.0,
+      "Other Taxes": 487594.0,
+      "Sales Tax": 5129266.0,
+      "Sales & Services": 7004592.0,
+      "Intergovernmental": 14119912.0,
+      "Debt Proceeds": 19985000.0,
+      "Other Misc": 912662.0,
+      "Total Revenue": 71558308.0
+    },
+    "e": {
+      "Education": 8460604.0,
+      "Debt Service": 4204093.0,
+      "Human Services": 13163462.0,
+      "General Government": 4964415.0,
+      "Public Safety": 14386994.0,
+      "Other": 5346871.0,
+      "Total Expenditures": 50526439.0
+    },
+    "pr": {
+      "Property Taxes": 683.19333924,
+      "Other Taxes": 13.92688012,
+      "Sales Tax": 146.5044129,
+      "Sales & Services": 200.06832138,
+      "Intergovernmental": 403.29930593,
+      "Debt Proceeds": 570.82059924,
+      "Other Misc": 26.06786439,
+      "Total Revenue": 2043.8807232
+    },
+    "pe": {
+      "Education": 241.65559396,
+      "Debt Service": 120.07920368,
+      "Human Services": 375.98074891,
+      "General Government": 141.79586416,
+      "Public Safety": 410.92782268,
+      "Other": 152.71974522,
+      "Total Expenditures": 1443.15897861
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 16135402,
+      "pct": 0.3923813,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Brunswick",
+    "pop": 123535,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 116180734.0,
+      "Other Taxes": 4956253.0,
+      "Sales Tax": 20944326.0,
+      "Sales & Services": 58747650.0,
+      "Intergovernmental": 26182444.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 8400224.0,
+      "Total Revenue": 235411631.0
+    },
+    "e": {
+      "Education": 51640191.0,
+      "Debt Service": 32157723.0,
+      "Human Services": 26875463.0,
+      "General Government": 25114055.0,
+      "Public Safety": 36471047.0,
+      "Other": 50971955.0,
+      "Total Expenditures": 223230434.0
+    },
+    "pr": {
+      "Property Taxes": 940.46815882,
+      "Other Taxes": 40.12023313,
+      "Sales Tax": 169.54163597,
+      "Sales & Services": 475.5547011,
+      "Intergovernmental": 211.94353017,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 67.9987372,
+      "Total Revenue": 1905.6269964
+    },
+    "pe": {
+      "Education": 418.02073097,
+      "Debt Service": 260.31264824,
+      "Human Services": 217.5534302,
+      "General Government": 203.29505808,
+      "Public Safety": 295.22845347,
+      "Other": 412.61144615,
+      "Total Expenditures": 1807.02176711
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 64811337,
+      "pct": 0.3651632,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Buncombe",
+    "pop": 254836,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 179373964.0,
+      "Other Taxes": 40093742.0,
+      "Sales Tax": 76001604.0,
+      "Sales & Services": 25544656.0,
+      "Intergovernmental": 58643082.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 9541847.0,
+      "Total Revenue": 389198895.0
+    },
+    "e": {
+      "Education": 142310792.0,
+      "Debt Service": 47917113.0,
+      "Human Services": 107467205.0,
+      "General Government": 30410807.0,
+      "Public Safety": 90366538.0,
+      "Other": 44946584.0,
+      "Total Expenditures": 463419039.0
+    },
+    "pr": {
+      "Property Taxes": 703.88000126,
+      "Other Taxes": 157.33154656,
+      "Sales Tax": 298.23731341,
+      "Sales & Services": 100.23958938,
+      "Intergovernmental": 230.12086989,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 37.44308889,
+      "Total Revenue": 1527.25240939
+    },
+    "pe": {
+      "Education": 558.44069127,
+      "Debt Service": 188.03117691,
+      "Human Services": 421.71123782,
+      "General Government": 119.33481533,
+      "Public Safety": 354.60664113,
+      "Other": 176.37454677,
+      "Total Expenditures": 1818.49910923
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 53546310,
+      "pct": 0.17375514,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Burke",
+    "pop": 89114,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 47451409.0,
+      "Other Taxes": 724664.0,
+      "Sales Tax": 12423005.0,
+      "Sales & Services": 12614091.0,
+      "Intergovernmental": 15390928.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 2513976.0,
+      "Total Revenue": 91118073.0
+    },
+    "e": {
+      "Education": 19948677.0,
+      "Debt Service": 6137183.0,
+      "Human Services": 18983963.0,
+      "General Government": 6086467.0,
+      "Public Safety": 21787075.0,
+      "Other": 13158649.0,
+      "Total Expenditures": 86102014.0
+    },
+    "pr": {
+      "Property Taxes": 532.47984604,
+      "Other Taxes": 8.13187602,
+      "Sales Tax": 139.40576116,
+      "Sales & Services": 141.55004825,
+      "Intergovernmental": 172.71055053,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 28.21078618,
+      "Total Revenue": 1022.48886819
+    },
+    "pe": {
+      "Education": 223.85570169,
+      "Debt Service": 68.86889827,
+      "Human Services": 213.03008506,
+      "General Government": 68.29978455,
+      "Public Safety": 244.48543439,
+      "Other": 147.66085015,
+      "Total Expenditures": 966.20075409
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 17714598,
+      "pct": 0.23999872,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Cabarrus",
+    "pop": 195714,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 146963756.0,
+      "Other Taxes": 2903951.0,
+      "Sales Tax": 44146000.0,
+      "Sales & Services": 14891358.0,
+      "Intergovernmental": 28495192.0,
+      "Debt Proceeds": 84944452.0,
+      "Other Misc": 2320871.0,
+      "Total Revenue": 324665580.0
+    },
+    "e": {
+      "Education": 96042477.0,
+      "Debt Service": 39379324.0,
+      "Human Services": 34176071.0,
+      "General Government": 21909778.0,
+      "Public Safety": 41156309.0,
+      "Other": 15442909.0,
+      "Total Expenditures": 248106868.0
+    },
+    "pr": {
+      "Property Taxes": 750.91079841,
+      "Other Taxes": 14.8377275,
+      "Sales Tax": 225.56383294,
+      "Sales & Services": 76.08734173,
+      "Intergovernmental": 145.59608408,
+      "Debt Proceeds": 434.02338106,
+      "Other Misc": 11.85848228,
+      "Total Revenue": 1658.877648
+    },
+    "pe": {
+      "Education": 490.72870106,
+      "Debt Service": 201.20851855,
+      "Human Services": 174.62251551,
+      "General Government": 111.94793423,
+      "Public Safety": 210.28801721,
+      "Other": 78.90548964,
+      "Total Expenditures": 1267.70117621
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 65276049,
+      "pct": 0.27853883,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Caldwell",
+    "pop": 82577,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 43648495.0,
+      "Other Taxes": 448698.0,
+      "Sales Tax": 9598869.0,
+      "Sales & Services": 9998873.0,
+      "Intergovernmental": 22064303.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 641274.0,
+      "Total Revenue": 86400512.0
+    },
+    "e": {
+      "Education": 21413329.0,
+      "Debt Service": 5602646.0,
+      "Human Services": 22714866.0,
+      "General Government": 6877314.0,
+      "Public Safety": 20978370.0,
+      "Other": 12719029.0,
+      "Total Expenditures": 90305554.0
+    },
+    "pr": {
+      "Property Taxes": 528.57932596,
+      "Other Taxes": 5.43369219,
+      "Sales Tax": 116.24143527,
+      "Sales & Services": 121.08544752,
+      "Intergovernmental": 267.19671337,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 7.76577013,
+      "Total Revenue": 1046.30238444
+    },
+    "pe": {
+      "Education": 259.31347712,
+      "Debt Service": 67.84753624,
+      "Human Services": 275.07497245,
+      "General Government": 83.28365041,
+      "Public Safety": 254.04616298,
+      "Other": 154.02629061,
+      "Total Expenditures": 1093.59208981
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 9195842,
+      "pct": 0.12209684,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Camden",
+    "pop": 10224,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7325931.0,
+      "Other Taxes": 2021681.0,
+      "Sales Tax": 1047860.0,
+      "Sales & Services": 2473134.0,
+      "Intergovernmental": 2989564.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 592035.0,
+      "Total Revenue": 16450205.0
+    },
+    "e": {
+      "Education": 2710473.0,
+      "Debt Service": 1031389.0,
+      "Human Services": 2429944.0,
+      "General Government": 1964385.0,
+      "Public Safety": 3815824.0,
+      "Other": 4202395.0,
+      "Total Expenditures": 16154410.0
+    },
+    "pr": {
+      "Property Taxes": 716.54254695,
+      "Other Taxes": 197.73875196,
+      "Sales Tax": 102.49021909,
+      "Sales & Services": 241.89495305,
+      "Intergovernmental": 292.40649452,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 57.90639671,
+      "Total Revenue": 1608.97936228
+    },
+    "pe": {
+      "Education": 265.1088615,
+      "Debt Service": 100.87920579,
+      "Human Services": 237.67057903,
+      "General Government": 192.1346831,
+      "Public Safety": 373.22222222,
+      "Other": 411.0323748,
+      "Total Expenditures": 1580.04792645
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 6444385,
+      "pct": 0.46842687,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Carteret",
+    "pop": 69826,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 43900890.0,
+      "Other Taxes": 13253280.0,
+      "Sales Tax": 15429457.0,
+      "Sales & Services": 5605801.0,
+      "Intergovernmental": 14286669.0,
+      "Debt Proceeds": 5063860.0,
+      "Other Misc": 2713739.0,
+      "Total Revenue": 100253696.0
+    },
+    "e": {
+      "Education": 27494565.0,
+      "Debt Service": 8188381.0,
+      "Human Services": 16630629.0,
+      "General Government": 7728651.0,
+      "Public Safety": 18145442.0,
+      "Other": 16557669.0,
+      "Total Expenditures": 94745337.0
+    },
+    "pr": {
+      "Property Taxes": 628.7183857,
+      "Other Taxes": 189.80437086,
+      "Sales Tax": 220.97008278,
+      "Sales & Services": 80.28243061,
+      "Intergovernmental": 204.60385816,
+      "Debt Proceeds": 72.52112394,
+      "Other Misc": 38.86430556,
+      "Total Revenue": 1435.76455761
+    },
+    "pe": {
+      "Education": 393.75827056,
+      "Debt Service": 117.26836708,
+      "Human Services": 238.17244293,
+      "General Government": 110.68442987,
+      "Public Safety": 259.86655401,
+      "Other": 237.12755993,
+      "Total Expenditures": 1356.87762438
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 47150848,
+      "pct": 0.56851275,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Caswell",
+    "pop": 23606,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 10873719.0,
+      "Other Taxes": 430113.0,
+      "Sales Tax": 2638360.0,
+      "Sales & Services": 3555872.0,
+      "Intergovernmental": 7283928.0,
+      "Debt Proceeds": 1396217.0,
+      "Other Misc": 406204.0,
+      "Total Revenue": 26584413.0
+    },
+    "e": {
+      "Education": 3368855.0,
+      "Debt Service": 1350806.0,
+      "Human Services": 7227749.0,
+      "General Government": 2526707.0,
+      "Public Safety": 6594166.0,
+      "Other": 4139072.0,
+      "Total Expenditures": 25207355.0
+    },
+    "pr": {
+      "Property Taxes": 460.63369482,
+      "Other Taxes": 18.22049479,
+      "Sales Tax": 111.76650004,
+      "Sales & Services": 150.63424553,
+      "Intergovernmental": 308.56256884,
+      "Debt Proceeds": 59.14669999,
+      "Other Misc": 17.20765907,
+      "Total Revenue": 1126.17186309
+    },
+    "pe": {
+      "Education": 142.71181056,
+      "Debt Service": 57.22299415,
+      "Human Services": 306.18270779,
+      "General Government": 107.03664323,
+      "Public Safety": 279.3427942,
+      "Other": 175.33982886,
+      "Total Expenditures": 1067.83677879
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 6382145,
+      "pct": 0.26500167,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Catawba",
+    "pop": 155828,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 93185610.0,
+      "Other Taxes": 6582462.0,
+      "Sales Tax": 33774030.0,
+      "Sales & Services": 18096990.0,
+      "Intergovernmental": 37963960.0,
+      "Debt Proceeds": 570000.0,
+      "Other Misc": 19867538.0,
+      "Total Revenue": 210040590.0
+    },
+    "e": {
+      "Education": 50223611.0,
+      "Debt Service": 15862505.0,
+      "Human Services": 46456988.0,
+      "General Government": 18703923.0,
+      "Public Safety": 50445984.0,
+      "Other": 21543567.0,
+      "Total Expenditures": 203236578.0
+    },
+    "pr": {
+      "Property Taxes": 598.00299048,
+      "Other Taxes": 42.24184357,
+      "Sales Tax": 216.73916113,
+      "Sales & Services": 116.13439177,
+      "Intergovernmental": 243.6273327,
+      "Debt Proceeds": 3.6578792,
+      "Other Misc": 127.49658598,
+      "Total Revenue": 1347.90018482
+    },
+    "pe": {
+      "Education": 322.30158251,
+      "Debt Service": 101.79495983,
+      "Human Services": 298.12991247,
+      "General Government": 120.02928229,
+      "Public Safety": 323.72862387,
+      "Other": 138.2522204,
+      "Total Expenditures": 1304.23658136
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 59827505,
+      "pct": 0.35362,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Chatham",
+    "pop": 71815,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 60182356.0,
+      "Other Taxes": 9282216.0,
+      "Sales Tax": 11298727.0,
+      "Sales & Services": 14018082.0,
+      "Intergovernmental": 13335827.0,
+      "Debt Proceeds": 291698.0,
+      "Other Misc": 12958024.0,
+      "Total Revenue": 121366930.0
+    },
+    "e": {
+      "Education": 37215119.0,
+      "Debt Service": 12421389.0,
+      "Human Services": 16450659.0,
+      "General Government": 15397833.0,
+      "Public Safety": 27423788.0,
+      "Other": 13336918.0,
+      "Total Expenditures": 122245706.0
+    },
+    "pr": {
+      "Property Taxes": 838.01929959,
+      "Other Taxes": 129.25177191,
+      "Sales Tax": 157.3310172,
+      "Sales & Services": 195.19713152,
+      "Intergovernmental": 185.69695746,
+      "Debt Proceeds": 4.06179767,
+      "Other Misc": 180.43617629,
+      "Total Revenue": 1689.99415164
+    },
+    "pe": {
+      "Education": 518.20815986,
+      "Debt Service": 172.96371232,
+      "Human Services": 229.06995753,
+      "General Government": 214.40970549,
+      "Public Safety": 381.86713082,
+      "Other": 185.71214927,
+      "Total Expenditures": 1702.23081529
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 36461231,
+      "pct": 0.37297385,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Cherokee",
+    "pop": 27770,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 17155205.0,
+      "Other Taxes": 1882663.0,
+      "Sales Tax": 6145946.0,
+      "Sales & Services": 5621257.0,
+      "Intergovernmental": 8836514.0,
+      "Debt Proceeds": 15807.0,
+      "Other Misc": 598996.0,
+      "Total Revenue": 40256388.0
+    },
+    "e": {
+      "Education": 7577375.0,
+      "Debt Service": 2911801.0,
+      "Human Services": 8705954.0,
+      "General Government": 4033960.0,
+      "Public Safety": 11422248.0,
+      "Other": 4008762.0,
+      "Total Expenditures": 38660100.0
+    },
+    "pr": {
+      "Property Taxes": 617.7603529,
+      "Other Taxes": 67.79485056,
+      "Sales Tax": 221.31602449,
+      "Sales & Services": 202.42193014,
+      "Intergovernmental": 318.20360101,
+      "Debt Proceeds": 0.56921138,
+      "Other Misc": 21.56989557,
+      "Total Revenue": 1449.63586604
+    },
+    "pe": {
+      "Education": 272.86190133,
+      "Debt Service": 104.85419517,
+      "Human Services": 313.50212459,
+      "General Government": 145.26323371,
+      "Public Safety": 411.31609651,
+      "Other": 144.35585164,
+      "Total Expenditures": 1392.15340295
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 16362511,
+      "pct": 0.4473305,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Chowan",
+    "pop": 14541,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 10678299.0,
+      "Other Taxes": 494429.0,
+      "Sales Tax": 2591890.0,
+      "Sales & Services": 4576940.0,
+      "Intergovernmental": 3279715.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 628894.0,
+      "Total Revenue": 22250167.0
+    },
+    "e": {
+      "Education": 4256536.0,
+      "Debt Service": 2303843.0,
+      "Human Services": 3118523.0,
+      "General Government": 3095748.0,
+      "Public Safety": 5470185.0,
+      "Other": 3534916.0,
+      "Total Expenditures": 21779751.0
+    },
+    "pr": {
+      "Property Taxes": 734.35795337,
+      "Other Taxes": 34.00240699,
+      "Sales Tax": 178.24702565,
+      "Sales & Services": 314.76102056,
+      "Intergovernmental": 225.54948078,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 43.24970772,
+      "Total Revenue": 1530.16759508
+    },
+    "pe": {
+      "Education": 292.72649749,
+      "Debt Service": 158.4377278,
+      "Human Services": 214.46413589,
+      "General Government": 212.89787497,
+      "Public Safety": 376.19042707,
+      "Other": 243.09992435,
+      "Total Expenditures": 1497.81658758
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 7450004,
+      "pct": 0.43072453,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Clay",
+    "pop": 11036,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7718113.0,
+      "Other Taxes": 633049.0,
+      "Sales Tax": 2002374.0,
+      "Sales & Services": 2605474.0,
+      "Intergovernmental": 4849668.0,
+      "Debt Proceeds": 234138.0,
+      "Other Misc": 509219.0,
+      "Total Revenue": 18552035.0
+    },
+    "e": {
+      "Education": 1750745.0,
+      "Debt Service": 1915418.0,
+      "Human Services": 5156061.0,
+      "General Government": 2905006.0,
+      "Public Safety": 4782631.0,
+      "Other": 2472009.0,
+      "Total Expenditures": 18981870.0
+    },
+    "pr": {
+      "Property Taxes": 699.35782892,
+      "Other Taxes": 57.36217833,
+      "Sales Tax": 181.44019572,
+      "Sales & Services": 236.08861906,
+      "Intergovernmental": 439.4407394,
+      "Debt Proceeds": 21.21583907,
+      "Other Misc": 46.1416274,
+      "Total Revenue": 1681.04702791
+    },
+    "pe": {
+      "Education": 158.6394527,
+      "Debt Service": 173.56089163,
+      "Human Services": 467.2037876,
+      "General Government": 263.22997463,
+      "Public Safety": 433.3663465,
+      "Other": 223.99501631,
+      "Total Expenditures": 1719.99546937
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 2735525,
+      "pct": 0.15499302,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Cleveland",
+    "pop": 97871,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 60146105.0,
+      "Other Taxes": 1113369.0,
+      "Sales Tax": 16882314.0,
+      "Sales & Services": 14768035.0,
+      "Intergovernmental": 30259046.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 3541548.0,
+      "Total Revenue": 126710417.0
+    },
+    "e": {
+      "Education": 30170441.0,
+      "Debt Service": 5074077.0,
+      "Human Services": 42101197.0,
+      "General Government": 10309305.0,
+      "Public Safety": 24628579.0,
+      "Other": 15588081.0,
+      "Total Expenditures": 127871680.0
+    },
+    "pr": {
+      "Property Taxes": 614.54470681,
+      "Other Taxes": 11.37588254,
+      "Sales Tax": 172.4955707,
+      "Sales & Services": 150.89285897,
+      "Intergovernmental": 309.1727478,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 36.18587733,
+      "Total Revenue": 1294.66764414
+    },
+    "pe": {
+      "Education": 308.26742345,
+      "Debt Service": 51.84454026,
+      "Human Services": 430.17029559,
+      "General Government": 105.3356459,
+      "Public Safety": 251.64327533,
+      "Other": 159.27170459,
+      "Total Expenditures": 1306.53288512
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 31066779,
+      "pct": 0.24136813,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Columbus",
+    "pop": 57206,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 29272549.0,
+      "Other Taxes": 3126318.0,
+      "Sales Tax": 7310062.0,
+      "Sales & Services": 9819939.0,
+      "Intergovernmental": 18604600.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1483048.0,
+      "Total Revenue": 69616516.0
+    },
+    "e": {
+      "Education": 13066857.0,
+      "Debt Service": 3340243.0,
+      "Human Services": 14454436.0,
+      "General Government": 5861886.0,
+      "Public Safety": 14392468.0,
+      "Other": 17331651.0,
+      "Total Expenditures": 68447541.0
+    },
+    "pr": {
+      "Property Taxes": 511.70417439,
+      "Other Taxes": 54.65017655,
+      "Sales Tax": 127.7848827,
+      "Sales & Services": 171.65924903,
+      "Intergovernmental": 325.22113065,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 25.92469321,
+      "Total Revenue": 1216.94430654
+    },
+    "pe": {
+      "Education": 228.41759606,
+      "Debt Service": 58.38973185,
+      "Human Services": 252.67342586,
+      "General Government": 102.4697759,
+      "Public Safety": 251.59018285,
+      "Other": 302.96911163,
+      "Total Expenditures": 1196.50982414
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 26936549,
+      "pct": 0.47141149,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Craven",
+    "pop": 103691,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 47177750.0,
+      "Other Taxes": 4130987.0,
+      "Sales Tax": 15112475.0,
+      "Sales & Services": 14443336.0,
+      "Intergovernmental": 28290185.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1827111.0,
+      "Total Revenue": 110981844.0
+    },
+    "e": {
+      "Education": 26108710.0,
+      "Debt Service": 8637940.0,
+      "Human Services": 30685466.0,
+      "General Government": 10213411.0,
+      "Public Safety": 17892625.0,
+      "Other": 30036944.0,
+      "Total Expenditures": 123575096.0
+    },
+    "pr": {
+      "Property Taxes": 454.98403912,
+      "Other Taxes": 39.83939783,
+      "Sales Tax": 145.7452913,
+      "Sales & Services": 139.292089,
+      "Intergovernmental": 272.83163438,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 17.6207289,
+      "Total Revenue": 1070.31318051
+    },
+    "pe": {
+      "Education": 251.79340541,
+      "Debt Service": 83.30462625,
+      "Human Services": 295.93181665,
+      "General Government": 98.49852928,
+      "Public Safety": 172.55716504,
+      "Other": 289.67744549,
+      "Total Expenditures": 1191.76298811
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 24403592,
+      "pct": 0.24142213,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Cumberland",
+    "pop": 328860,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 178461819.0,
+      "Other Taxes": 21986501.0,
+      "Sales Tax": 50951553.0,
+      "Sales & Services": 23000447.0,
+      "Intergovernmental": 85779180.0,
+      "Debt Proceeds": 1100000.0,
+      "Other Misc": 6959792.0,
+      "Total Revenue": 368239292.0
+    },
+    "e": {
+      "Education": 97090796.0,
+      "Debt Service": 25978618.0,
+      "Human Services": 101114646.0,
+      "General Government": 25956540.0,
+      "Public Safety": 63914908.0,
+      "Other": 42029581.0,
+      "Total Expenditures": 356085089.0
+    },
+    "pr": {
+      "Property Taxes": 542.6680624,
+      "Other Taxes": 66.85672018,
+      "Sales Tax": 154.93387156,
+      "Sales & Services": 69.93993493,
+      "Intergovernmental": 260.83798577,
+      "Debt Proceeds": 3.3448884,
+      "Other Misc": 21.16338868,
+      "Total Revenue": 1119.74485191
+    },
+    "pe": {
+      "Education": 295.23443411,
+      "Debt Service": 78.99598005,
+      "Human Services": 307.47018792,
+      "General Government": 78.9288451,
+      "Public Safety": 194.35294046,
+      "Other": 127.80387095,
+      "Total Expenditures": 1082.78625859
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 85486177,
+      "pct": 0.26219907,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Currituck",
+    "pop": 25627,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 29990595.0,
+      "Other Taxes": 15522726.0,
+      "Sales Tax": 9010236.0,
+      "Sales & Services": 14893831.0,
+      "Intergovernmental": 5571927.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 2953169.0,
+      "Total Revenue": 77942484.0
+    },
+    "e": {
+      "Education": 11078398.0,
+      "Debt Service": 5705920.0,
+      "Human Services": 4690255.0,
+      "General Government": 11393319.0,
+      "Public Safety": 20913322.0,
+      "Other": 22083485.0,
+      "Total Expenditures": 75864699.0
+    },
+    "pr": {
+      "Property Taxes": 1170.27334452,
+      "Other Taxes": 605.71764155,
+      "Sales Tax": 351.59152456,
+      "Sales & Services": 581.17731299,
+      "Intergovernmental": 217.42408397,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 115.23662543,
+      "Total Revenue": 3041.42053303
+    },
+    "pe": {
+      "Education": 432.29398681,
+      "Debt Service": 222.65267101,
+      "Human Services": 183.02005697,
+      "General Government": 444.5826277,
+      "Public Safety": 816.06594607,
+      "Other": 861.72727982,
+      "Total Expenditures": 2960.34256838
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 13401786,
+      "pct": 0.28402812,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Dare",
+    "pop": 36001,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 56008088.0,
+      "Other Taxes": 21730190.0,
+      "Sales Tax": 18069621.0,
+      "Sales & Services": 22755604.0,
+      "Intergovernmental": 11336262.0,
+      "Debt Proceeds": 18423036.0,
+      "Other Misc": 4020892.0,
+      "Total Revenue": 152343693.0
+    },
+    "e": {
+      "Education": 23025073.0,
+      "Debt Service": 21143191.0,
+      "Human Services": 16361976.0,
+      "General Government": 9415696.0,
+      "Public Safety": 29338079.0,
+      "Other": 29617330.0,
+      "Total Expenditures": 128901345.0
+    },
+    "pr": {
+      "Property Taxes": 1555.73700731,
+      "Other Taxes": 603.59962223,
+      "Sales Tax": 501.91997445,
+      "Sales & Services": 632.08255326,
+      "Intergovernmental": 314.88741979,
+      "Debt Proceeds": 511.73678509,
+      "Other Misc": 111.68834199,
+      "Total Revenue": 4231.65170412
+    },
+    "pe": {
+      "Education": 639.56759534,
+      "Debt Service": 587.29454737,
+      "Human Services": 454.4867087,
+      "General Government": 261.53984612,
+      "Public Safety": 814.92400211,
+      "Other": 822.68075887,
+      "Total Expenditures": 3580.49345852
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 21925614,
+      "pct": 0.22515614,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Davidson",
+    "pop": 165193,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 73857222.0,
+      "Other Taxes": 10958274.0,
+      "Sales Tax": 23907120.0,
+      "Sales & Services": 11503859.0,
+      "Intergovernmental": 28942680.0,
+      "Debt Proceeds": 53457278.0,
+      "Other Misc": 4945355.0,
+      "Total Revenue": 207571788.0
+    },
+    "e": {
+      "Education": 56329674.0,
+      "Debt Service": 14663346.0,
+      "Human Services": 31861201.0,
+      "General Government": 12095465.0,
+      "Public Safety": 34500609.0,
+      "Other": 15314077.0,
+      "Total Expenditures": 164764372.0
+    },
+    "pr": {
+      "Property Taxes": 447.09655978,
+      "Other Taxes": 66.33618858,
+      "Sales Tax": 144.72235506,
+      "Sales & Services": 69.63890116,
+      "Intergovernmental": 175.20524477,
+      "Debt Proceeds": 323.60498326,
+      "Other Misc": 29.93683146,
+      "Total Revenue": 1256.54106409
+    },
+    "pe": {
+      "Education": 340.99310503,
+      "Debt Service": 88.76493556,
+      "Human Services": 192.8725854,
+      "General Government": 73.22020304,
+      "Public Safety": 208.85030843,
+      "Other": 92.70415211,
+      "Total Expenditures": 997.40528957
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 51019348,
+      "pct": 0.38781085,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Davie",
+    "pop": 41743,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 33266394.0,
+      "Other Taxes": 596885.0,
+      "Sales Tax": 6438944.0,
+      "Sales & Services": 11219789.0,
+      "Intergovernmental": 9608672.0,
+      "Debt Proceeds": 4630000.0,
+      "Other Misc": 3006305.0,
+      "Total Revenue": 68766989.0
+    },
+    "e": {
+      "Education": 38549238.0,
+      "Debt Service": 6961008.0,
+      "Human Services": 10078252.0,
+      "General Government": 6170762.0,
+      "Public Safety": 17631846.0,
+      "Other": 11218052.0,
+      "Total Expenditures": 90609158.0
+    },
+    "pr": {
+      "Property Taxes": 796.93347388,
+      "Other Taxes": 14.29904415,
+      "Sales Tax": 154.25206621,
+      "Sales & Services": 268.78252641,
+      "Intergovernmental": 230.18642647,
+      "Debt Proceeds": 110.91680042,
+      "Other Misc": 72.01938049,
+      "Total Revenue": 1647.38971804
+    },
+    "pe": {
+      "Education": 923.48987854,
+      "Debt Service": 166.75869008,
+      "Human Services": 241.43573773,
+      "General Government": 147.82746808,
+      "Public Safety": 422.39048463,
+      "Other": 268.74091464,
+      "Total Expenditures": 2170.64317371
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 14981791,
+      "pct": 0.27446284,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Duplin",
+    "pop": 59868,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 29919281.0,
+      "Other Taxes": 1003463.0,
+      "Sales Tax": 8721257.0,
+      "Sales & Services": 13994135.0,
+      "Intergovernmental": 15472221.0,
+      "Debt Proceeds": 60514251.0,
+      "Other Misc": 1356414.0,
+      "Total Revenue": 130981022.0
+    },
+    "e": {
+      "Education": 17458221.0,
+      "Debt Service": 1176946.0,
+      "Human Services": 15707973.0,
+      "General Government": 5839119.0,
+      "Public Safety": 17929759.0,
+      "Other": 10620828.0,
+      "Total Expenditures": 68732846.0
+    },
+    "pr": {
+      "Property Taxes": 499.75414245,
+      "Other Taxes": 16.7612581,
+      "Sales Tax": 145.67476782,
+      "Sales & Services": 233.74983297,
+      "Intergovernmental": 258.43891561,
+      "Debt Proceeds": 1010.79459812,
+      "Other Misc": 22.65674484,
+      "Total Revenue": 2187.83025991
+    },
+    "pe": {
+      "Education": 291.61189617,
+      "Debt Service": 19.6590165,
+      "Human Services": 262.37677891,
+      "General Government": 97.53322309,
+      "Public Safety": 299.48819069,
+      "Other": 177.404089,
+      "Total Expenditures": 1148.07319436
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 13777786,
+      "pct": 0.25176837,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Durham",
+    "pop": 297219,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 259829869.0,
+      "Other Taxes": 13047272.0,
+      "Sales Tax": 74471794.0,
+      "Sales & Services": 38561787.0,
+      "Intergovernmental": 56674013.0,
+      "Debt Proceeds": 86511610.0,
+      "Other Misc": -62579202.0,
+      "Total Revenue": 466517143.0
+    },
+    "e": {
+      "Education": 144322104.0,
+      "Debt Service": 59384472.0,
+      "Human Services": 93140635.0,
+      "General Government": 57406120.0,
+      "Public Safety": 67148636.0,
+      "Other": 37251140.0,
+      "Total Expenditures": 458653107.0
+    },
+    "pr": {
+      "Property Taxes": 874.20342912,
+      "Other Taxes": 43.89783964,
+      "Sales Tax": 250.56202329,
+      "Sales & Services": 129.74199832,
+      "Intergovernmental": 190.68098944,
+      "Debt Proceeds": 291.07025459,
+      "Other Misc": -210.54913044,
+      "Total Revenue": 1569.60740397
+    },
+    "pe": {
+      "Education": 485.57495988,
+      "Debt Service": 199.80038961,
+      "Human Services": 313.37375807,
+      "General Government": 193.14417988,
+      "Public Safety": 225.92309375,
+      "Other": 125.33229706,
+      "Total Expenditures": 1543.14867825
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 146301297,
+      "pct": 0.3415217,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Edgecombe",
+    "pop": 54367,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 30198004.0,
+      "Other Taxes": 1283631.0,
+      "Sales Tax": 5362059.0,
+      "Sales & Services": 9082817.0,
+      "Intergovernmental": 17826411.0,
+      "Debt Proceeds": 84038.0,
+      "Other Misc": 4193444.0,
+      "Total Revenue": 68030404.0
+    },
+    "e": {
+      "Education": 12022004.0,
+      "Debt Service": 5606889.0,
+      "Human Services": 19495887.0,
+      "General Government": 6187589.0,
+      "Public Safety": 12714716.0,
+      "Other": 12028666.0,
+      "Total Expenditures": 68055751.0
+    },
+    "pr": {
+      "Property Taxes": 555.44731179,
+      "Other Taxes": 23.61048062,
+      "Sales Tax": 98.62708996,
+      "Sales & Services": 167.06489231,
+      "Intergovernmental": 327.89028271,
+      "Debt Proceeds": 1.54575386,
+      "Other Misc": 77.13215737,
+      "Total Revenue": 1251.31796862
+    },
+    "pe": {
+      "Education": 221.12686004,
+      "Debt Service": 103.1303732,
+      "Human Services": 358.59780749,
+      "General Government": 113.81148491,
+      "Public Safety": 233.86826568,
+      "Other": 221.24939761,
+      "Total Expenditures": 1251.78418894
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 12637080,
+      "pct": 0.21273427,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Forsyth",
+    "pop": 366543,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 249097205.0,
+      "Other Taxes": 3464403.0,
+      "Sales Tax": 61889139.0,
+      "Sales & Services": 22849715.0,
+      "Intergovernmental": 62415047.0,
+      "Debt Proceeds": 119600.0,
+      "Other Misc": 6478560.0,
+      "Total Revenue": 406313669.0
+    },
+    "e": {
+      "Education": 135157216.0,
+      "Debt Service": 60698151.0,
+      "Human Services": 78632886.0,
+      "General Government": 36167458.0,
+      "Public Safety": 78816733.0,
+      "Other": 32318500.0,
+      "Total Expenditures": 421790944.0
+    },
+    "pr": {
+      "Property Taxes": 679.5852192,
+      "Other Taxes": 9.45155957,
+      "Sales Tax": 168.84550789,
+      "Sales & Services": 62.3384296,
+      "Intergovernmental": 170.28028635,
+      "Debt Proceeds": 0.32629187,
+      "Other Misc": 17.67476121,
+      "Total Revenue": 1108.50205569
+    },
+    "pe": {
+      "Education": 368.73495333,
+      "Debt Service": 165.59626292,
+      "Human Services": 214.52567912,
+      "General Government": 98.67180113,
+      "Public Safety": 215.02724919,
+      "Other": 88.17110134,
+      "Total Expenditures": 1150.72704703
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 116679885,
+      "pct": 0.29398965,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Franklin",
+    "pop": 64206,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 42337741.0,
+      "Other Taxes": 3902980.0,
+      "Sales Tax": 9838229.0,
+      "Sales & Services": 22683081.0,
+      "Intergovernmental": 16737902.0,
+      "Debt Proceeds": 1666463.0,
+      "Other Misc": 492963.0,
+      "Total Revenue": 97659359.0
+    },
+    "e": {
+      "Education": 15962007.0,
+      "Debt Service": 13564079.0,
+      "Human Services": 18018799.0,
+      "General Government": 5381817.0,
+      "Public Safety": 22330397.0,
+      "Other": 16124312.0,
+      "Total Expenditures": 91381411.0
+    },
+    "pr": {
+      "Property Taxes": 659.4047441,
+      "Other Taxes": 60.78839984,
+      "Sales Tax": 153.22912189,
+      "Sales & Services": 353.28600131,
+      "Intergovernmental": 260.69062081,
+      "Debt Proceeds": 25.95494191,
+      "Other Misc": 7.67783385,
+      "Total Revenue": 1521.03166371
+    },
+    "pe": {
+      "Education": 248.6061583,
+      "Debt Service": 211.25874529,
+      "Human Services": 280.64042301,
+      "General Government": 83.82109149,
+      "Public Safety": 347.79299442,
+      "Other": 251.13403732,
+      "Total Expenditures": 1423.25344983
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 19213077,
+      "pct": 0.26778,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Gaston",
+    "pop": 212636,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 135153806.0,
+      "Other Taxes": 7017218.0,
+      "Sales Tax": 32979692.0,
+      "Sales & Services": 18642063.0,
+      "Intergovernmental": 49402559.0,
+      "Debt Proceeds": 57984328.0,
+      "Other Misc": 5298859.0,
+      "Total Revenue": 306478525.0
+    },
+    "e": {
+      "Education": 62415878.0,
+      "Debt Service": 25862321.0,
+      "Human Services": 61931747.0,
+      "General Government": 25033941.0,
+      "Public Safety": 62299230.0,
+      "Other": 20222732.0,
+      "Total Expenditures": 257765849.0
+    },
+    "pr": {
+      "Property Taxes": 635.61111947,
+      "Other Taxes": 33.00108166,
+      "Sales Tax": 155.09928704,
+      "Sales & Services": 87.6712457,
+      "Intergovernmental": 232.33393687,
+      "Debt Proceeds": 272.69290242,
+      "Other Misc": 24.91985835,
+      "Total Revenue": 1441.32943152
+    },
+    "pe": {
+      "Education": 293.53391712,
+      "Debt Service": 121.62719859,
+      "Human Services": 291.25711074,
+      "General Government": 117.73143306,
+      "Public Safety": 292.98533644,
+      "Other": 95.10493049,
+      "Total Expenditures": 1212.23992645
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 54875685,
+      "pct": 0.21561514,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Gates",
+    "pop": 11739,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 6324989.0,
+      "Other Taxes": 62082.0,
+      "Sales Tax": 1514031.0,
+      "Sales & Services": 2302570.0,
+      "Intergovernmental": 3182635.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 178740.0,
+      "Total Revenue": 13565047.0
+    },
+    "e": {
+      "Education": 2914000.0,
+      "Debt Service": 972113.0,
+      "Human Services": 2005642.0,
+      "General Government": 1691106.0,
+      "Public Safety": 1942308.0,
+      "Other": 3143753.0,
+      "Total Expenditures": 12668922.0
+    },
+    "pr": {
+      "Property Taxes": 538.80134594,
+      "Other Taxes": 5.28852543,
+      "Sales Tax": 128.97444416,
+      "Sales & Services": 196.14703126,
+      "Intergovernmental": 271.11636426,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 15.22616918,
+      "Total Revenue": 1155.55388023
+    },
+    "pe": {
+      "Education": 248.23238777,
+      "Debt Service": 82.81054604,
+      "Human Services": 170.85288355,
+      "General Government": 144.05877843,
+      "Public Safety": 165.45770509,
+      "Other": 267.80415708,
+      "Total Expenditures": 1079.21645796
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 3230412,
+      "pct": 0.29472093,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Graham",
+    "pop": 8761,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 6161018.0,
+      "Other Taxes": 523036.0,
+      "Sales Tax": 1551642.0,
+      "Sales & Services": 1248576.0,
+      "Intergovernmental": 5387716.0,
+      "Debt Proceeds": 544383.0,
+      "Other Misc": 276979.0,
+      "Total Revenue": 15693350.0
+    },
+    "e": {
+      "Education": 858978.0,
+      "Debt Service": 872001.0,
+      "Human Services": 3728179.0,
+      "General Government": 4064256.0,
+      "Public Safety": 4024935.0,
+      "Other": 1833683.0,
+      "Total Expenditures": 15382032.0
+    },
+    "pr": {
+      "Property Taxes": 703.23227942,
+      "Other Taxes": 59.70049081,
+      "Sales Tax": 177.1078644,
+      "Sales & Services": 142.51523799,
+      "Intergovernmental": 614.96587148,
+      "Debt Proceeds": 62.13708481,
+      "Other Misc": 31.61499829,
+      "Total Revenue": 1791.27382719
+    },
+    "pe": {
+      "Education": 98.04565689,
+      "Debt Service": 99.53213104,
+      "Human Services": 425.54263212,
+      "General Government": 463.9032074,
+      "Public Safety": 459.41502112,
+      "Other": 209.30065061,
+      "Total Expenditures": 1755.73929917
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 5423049,
+      "pct": 0.37077817,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Granville",
+    "pop": 58547,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 36419897.0,
+      "Other Taxes": 490564.0,
+      "Sales Tax": 6322373.0,
+      "Sales & Services": 5251952.0,
+      "Intergovernmental": 9850174.0,
+      "Debt Proceeds": 75302.0,
+      "Other Misc": 2134820.0,
+      "Total Revenue": 60545082.0
+    },
+    "e": {
+      "Education": 18380346.0,
+      "Debt Service": 9479742.0,
+      "Human Services": 10883180.0,
+      "General Government": 5963871.0,
+      "Public Safety": 11170117.0,
+      "Other": 7956985.0,
+      "Total Expenditures": 63834241.0
+    },
+    "pr": {
+      "Property Taxes": 622.06256512,
+      "Other Taxes": 8.37897757,
+      "Sales Tax": 107.98799255,
+      "Sales & Services": 89.70488667,
+      "Intergovernmental": 168.24387244,
+      "Debt Proceeds": 1.28618033,
+      "Other Misc": 36.46335423,
+      "Total Revenue": 1034.12782892
+    },
+    "pe": {
+      "Education": 313.94172204,
+      "Debt Service": 161.91678481,
+      "Human Services": 185.88791911,
+      "General Government": 101.86467283,
+      "Public Safety": 190.78888756,
+      "Other": 135.90764685,
+      "Total Expenditures": 1090.30763318
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 35902420,
+      "pct": 0.65267439,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Guilford",
+    "pop": 517124,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 361630981.0,
+      "Other Taxes": 23858553.0,
+      "Sales Tax": 83280909.0,
+      "Sales & Services": 18083463.0,
+      "Intergovernmental": 102364983.0,
+      "Debt Proceeds": 22630380.0,
+      "Other Misc": 9474202.0,
+      "Total Revenue": 621323471.0
+    },
+    "e": {
+      "Education": 223217110.0,
+      "Debt Service": 84985642.0,
+      "Human Services": 127184012.0,
+      "General Government": 37638360.0,
+      "Public Safety": 123327083.0,
+      "Other": 21641076.0,
+      "Total Expenditures": 617993283.0
+    },
+    "pr": {
+      "Property Taxes": 699.31192712,
+      "Other Taxes": 46.13700582,
+      "Sales Tax": 161.04630417,
+      "Sales & Services": 34.9692975,
+      "Intergovernmental": 197.95055538,
+      "Debt Proceeds": 43.76199906,
+      "Other Misc": 18.32094817,
+      "Total Revenue": 1201.49803722
+    },
+    "pe": {
+      "Education": 431.65103534,
+      "Debt Service": 164.34286941,
+      "Human Services": 245.94490296,
+      "General Government": 72.78401312,
+      "Public Safety": 238.486481,
+      "Other": 41.84891051,
+      "Total Expenditures": 1195.05821234
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 118057639,
+      "pct": 0.2064441,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Halifax",
+    "pop": 52423,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 29288453.0,
+      "Other Taxes": 941784.0,
+      "Sales Tax": 7961262.0,
+      "Sales & Services": 14910591.0,
+      "Intergovernmental": 19513179.0,
+      "Debt Proceeds": 18036030.0,
+      "Other Misc": 2016281.0,
+      "Total Revenue": 92667580.0
+    },
+    "e": {
+      "Education": 13339997.0,
+      "Debt Service": 4709816.0,
+      "Human Services": 21756228.0,
+      "General Government": 7161747.0,
+      "Public Safety": 21174288.0,
+      "Other": 11377093.0,
+      "Total Expenditures": 79519169.0
+    },
+    "pr": {
+      "Property Taxes": 558.69471415,
+      "Other Taxes": 17.96509166,
+      "Sales Tax": 151.86582225,
+      "Sales & Services": 284.42841882,
+      "Intergovernmental": 372.22553078,
+      "Debt Proceeds": 344.04803235,
+      "Other Misc": 38.46176297,
+      "Total Revenue": 1767.68937299
+    },
+    "pe": {
+      "Education": 254.46840127,
+      "Debt Service": 89.84255003,
+      "Human Services": 415.01302863,
+      "General Government": 136.61459665,
+      "Public Safety": 403.91217595,
+      "Other": 217.02483643,
+      "Total Expenditures": 1516.87558896
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 16099911,
+      "pct": 0.28218174,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Harnett",
+    "pop": 127127,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 61273129.0,
+      "Other Taxes": 8335481.0,
+      "Sales Tax": 22680698.0,
+      "Sales & Services": 52267950.0,
+      "Intergovernmental": 24544670.0,
+      "Debt Proceeds": 840110.0,
+      "Other Misc": 11339365.0,
+      "Total Revenue": 181281403.0
+    },
+    "e": {
+      "Education": 27328710.0,
+      "Debt Service": 20954549.0,
+      "Human Services": 28000704.0,
+      "General Government": 12680492.0,
+      "Public Safety": 36887040.0,
+      "Other": 27851665.0,
+      "Total Expenditures": 153703160.0
+    },
+    "pr": {
+      "Property Taxes": 481.98359908,
+      "Other Taxes": 65.56814052,
+      "Sales Tax": 178.40976346,
+      "Sales & Services": 411.1475139,
+      "Intergovernmental": 193.07204606,
+      "Debt Proceeds": 6.60843094,
+      "Other Misc": 89.19714144,
+      "Total Revenue": 1425.98663541
+    },
+    "pe": {
+      "Education": 214.97172119,
+      "Debt Service": 164.8316172,
+      "Human Services": 220.25772653,
+      "General Government": 99.74664705,
+      "Public Safety": 290.15897488,
+      "Other": 219.08536346,
+      "Total Expenditures": 1209.05205031
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 26311973,
+      "pct": 0.23552571,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Haywood",
+    "pop": 60631,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 42206210.0,
+      "Other Taxes": 6637963.0,
+      "Sales Tax": 13463292.0,
+      "Sales & Services": 9887818.0,
+      "Intergovernmental": 16492230.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1043425.0,
+      "Total Revenue": 89730938.0
+    },
+    "e": {
+      "Education": 19118901.0,
+      "Debt Service": 7633908.0,
+      "Human Services": 19745200.0,
+      "General Government": 9137103.0,
+      "Public Safety": 21503230.0,
+      "Other": 8973130.0,
+      "Total Expenditures": 86111472.0
+    },
+    "pr": {
+      "Property Taxes": 696.11601326,
+      "Other Taxes": 109.48133793,
+      "Sales Tax": 222.05294321,
+      "Sales & Services": 163.0818888,
+      "Intergovernmental": 272.00986294,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 17.20943082,
+      "Total Revenue": 1479.95147697
+    },
+    "pe": {
+      "Education": 315.33210734,
+      "Debt Service": 125.90767099,
+      "Human Services": 325.66179017,
+      "General Government": 150.70018637,
+      "Public Safety": 354.6573535,
+      "Other": 147.99574475,
+      "Total Expenditures": 1420.25485313
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 19831737,
+      "pct": 0.26779595,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Henderson",
+    "pop": 112511,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 68416218.0,
+      "Other Taxes": 9764781.0,
+      "Sales Tax": 21931621.0,
+      "Sales & Services": 14366215.0,
+      "Intergovernmental": 23297434.0,
+      "Debt Proceeds": 29461955.0,
+      "Other Misc": 4297244.0,
+      "Total Revenue": 171535468.0
+    },
+    "e": {
+      "Education": 28845578.0,
+      "Debt Service": 14549023.0,
+      "Human Services": 49079210.0,
+      "General Government": 14852954.0,
+      "Public Safety": 36357463.0,
+      "Other": 15606670.0,
+      "Total Expenditures": 159290898.0
+    },
+    "pr": {
+      "Property Taxes": 608.08470283,
+      "Other Taxes": 86.78956724,
+      "Sales Tax": 194.92868253,
+      "Sales & Services": 127.68720392,
+      "Intergovernmental": 207.06805557,
+      "Debt Proceeds": 261.85844051,
+      "Other Misc": 38.19398992,
+      "Total Revenue": 1524.61064251
+    },
+    "pe": {
+      "Education": 256.3800695,
+      "Debt Service": 129.31200505,
+      "Human Services": 436.21699212,
+      "General Government": 132.01334981,
+      "Public Safety": 323.14585241,
+      "Other": 138.71239257,
+      "Total Expenditures": 1415.78066145
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 35361323,
+      "pct": 0.2980531,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Hertford",
+    "pop": 24426,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 13721209.0,
+      "Other Taxes": 55895.0,
+      "Sales Tax": 4150925.0,
+      "Sales & Services": 7143885.0,
+      "Intergovernmental": 5479599.0,
+      "Debt Proceeds": 2855613.0,
+      "Other Misc": 159220.0,
+      "Total Revenue": 33566346.0
+    },
+    "e": {
+      "Education": 6316246.0,
+      "Debt Service": 1630454.0,
+      "Human Services": 6962579.0,
+      "General Government": 3844689.0,
+      "Public Safety": 9999402.0,
+      "Other": 2641080.0,
+      "Total Expenditures": 31394450.0
+    },
+    "pr": {
+      "Property Taxes": 561.74604929,
+      "Other Taxes": 2.28834029,
+      "Sales Tax": 169.93879473,
+      "Sales & Services": 292.47052321,
+      "Intergovernmental": 224.33468435,
+      "Debt Proceeds": 116.90874478,
+      "Other Misc": 6.51846393,
+      "Total Revenue": 1374.20560059
+    },
+    "pe": {
+      "Education": 258.58699746,
+      "Debt Service": 66.75075739,
+      "Human Services": 285.04785884,
+      "General Government": 157.4014984,
+      "Public Safety": 409.37533775,
+      "Other": 108.12576762,
+      "Total Expenditures": 1285.28821747
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 8606866,
+      "pct": 0.34327308,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Hyde",
+    "pop": 5631,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7459654.0,
+      "Other Taxes": 610266.0,
+      "Sales Tax": 1232610.0,
+      "Sales & Services": 2370925.0,
+      "Intergovernmental": 2855064.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 256723.0,
+      "Total Revenue": 14785242.0
+    },
+    "e": {
+      "Education": 1813600.0,
+      "Debt Service": 715687.0,
+      "Human Services": 3190213.0,
+      "General Government": 2242653.0,
+      "Public Safety": 3484462.0,
+      "Other": 3246036.0,
+      "Total Expenditures": 14692651.0
+    },
+    "pr": {
+      "Property Taxes": 1324.74764695,
+      "Other Taxes": 108.37613213,
+      "Sales Tax": 218.89717635,
+      "Sales & Services": 421.04865921,
+      "Intergovernmental": 507.02610549,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 45.59101403,
+      "Total Revenue": 2625.68673415
+    },
+    "pe": {
+      "Education": 322.07423193,
+      "Debt Service": 127.09767359,
+      "Human Services": 566.54466347,
+      "General Government": 398.26904635,
+      "Public Safety": 618.79985793,
+      "Other": 576.45817794,
+      "Total Expenditures": 2609.24365122
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 5713266,
+      "pct": 0.46493142,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Iredell",
+    "pop": 170230,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 123661552.0,
+      "Other Taxes": 1923515.0,
+      "Sales Tax": 32596642.0,
+      "Sales & Services": 26428872.0,
+      "Intergovernmental": 24769585.0,
+      "Debt Proceeds": 40199026.0,
+      "Other Misc": 2985317.0,
+      "Total Revenue": 252564509.0
+    },
+    "e": {
+      "Education": 81863473.0,
+      "Debt Service": 26735044.0,
+      "Human Services": 32230565.0,
+      "General Government": 14201782.0,
+      "Public Safety": 48348824.0,
+      "Other": 13678309.0,
+      "Total Expenditures": 217057997.0
+    },
+    "pr": {
+      "Property Taxes": 726.43806615,
+      "Other Taxes": 11.29950655,
+      "Sales Tax": 191.4858838,
+      "Sales & Services": 155.25390354,
+      "Intergovernmental": 145.50657933,
+      "Debt Proceeds": 236.14536803,
+      "Other Misc": 17.53696176,
+      "Total Revenue": 1483.66626917
+    },
+    "pe": {
+      "Education": 480.89921283,
+      "Debt Service": 157.05248194,
+      "Human Services": 189.33539917,
+      "General Government": 83.42702226,
+      "Public Safety": 284.02058392,
+      "Other": 80.35192974,
+      "Total Expenditures": 1275.08662985
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 59823711,
+      "pct": 0.34445425,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Jackson",
+    "pop": 41597,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 33697848.0,
+      "Other Taxes": 69034.0,
+      "Sales Tax": 10348730.0,
+      "Sales & Services": 6185495.0,
+      "Intergovernmental": 13052966.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 913753.0,
+      "Total Revenue": 64267826.0
+    },
+    "e": {
+      "Education": 12284462.0,
+      "Debt Service": 4222713.0,
+      "Human Services": 13483916.0,
+      "General Government": 8733867.0,
+      "Public Safety": 12979988.0,
+      "Other": 9789055.0,
+      "Total Expenditures": 61494001.0
+    },
+    "pr": {
+      "Property Taxes": 810.10284396,
+      "Other Taxes": 1.65959084,
+      "Sales Tax": 248.78548934,
+      "Sales & Services": 148.70050725,
+      "Intergovernmental": 313.79585066,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 21.96680049,
+      "Total Revenue": 1545.01108253
+    },
+    "pe": {
+      "Education": 295.32086449,
+      "Debt Service": 101.51484482,
+      "Human Services": 324.15597279,
+      "General Government": 209.96386759,
+      "Public Safety": 312.0414453,
+      "Other": 235.33079309,
+      "Total Expenditures": 1478.32778806
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 24985866,
+      "pct": 0.43318709,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Johnston",
+    "pop": 184519,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 118846910.0,
+      "Other Taxes": 8800021.0,
+      "Sales Tax": 32897998.0,
+      "Sales & Services": 53938390.0,
+      "Intergovernmental": 43191976.0,
+      "Debt Proceeds": 31012062.0,
+      "Other Misc": 11500775.0,
+      "Total Revenue": 300188132.0
+    },
+    "e": {
+      "Education": 69557718.0,
+      "Debt Service": 49780815.0,
+      "Human Services": 43940731.0,
+      "General Government": 17259015.0,
+      "Public Safety": 45257119.0,
+      "Other": 39651930.0,
+      "Total Expenditures": 265447328.0
+    },
+    "pr": {
+      "Property Taxes": 644.09036468,
+      "Other Taxes": 47.69167945,
+      "Sales Tax": 178.2905717,
+      "Sales & Services": 292.31889399,
+      "Intergovernmental": 234.07874528,
+      "Debt Proceeds": 168.06974891,
+      "Other Misc": 62.3284052,
+      "Total Revenue": 1626.86840922
+    },
+    "pe": {
+      "Education": 376.9677811,
+      "Debt Service": 269.78693251,
+      "Human Services": 238.13662008,
+      "General Government": 93.5351644,
+      "Public Safety": 245.2707797,
+      "Other": 214.8934798,
+      "Total Expenditures": 1438.59075759
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 46334369,
+      "pct": 0.23192652,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Jones",
+    "pop": 10423,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 6581392.0,
+      "Other Taxes": 186251.0,
+      "Sales Tax": 1115949.0,
+      "Sales & Services": 1013985.0,
+      "Intergovernmental": 16371402.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 260013.0,
+      "Total Revenue": 25528992.0
+    },
+    "e": {
+      "Education": 2300983.0,
+      "Debt Service": 680262.0,
+      "Human Services": 3814852.0,
+      "General Government": 2222476.0,
+      "Public Safety": 3645025.0,
+      "Other": 3752902.0,
+      "Total Expenditures": 16416500.0
+    },
+    "pr": {
+      "Property Taxes": 631.42972273,
+      "Other Taxes": 17.86923151,
+      "Sales Tax": 107.06600787,
+      "Sales & Services": 97.28341169,
+      "Intergovernmental": 1570.69960664,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 24.94608078,
+      "Total Revenue": 2449.29406121
+    },
+    "pe": {
+      "Education": 220.76014583,
+      "Debt Service": 65.26547059,
+      "Human Services": 366.00326202,
+      "General Government": 213.22805334,
+      "Public Safety": 349.70977646,
+      "Other": 360.05967572,
+      "Total Expenditures": 1575.02638396
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 4838951,
+      "pct": 0.33861366,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Lee",
+    "pop": 58908,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 40915709.0,
+      "Other Taxes": 3242273.0,
+      "Sales Tax": 12221875.0,
+      "Sales & Services": 3867666.0,
+      "Intergovernmental": 11867318.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 843926.0,
+      "Total Revenue": 72958767.0
+    },
+    "e": {
+      "Education": 23319077.0,
+      "Debt Service": 7896891.0,
+      "Human Services": 14045660.0,
+      "General Government": 8940881.0,
+      "Public Safety": 12574255.0,
+      "Other": 5804087.0,
+      "Total Expenditures": 72580851.0
+    },
+    "pr": {
+      "Property Taxes": 694.56965098,
+      "Other Taxes": 55.03960413,
+      "Sales Tax": 207.47394242,
+      "Sales & Services": 65.65603993,
+      "Intergovernmental": 201.45511645,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 14.32616962,
+      "Total Revenue": 1238.52052353
+    },
+    "pe": {
+      "Education": 395.85585999,
+      "Debt Service": 134.05464453,
+      "Human Services": 238.43382902,
+      "General Government": 151.77702519,
+      "Public Safety": 213.45581245,
+      "Other": 98.5279928,
+      "Total Expenditures": 1232.10516398
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 12174105,
+      "pct": 0.17923998,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Lenoir",
+    "pop": 58338,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 36208891.0,
+      "Other Taxes": 451359.0,
+      "Sales Tax": 9046541.0,
+      "Sales & Services": 7098623.0,
+      "Intergovernmental": 15482554.0,
+      "Debt Proceeds": -122900.0,
+      "Other Misc": 1132654.0,
+      "Total Revenue": 69297722.0
+    },
+    "e": {
+      "Education": 12989728.0,
+      "Debt Service": 7763293.0,
+      "Human Services": 17003827.0,
+      "General Government": 6881887.0,
+      "Public Safety": 17065718.0,
+      "Other": 6067140.0,
+      "Total Expenditures": 67771593.0
+    },
+    "pr": {
+      "Property Taxes": 620.67419178,
+      "Other Taxes": 7.7369639,
+      "Sales Tax": 155.07115431,
+      "Sales & Services": 121.68094552,
+      "Intergovernmental": 265.39397991,
+      "Debt Proceeds": -2.10668861,
+      "Other Misc": 19.41537248,
+      "Total Revenue": 1187.8659193
+    },
+    "pe": {
+      "Education": 222.66323837,
+      "Debt Service": 133.07437691,
+      "Human Services": 291.47085947,
+      "General Government": 117.96576845,
+      "Public Safety": 292.53176317,
+      "Other": 103.9997943,
+      "Total Expenditures": 1161.70580068
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 22240920,
+      "pct": 0.34754614,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Lincoln",
+    "pop": 81397,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 59103531.0,
+      "Other Taxes": 2169384.0,
+      "Sales Tax": 14860292.0,
+      "Sales & Services": 20807492.0,
+      "Intergovernmental": 15211148.0,
+      "Debt Proceeds": 102934.0,
+      "Other Misc": 8740879.0,
+      "Total Revenue": 120995660.0
+    },
+    "e": {
+      "Education": 19427958.0,
+      "Debt Service": 12884248.0,
+      "Human Services": 19162102.0,
+      "General Government": 10319572.0,
+      "Public Safety": 30568246.0,
+      "Other": 14953306.0,
+      "Total Expenditures": 107315432.0
+    },
+    "pr": {
+      "Property Taxes": 726.11436539,
+      "Other Taxes": 26.65189135,
+      "Sales Tax": 182.56559824,
+      "Sales & Services": 255.62971608,
+      "Intergovernmental": 186.87602737,
+      "Debt Proceeds": 1.26459206,
+      "Other Misc": 107.3857636,
+      "Total Revenue": 1486.4879541
+    },
+    "pe": {
+      "Education": 238.68149932,
+      "Debt Service": 158.28897871,
+      "Human Services": 235.41533472,
+      "General Government": 126.7807413,
+      "Public Safety": 375.54511837,
+      "Other": 183.70831849,
+      "Total Expenditures": 1318.41999091
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 26089936,
+      "pct": 0.29566296,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Macon",
+    "pop": 34771,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 28070448.0,
+      "Other Taxes": 4090844.0,
+      "Sales Tax": 8628868.0,
+      "Sales & Services": 7602135.0,
+      "Intergovernmental": 11797761.0,
+      "Debt Proceeds": 2985878.0,
+      "Other Misc": 344883.0,
+      "Total Revenue": 63520817.0
+    },
+    "e": {
+      "Education": 11416007.0,
+      "Debt Service": 4432868.0,
+      "Human Services": 11521443.0,
+      "General Government": 6990415.0,
+      "Public Safety": 15052945.0,
+      "Other": 9262473.0,
+      "Total Expenditures": 58676151.0
+    },
+    "pr": {
+      "Property Taxes": 807.29481464,
+      "Other Taxes": 117.65103103,
+      "Sales Tax": 248.16277933,
+      "Sales & Services": 218.63435046,
+      "Intergovernmental": 339.29886975,
+      "Debt Proceeds": 85.8726525,
+      "Other Misc": 9.91869661,
+      "Total Revenue": 1826.83319433
+    },
+    "pe": {
+      "Education": 328.31977798,
+      "Debt Service": 127.48750395,
+      "Human Services": 331.35207501,
+      "General Government": 201.04152886,
+      "Public Safety": 432.91665468,
+      "Other": 266.38500475,
+      "Total Expenditures": 1687.50254522
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 21885857,
+      "pct": 0.48308904,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Madison",
+    "pop": 21663,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 10692435.0,
+      "Other Taxes": 1669845.0,
+      "Sales Tax": 2636090.0,
+      "Sales & Services": 3356689.0,
+      "Intergovernmental": 7486083.0,
+      "Debt Proceeds": 6445000.0,
+      "Other Misc": 206014.0,
+      "Total Revenue": 32492156.0
+    },
+    "e": {
+      "Education": 4488098.0,
+      "Debt Service": 749971.0,
+      "Human Services": 9081607.0,
+      "General Government": 2075956.0,
+      "Public Safety": 6783108.0,
+      "Other": 3795529.0,
+      "Total Expenditures": 26974269.0
+    },
+    "pr": {
+      "Property Taxes": 493.58052901,
+      "Other Taxes": 77.08281401,
+      "Sales Tax": 121.68628537,
+      "Sales & Services": 154.95033006,
+      "Intergovernmental": 345.57000415,
+      "Debt Proceeds": 297.51188663,
+      "Other Misc": 9.50994784,
+      "Total Revenue": 1499.89179707
+    },
+    "pe": {
+      "Education": 207.17804552,
+      "Debt Service": 34.61990491,
+      "Human Services": 419.22203758,
+      "General Government": 95.82957116,
+      "Public Safety": 313.11951253,
+      "Other": 175.20791211,
+      "Total Expenditures": 1245.1769838
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 3830247,
+      "pct": 0.174505,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Martin",
+    "pop": 23746,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 14872159.0,
+      "Other Taxes": 367004.0,
+      "Sales Tax": 4248663.0,
+      "Sales & Services": 4659349.0,
+      "Intergovernmental": 8198997.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1222963.0,
+      "Total Revenue": 33569135.0
+    },
+    "e": {
+      "Education": 7076879.0,
+      "Debt Service": 1310457.0,
+      "Human Services": 6791664.0,
+      "General Government": 3006132.0,
+      "Public Safety": 6384364.0,
+      "Other": 6852973.0,
+      "Total Expenditures": 31422469.0
+    },
+    "pr": {
+      "Property Taxes": 626.3016508,
+      "Other Taxes": 15.45540302,
+      "Sales Tax": 178.92120778,
+      "Sales & Services": 196.21616272,
+      "Intergovernmental": 345.27907858,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 51.50185294,
+      "Total Revenue": 1413.67535585
+    },
+    "pe": {
+      "Education": 298.02404616,
+      "Debt Service": 55.1864314,
+      "Human Services": 286.01297061,
+      "General Government": 126.59530026,
+      "Public Safety": 268.8606081,
+      "Other": 288.59483703,
+      "Total Expenditures": 1323.27419355
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 9068577,
+      "pct": 0.32288834,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "McDowell",
+    "pop": 45370,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 22665528.0,
+      "Other Taxes": 934194.0,
+      "Sales Tax": 8210502.0,
+      "Sales & Services": 6766444.0,
+      "Intergovernmental": 9654487.0,
+      "Debt Proceeds": 490003.0,
+      "Other Misc": 1637933.0,
+      "Total Revenue": 50359091.0
+    },
+    "e": {
+      "Education": 10658059.0,
+      "Debt Service": 2753285.0,
+      "Human Services": 11637272.0,
+      "General Government": 6112491.0,
+      "Public Safety": 14898972.0,
+      "Other": 5489456.0,
+      "Total Expenditures": 51549535.0
+    },
+    "pr": {
+      "Property Taxes": 499.57081772,
+      "Other Taxes": 20.59056645,
+      "Sales Tax": 180.96764382,
+      "Sales & Services": 149.13916685,
+      "Intergovernmental": 212.79451179,
+      "Debt Proceeds": 10.80015429,
+      "Other Misc": 36.10167512,
+      "Total Revenue": 1109.96453604
+    },
+    "pe": {
+      "Education": 234.91423848,
+      "Debt Service": 60.68514437,
+      "Human Services": 256.49706855,
+      "General Government": 134.72539123,
+      "Public Safety": 328.38818603,
+      "Other": 120.99307913,
+      "Total Expenditures": 1136.20310778
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 9865277,
+      "pct": 0.24095793,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Mecklenburg",
+    "pop": 1035605,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 999360965.0,
+      "Other Taxes": 42883400.0,
+      "Sales Tax": 272425706.0,
+      "Sales & Services": 101239223.0,
+      "Intergovernmental": 173116375.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 33414022.0,
+      "Total Revenue": 1622439691.0
+    },
+    "e": {
+      "Education": 556854298.0,
+      "Debt Service": 231472406.0,
+      "Human Services": 277277834.0,
+      "General Government": 176087296.0,
+      "Public Safety": 172720878.0,
+      "Other": 257998544.0,
+      "Total Expenditures": 1672411256.0
+    },
+    "pr": {
+      "Property Taxes": 965.00206642,
+      "Other Taxes": 41.40903144,
+      "Sales Tax": 263.05947345,
+      "Sales & Services": 97.75853052,
+      "Intergovernmental": 167.16448356,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 32.26521888,
+      "Total Revenue": 1566.65880427
+    },
+    "pe": {
+      "Education": 537.70916324,
+      "Debt Service": 223.5141835,
+      "Human Services": 267.74478107,
+      "General Government": 170.03326172,
+      "Public Safety": 166.78258409,
+      "Other": 249.12832982,
+      "Total Expenditures": 1614.91230344
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 390415200,
+      "pct": 0.33099312,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Mitchell",
+    "pop": 15335,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 9445640.0,
+      "Other Taxes": 1167342.0,
+      "Sales Tax": 3015565.0,
+      "Sales & Services": 2195399.0,
+      "Intergovernmental": 4004788.0,
+      "Debt Proceeds": 274780.0,
+      "Other Misc": 105067.0,
+      "Total Revenue": 20208581.0
+    },
+    "e": {
+      "Education": 3202389.0,
+      "Debt Service": 234053.0,
+      "Human Services": 6306987.0,
+      "General Government": 2238187.0,
+      "Public Safety": 5340574.0,
+      "Other": 2663615.0,
+      "Total Expenditures": 19985805.0
+    },
+    "pr": {
+      "Property Taxes": 615.95304858,
+      "Other Taxes": 76.12272579,
+      "Sales Tax": 196.64590805,
+      "Sales & Services": 143.1626345,
+      "Intergovernmental": 261.15343984,
+      "Debt Proceeds": 17.91848712,
+      "Other Misc": 6.85145093,
+      "Total Revenue": 1317.80769482
+    },
+    "pe": {
+      "Education": 208.82875774,
+      "Debt Service": 15.2626671,
+      "Human Services": 411.28053472,
+      "General Government": 145.95285295,
+      "Public Safety": 348.26044995,
+      "Other": 173.69514183,
+      "Total Expenditures": 1303.2804043
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 6523496,
+      "pct": 0.35033764,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Montgomery",
+    "pop": 27826,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 18678200.0,
+      "Other Taxes": 704973.0,
+      "Sales Tax": 3848345.0,
+      "Sales & Services": 7941790.0,
+      "Intergovernmental": 7051373.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 421713.0,
+      "Total Revenue": 38646394.0
+    },
+    "e": {
+      "Education": 6493910.0,
+      "Debt Service": 3626243.0,
+      "Human Services": 7457212.0,
+      "General Government": 3836693.0,
+      "Public Safety": 6891750.0,
+      "Other": 4355407.0,
+      "Total Expenditures": 32661215.0
+    },
+    "pr": {
+      "Property Taxes": 671.24991016,
+      "Other Taxes": 25.33504636,
+      "Sales Tax": 138.30033063,
+      "Sales & Services": 285.40897003,
+      "Intergovernmental": 253.40950909,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 15.1553583,
+      "Total Revenue": 1388.85912456
+    },
+    "pe": {
+      "Education": 233.37561992,
+      "Debt Service": 130.31851506,
+      "Human Services": 267.99439373,
+      "General Government": 137.88158557,
+      "Public Safety": 247.6730396,
+      "Other": 156.5229282,
+      "Total Expenditures": 1173.76608208
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 10382471,
+      "pct": 0.30388518,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Moore",
+    "pop": 94492,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 55004569.0,
+      "Other Taxes": 6525525.0,
+      "Sales Tax": 15932656.0,
+      "Sales & Services": 25732243.0,
+      "Intergovernmental": 15675587.0,
+      "Debt Proceeds": -4109134.0,
+      "Other Misc": 12452327.0,
+      "Total Revenue": 127213773.0
+    },
+    "e": {
+      "Education": 35155439.0,
+      "Debt Service": 17079905.0,
+      "Human Services": 15916611.0,
+      "General Government": 10514991.0,
+      "Public Safety": 22365537.0,
+      "Other": 23540648.0,
+      "Total Expenditures": 124573131.0
+    },
+    "pr": {
+      "Property Taxes": 582.10821022,
+      "Other Taxes": 69.05902087,
+      "Sales Tax": 168.61380858,
+      "Sales & Services": 272.32192143,
+      "Intergovernmental": 165.89327139,
+      "Debt Proceeds": -43.48658087,
+      "Other Misc": 131.78181222,
+      "Total Revenue": 1346.29146383
+    },
+    "pe": {
+      "Education": 372.04672353,
+      "Debt Service": 180.75503746,
+      "Human Services": 168.44400584,
+      "General Government": 111.27916649,
+      "Public Safety": 236.69238666,
+      "Other": 249.12847648,
+      "Total Expenditures": 1318.34579647
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 19580864,
+      "pct": 0.21565495,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Nash",
+    "pop": 94370,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 49059803.0,
+      "Other Taxes": 3609756.0,
+      "Sales Tax": 13466902.0,
+      "Sales & Services": 9747740.0,
+      "Intergovernmental": 21701269.0,
+      "Debt Proceeds": 995887.0,
+      "Other Misc": 3895715.0,
+      "Total Revenue": 102477072.0
+    },
+    "e": {
+      "Education": 24639556.0,
+      "Debt Service": 6437347.0,
+      "Human Services": 25528622.0,
+      "General Government": 8674967.0,
+      "Public Safety": 25703951.0,
+      "Other": 8366799.0,
+      "Total Expenditures": 99351242.0
+    },
+    "pr": {
+      "Property Taxes": 519.86651478,
+      "Other Taxes": 38.25109675,
+      "Sales Tax": 142.70321077,
+      "Sales & Services": 103.29278372,
+      "Intergovernmental": 229.95940447,
+      "Debt Proceeds": 10.55300413,
+      "Other Misc": 41.28128643,
+      "Total Revenue": 1085.90730105
+    },
+    "pe": {
+      "Education": 261.09522094,
+      "Debt Service": 68.21391332,
+      "Human Services": 270.51628696,
+      "General Government": 91.92505033,
+      "Public Safety": 272.37417612,
+      "Other": 88.65952103,
+      "Total Expenditures": 1052.7841687
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 33659288,
+      "pct": 0.3701752,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "New Hanover",
+    "pop": 220231,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 173515296.0,
+      "Other Taxes": 17671574.0,
+      "Sales Tax": 64328383.0,
+      "Sales & Services": 21285060.0,
+      "Intergovernmental": 47756364.0,
+      "Debt Proceeds": 102148687.0,
+      "Other Misc": 10984073.0,
+      "Total Revenue": 437689437.0
+    },
+    "e": {
+      "Education": 117517646.0,
+      "Debt Service": 51847636.0,
+      "Human Services": 56145834.0,
+      "General Government": 35146982.0,
+      "Public Safety": 71922742.0,
+      "Other": 52768111.0,
+      "Total Expenditures": 385348951.0
+    },
+    "pr": {
+      "Property Taxes": 787.87861836,
+      "Other Taxes": 80.24108323,
+      "Sales Tax": 292.09504112,
+      "Sales & Services": 96.6487915,
+      "Intergovernmental": 216.84669279,
+      "Debt Proceeds": 463.82519718,
+      "Other Misc": 49.87523555,
+      "Total Revenue": 1987.41065972
+    },
+    "pe": {
+      "Education": 533.61082681,
+      "Debt Service": 235.42387766,
+      "Human Services": 254.94064868,
+      "General Government": 159.59143808,
+      "Public Safety": 326.57864697,
+      "Other": 239.60346636,
+      "Total Expenditures": 1749.74890456
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 67767166,
+      "pct": 0.23397204,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Onslow",
+    "pop": 194636,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 91827237.0,
+      "Other Taxes": 2812831.0,
+      "Sales Tax": 34979336.0,
+      "Sales & Services": 17304490.0,
+      "Intergovernmental": 45578917.7,
+      "Debt Proceeds": 51986289.0,
+      "Other Misc": 15055660.0,
+      "Total Revenue": 259544760.7
+    },
+    "e": {
+      "Education": 67592803.0,
+      "Debt Service": 23045709.0,
+      "Human Services": 52335184.0,
+      "General Government": 18180542.0,
+      "Public Safety": 40118697.0,
+      "Other": 32156338.9,
+      "Total Expenditures": 233429273.9
+    },
+    "pr": {
+      "Property Taxes": 471.78958158,
+      "Other Taxes": 14.45175096,
+      "Sales Tax": 179.7166814,
+      "Sales & Services": 88.90693397,
+      "Intergovernmental": 234.17516646,
+      "Debt Proceeds": 267.09493105,
+      "Other Misc": 77.35290491,
+      "Total Revenue": 1333.48795033
+    },
+    "pe": {
+      "Education": 347.27801126,
+      "Debt Service": 118.40414415,
+      "Human Services": 268.88748227,
+      "General Government": 93.40791015,
+      "Public Safety": 206.12166814,
+      "Other": 165.21269909,
+      "Total Expenditures": 1199.31191506
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 63304489,
+      "pct": 0.33253391,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Orange",
+    "pop": 140144,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 153202143.0,
+      "Other Taxes": 3286521.0,
+      "Sales Tax": 24100239.0,
+      "Sales & Services": 22168958.0,
+      "Intergovernmental": 30145418.0,
+      "Debt Proceeds": 6655158.0,
+      "Other Misc": 3680713.0,
+      "Total Revenue": 243239150.0
+    },
+    "e": {
+      "Education": 90682835.0,
+      "Debt Service": 28159006.0,
+      "Human Services": 38330668.0,
+      "General Government": 26960047.0,
+      "Public Safety": 29940393.0,
+      "Other": 27635464.0,
+      "Total Expenditures": 241708413.0
+    },
+    "pr": {
+      "Property Taxes": 1093.1766112,
+      "Other Taxes": 23.45102894,
+      "Sales Tax": 171.96768324,
+      "Sales & Services": 158.18699338,
+      "Intergovernmental": 215.10316532,
+      "Debt Proceeds": 47.48799806,
+      "Other Misc": 26.26379296,
+      "Total Revenue": 1735.63727309
+    },
+    "pe": {
+      "Education": 647.06897905,
+      "Debt Service": 200.92908722,
+      "Human Services": 273.509162,
+      "General Government": 192.37389399,
+      "Public Safety": 213.64020579,
+      "Other": 197.19334399,
+      "Total Expenditures": 1724.71467205
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 53458593,
+      "pct": 0.25888043,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Pamlico",
+    "pop": 13174,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 10829828.0,
+      "Other Taxes": 88947.0,
+      "Sales Tax": 2274072.0,
+      "Sales & Services": 2470188.0,
+      "Intergovernmental": 7802097.0,
+      "Debt Proceeds": 51156.0,
+      "Other Misc": 427859.0,
+      "Total Revenue": 23944147.0
+    },
+    "e": {
+      "Education": 4135353.0,
+      "Debt Service": 1437790.0,
+      "Human Services": 4625368.0,
+      "General Government": 2302147.0,
+      "Public Safety": 4954427.0,
+      "Other": 5837308.0,
+      "Total Expenditures": 23292393.0
+    },
+    "pr": {
+      "Property Taxes": 822.06072567,
+      "Other Taxes": 6.75170791,
+      "Sales Tax": 172.61818734,
+      "Sales & Services": 187.50478215,
+      "Intergovernmental": 592.234477,
+      "Debt Proceeds": 3.88310308,
+      "Other Misc": 32.4775315,
+      "Total Revenue": 1817.53051465
+    },
+    "pe": {
+      "Education": 313.9026112,
+      "Debt Service": 109.13845453,
+      "Human Services": 351.09822377,
+      "General Government": 174.74927888,
+      "Public Safety": 376.07613481,
+      "Other": 443.09306209,
+      "Total Expenditures": 1768.0577653
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 8524666,
+      "pct": 0.49297676,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Pasquotank",
+    "pop": 39731,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 22865398.0,
+      "Other Taxes": 1973623.0,
+      "Sales Tax": 7576662.0,
+      "Sales & Services": 15351795.0,
+      "Intergovernmental": 10192817.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1162656.0,
+      "Total Revenue": 59122951.0
+    },
+    "e": {
+      "Education": 12538032.0,
+      "Debt Service": 7532099.0,
+      "Human Services": 9301769.0,
+      "General Government": 4002383.0,
+      "Public Safety": 13031264.0,
+      "Other": 10728392.0,
+      "Total Expenditures": 57133939.0
+    },
+    "pr": {
+      "Property Taxes": 575.50522262,
+      "Other Taxes": 49.67463693,
+      "Sales Tax": 190.69900078,
+      "Sales & Services": 386.39337042,
+      "Intergovernmental": 256.5456948,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 29.26319499,
+      "Total Revenue": 1488.08112054
+    },
+    "pe": {
+      "Education": 315.57302862,
+      "Debt Service": 189.5773829,
+      "Human Services": 234.11867308,
+      "General Government": 100.73703154,
+      "Public Safety": 327.98731469,
+      "Other": 270.02572299,
+      "Total Expenditures": 1438.01915381
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 6977060,
+      "pct": 0.14817629,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Pender",
+    "pop": 57941,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 45626191.0,
+      "Other Taxes": 11979164.0,
+      "Sales Tax": 9900693.0,
+      "Sales & Services": 15234677.0,
+      "Intergovernmental": 13253634.0,
+      "Debt Proceeds": 29400122.0,
+      "Other Misc": 5894916.0,
+      "Total Revenue": 131289397.0
+    },
+    "e": {
+      "Education": 19387040.0,
+      "Debt Service": 10904262.0,
+      "Human Services": 15092374.0,
+      "General Government": 7557314.0,
+      "Public Safety": 18597298.0,
+      "Other": 17217946.0,
+      "Total Expenditures": 88756234.0
+    },
+    "pr": {
+      "Property Taxes": 787.45950191,
+      "Other Taxes": 206.74762258,
+      "Sales Tax": 170.875425,
+      "Sales & Services": 262.93431249,
+      "Intergovernmental": 228.74361851,
+      "Debt Proceeds": 507.41481852,
+      "Other Misc": 101.73997687,
+      "Total Revenue": 2265.91527588
+    },
+    "pe": {
+      "Education": 334.59967898,
+      "Debt Service": 188.19595796,
+      "Human Services": 260.47831415,
+      "General Government": 130.43119725,
+      "Public Safety": 320.9695725,
+      "Other": 297.16342486,
+      "Total Expenditures": 1531.8381457
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 17951794,
+      "pct": 0.26732786,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Perquimans",
+    "pop": 13648,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 8205696.0,
+      "Other Taxes": 453570.0,
+      "Sales Tax": 1636944.0,
+      "Sales & Services": 4153382.0,
+      "Intergovernmental": 2972755.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 172388.0,
+      "Total Revenue": 17594735.0
+    },
+    "e": {
+      "Education": 2703642.0,
+      "Debt Service": 1247461.0,
+      "Human Services": 2533189.0,
+      "General Government": 2240893.0,
+      "Public Safety": 4569670.0,
+      "Other": 3599087.0,
+      "Total Expenditures": 16893942.0
+    },
+    "pr": {
+      "Property Taxes": 601.23798359,
+      "Other Taxes": 33.2334408,
+      "Sales Tax": 119.94021102,
+      "Sales & Services": 304.32165885,
+      "Intergovernmental": 217.81616354,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 12.63100821,
+      "Total Revenue": 1289.180466
+    },
+    "pe": {
+      "Education": 198.09803634,
+      "Debt Service": 91.40247655,
+      "Human Services": 185.60880715,
+      "General Government": 164.19204279,
+      "Public Safety": 334.82341735,
+      "Other": 263.70801583,
+      "Total Expenditures": 1237.83279601
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 5775949,
+      "pct": 0.4066152,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Person",
+    "pop": 39574,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 31276307.0,
+      "Other Taxes": 568525.0,
+      "Sales Tax": 7058217.0,
+      "Sales & Services": 6279490.0,
+      "Intergovernmental": 11882488.0,
+      "Debt Proceeds": 2907571.0,
+      "Other Misc": 712518.0,
+      "Total Revenue": 60685116.0
+    },
+    "e": {
+      "Education": 12998274.0,
+      "Debt Service": 2442808.0,
+      "Human Services": 16155254.0,
+      "General Government": 6783160.0,
+      "Public Safety": 13838065.0,
+      "Other": 5422973.0,
+      "Total Expenditures": 57640534.0
+    },
+    "pr": {
+      "Property Taxes": 790.32463233,
+      "Other Taxes": 14.36612422,
+      "Sales Tax": 178.35490474,
+      "Sales & Services": 158.67716177,
+      "Intergovernmental": 300.25996867,
+      "Debt Proceeds": 73.47174913,
+      "Other Misc": 18.00470006,
+      "Total Revenue": 1533.45924092
+    },
+    "pe": {
+      "Education": 328.45489463,
+      "Debt Service": 61.72759893,
+      "Human Services": 408.22898873,
+      "General Government": 171.40445747,
+      "Public Safety": 349.6756709,
+      "Other": 137.03373427,
+      "Total Expenditures": 1456.52534492
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 17834665,
+      "pct": 0.34156651,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Pitt",
+    "pop": 175532,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 81784234.0,
+      "Other Taxes": 3219726.0,
+      "Sales Tax": 22858876.0,
+      "Sales & Services": 15848211.0,
+      "Intergovernmental": 46981480.0,
+      "Debt Proceeds": 20441799.0,
+      "Other Misc": 6161955.0,
+      "Total Revenue": 197296281.0
+    },
+    "e": {
+      "Education": 47664205.0,
+      "Debt Service": 18328348.0,
+      "Human Services": 43744551.0,
+      "General Government": 12596888.0,
+      "Public Safety": 40411683.0,
+      "Other": 13717698.0,
+      "Total Expenditures": 176463373.0
+    },
+    "pr": {
+      "Property Taxes": 465.92207689,
+      "Other Taxes": 18.34267256,
+      "Sales Tax": 130.22626074,
+      "Sales & Services": 90.28673404,
+      "Intergovernmental": 267.65193811,
+      "Debt Proceeds": 116.45625299,
+      "Other Misc": 35.10445389,
+      "Total Revenue": 1123.99038922
+    },
+    "pe": {
+      "Education": 271.54139986,
+      "Debt Service": 104.41599253,
+      "Human Services": 249.21126062,
+      "General Government": 71.76405442,
+      "Public Safety": 230.22402183,
+      "Other": 78.14927193,
+      "Total Expenditures": 1005.30600118
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 30353707,
+      "pct": 0.21497136,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Polk",
+    "pop": 20828,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 14680868.0,
+      "Other Taxes": 1778653.0,
+      "Sales Tax": 2952443.0,
+      "Sales & Services": 2835647.0,
+      "Intergovernmental": 4207115.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 324222.0,
+      "Total Revenue": 26778948.0
+    },
+    "e": {
+      "Education": 5539826.0,
+      "Debt Service": 1567018.0,
+      "Human Services": 3637237.0,
+      "General Government": 2960267.0,
+      "Public Safety": 7575545.0,
+      "Other": 4274428.0,
+      "Total Expenditures": 25554321.0
+    },
+    "pr": {
+      "Property Taxes": 704.8621087,
+      "Other Taxes": 85.39720568,
+      "Sales Tax": 141.75355291,
+      "Sales & Services": 136.14590935,
+      "Intergovernmental": 201.99323027,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 15.56664106,
+      "Total Revenue": 1285.71864797
+    },
+    "pe": {
+      "Education": 265.97973881,
+      "Debt Service": 75.23612445,
+      "Human Services": 174.63208181,
+      "General Government": 142.12920108,
+      "Public Safety": 363.71927213,
+      "Other": 205.22508162,
+      "Total Expenditures": 1226.9214999
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 7243307,
+      "pct": 0.31112246,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Randolph",
+    "pop": 142943,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 68646444.0,
+      "Other Taxes": 9552506.0,
+      "Sales Tax": 20380905.0,
+      "Sales & Services": 12598584.0,
+      "Intergovernmental": 20590581.0,
+      "Debt Proceeds": 11000000.0,
+      "Other Misc": 1729697.0,
+      "Total Revenue": 144498717.0
+    },
+    "e": {
+      "Education": 30446684.0,
+      "Debt Service": 12198624.0,
+      "Human Services": 26300164.0,
+      "General Government": 10628456.0,
+      "Public Safety": 37068762.0,
+      "Other": 13706010.0,
+      "Total Expenditures": 130348700.0
+    },
+    "pr": {
+      "Property Taxes": 480.23648587,
+      "Other Taxes": 66.82737875,
+      "Sales Tax": 142.58064403,
+      "Sales & Services": 88.13711759,
+      "Intergovernmental": 144.04749446,
+      "Debt Proceeds": 76.9537508,
+      "Other Misc": 12.10060654,
+      "Total Revenue": 1010.88347803
+    },
+    "pe": {
+      "Education": 212.99877574,
+      "Debt Service": 85.33907921,
+      "Human Services": 183.99056967,
+      "General Government": 74.35450494,
+      "Public Safety": 259.32547939,
+      "Other": 95.88444345,
+      "Total Expenditures": 911.8928524
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 35312533,
+      "pct": 0.300368,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Richmond",
+    "pop": 45353,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 26508617.0,
+      "Other Taxes": 1039600.0,
+      "Sales Tax": 6411569.0,
+      "Sales & Services": 11294010.0,
+      "Intergovernmental": 13038257.0,
+      "Debt Proceeds": 1545873.0,
+      "Other Misc": 5980789.0,
+      "Total Revenue": 65818715.0
+    },
+    "e": {
+      "Education": 11137454.0,
+      "Debt Service": 5098730.0,
+      "Human Services": 15287927.0,
+      "General Government": 6410829.0,
+      "Public Safety": 10853009.0,
+      "Other": 12668004.0,
+      "Total Expenditures": 61455953.0
+    },
+    "pr": {
+      "Property Taxes": 584.49533658,
+      "Other Taxes": 22.92240866,
+      "Sales Tax": 141.37033934,
+      "Sales & Services": 249.02454082,
+      "Intergovernmental": 287.48389302,
+      "Debt Proceeds": 34.08535268,
+      "Other Misc": 131.87195996,
+      "Total Revenue": 1451.25383106
+    },
+    "pe": {
+      "Education": 245.57259718,
+      "Debt Service": 112.42321346,
+      "Human Services": 337.08744736,
+      "General Government": 141.35402289,
+      "Public Safety": 239.30079598,
+      "Other": 279.32008908,
+      "Total Expenditures": 1355.05816594
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 11961882,
+      "pct": 0.2443084,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Robeson",
+    "pop": 133375,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 49714517.0,
+      "Other Taxes": 265854.0,
+      "Sales Tax": 20541243.0,
+      "Sales & Services": 25161272.0,
+      "Intergovernmental": 33870050.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 10002549.0,
+      "Total Revenue": 139555485.0
+    },
+    "e": {
+      "Education": 19390323.0,
+      "Debt Service": 3665204.0,
+      "Human Services": 47478047.0,
+      "General Government": 12999204.0,
+      "Public Safety": 26602602.0,
+      "Other": 33630232.0,
+      "Total Expenditures": 143765612.0
+    },
+    "pr": {
+      "Property Taxes": 372.7423955,
+      "Other Taxes": 1.9932821,
+      "Sales Tax": 154.011194,
+      "Sales & Services": 188.65058669,
+      "Intergovernmental": 253.94601687,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 74.99568135,
+      "Total Revenue": 1046.33915651
+    },
+    "pe": {
+      "Education": 145.38199063,
+      "Debt Service": 27.48044236,
+      "Human Services": 355.97411059,
+      "General Government": 97.46357263,
+      "Public Safety": 199.45718463,
+      "Other": 252.14794377,
+      "Total Expenditures": 1077.90524461
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 23375118,
+      "pct": 0.19008553,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Rockingham",
+    "pop": 92084,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 53861141.0,
+      "Other Taxes": 197672.0,
+      "Sales Tax": 11212015.0,
+      "Sales & Services": 13192675.0,
+      "Intergovernmental": 22030662.0,
+      "Debt Proceeds": 2837214.0,
+      "Other Misc": 1883428.0,
+      "Total Revenue": 105214807.0
+    },
+    "e": {
+      "Education": 19675319.0,
+      "Debt Service": 9610227.0,
+      "Human Services": 26689794.0,
+      "General Government": 13360878.0,
+      "Public Safety": 24511663.0,
+      "Other": 12999916.0,
+      "Total Expenditures": 106847797.0
+    },
+    "pr": {
+      "Property Taxes": 584.91313366,
+      "Other Taxes": 2.14664871,
+      "Sales Tax": 121.7585574,
+      "Sales & Services": 143.26783155,
+      "Intergovernmental": 239.24527605,
+      "Debt Proceeds": 30.81115069,
+      "Other Misc": 20.45336866,
+      "Total Revenue": 1142.59596673
+    },
+    "pe": {
+      "Education": 213.66707571,
+      "Debt Service": 104.36370053,
+      "Human Services": 289.84181834,
+      "General Government": 145.09445723,
+      "Public Safety": 266.18807828,
+      "Other": 141.17453629,
+      "Total Expenditures": 1160.32966639
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 23943705,
+      "pct": 0.27956726,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Rowan",
+    "pop": 140122,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 79424680.0,
+      "Other Taxes": 6972152.0,
+      "Sales Tax": 23128998.0,
+      "Sales & Services": 14866562.0,
+      "Intergovernmental": 23084977.0,
+      "Debt Proceeds": 4017835.0,
+      "Other Misc": 2065301.0,
+      "Total Revenue": 153560505.0
+    },
+    "e": {
+      "Education": 47261881.0,
+      "Debt Service": 16549351.0,
+      "Human Services": 28077789.0,
+      "General Government": 12792779.0,
+      "Public Safety": 32202356.0,
+      "Other": 16300683.0,
+      "Total Expenditures": 153184839.0
+    },
+    "pr": {
+      "Property Taxes": 566.82519519,
+      "Other Taxes": 49.75772541,
+      "Sales Tax": 165.06328771,
+      "Sales & Services": 106.09727238,
+      "Intergovernmental": 164.74912576,
+      "Debt Proceeds": 28.67383423,
+      "Other Misc": 14.73930575,
+      "Total Revenue": 1095.90574642
+    },
+    "pe": {
+      "Education": 337.29093932,
+      "Debt Service": 118.10672842,
+      "Human Services": 200.38101797,
+      "General Government": 91.29743366,
+      "Public Safety": 229.81655985,
+      "Other": 116.33207491,
+      "Total Expenditures": 1093.22475414
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 32284932,
+      "pct": 0.24498243,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Rutherford",
+    "pop": 67617,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 38695915.0,
+      "Other Taxes": 2704945.0,
+      "Sales Tax": 11122874.0,
+      "Sales & Services": 8558141.0,
+      "Intergovernmental": 13289869.0,
+      "Debt Proceeds": 640825.0,
+      "Other Misc": 1445561.0,
+      "Total Revenue": 76458130.0
+    },
+    "e": {
+      "Education": 17311313.0,
+      "Debt Service": 6743585.0,
+      "Human Services": 14948163.0,
+      "General Government": 6937663.0,
+      "Public Safety": 18072030.0,
+      "Other": 14256774.0,
+      "Total Expenditures": 78269528.0
+    },
+    "pr": {
+      "Property Taxes": 572.28086132,
+      "Other Taxes": 40.00391913,
+      "Sales Tax": 164.49818833,
+      "Sales & Services": 126.56788973,
+      "Intergovernmental": 196.54626795,
+      "Debt Proceeds": 9.47727642,
+      "Other Misc": 21.37866217,
+      "Total Revenue": 1130.75306506
+    },
+    "pe": {
+      "Education": 256.02012807,
+      "Debt Service": 99.732094,
+      "Human Services": 221.0710768,
+      "General Government": 102.60234852,
+      "Public Safety": 267.2705089,
+      "Other": 210.84600027,
+      "Total Expenditures": 1157.54215656
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 16047141,
+      "pct": 0.27499618,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Scotland",
+    "pop": 35821,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 22242757.0,
+      "Other Taxes": 951565.0,
+      "Sales Tax": 5775637.0,
+      "Sales & Services": 4841540.0,
+      "Intergovernmental": 10072898.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 1553926.0,
+      "Total Revenue": 45438323.0
+    },
+    "e": {
+      "Education": 12000627.0,
+      "Debt Service": 2008229.0,
+      "Human Services": 10914673.0,
+      "General Government": 4098206.0,
+      "Public Safety": 9313376.0,
+      "Other": 5538701.0,
+      "Total Expenditures": 43873812.0
+    },
+    "pr": {
+      "Property Taxes": 620.94182184,
+      "Other Taxes": 26.56444544,
+      "Sales Tax": 161.23606264,
+      "Sales & Services": 135.15926412,
+      "Intergovernmental": 281.20091566,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 43.38030764,
+      "Total Revenue": 1268.48281734
+    },
+    "pe": {
+      "Education": 335.01652662,
+      "Debt Service": 56.06289607,
+      "Human Services": 304.70039921,
+      "General Government": 114.40791714,
+      "Public Safety": 259.99765501,
+      "Other": 154.6216186,
+      "Total Expenditures": 1224.80701265
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 9550652,
+      "pct": 0.23680463,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Stanly",
+    "pop": 61234,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 32911521.0,
+      "Other Taxes": 799585.0,
+      "Sales Tax": 8267902.0,
+      "Sales & Services": 11674101.0,
+      "Intergovernmental": 12690162.0,
+      "Debt Proceeds": 3368086.0,
+      "Other Misc": 7993160.0,
+      "Total Revenue": 77704517.0
+    },
+    "e": {
+      "Education": 13711617.0,
+      "Debt Service": 4695563.0,
+      "Human Services": 15606096.0,
+      "General Government": 7371525.0,
+      "Public Safety": 14399252.0,
+      "Other": 18297307.0,
+      "Total Expenditures": 74081360.0
+    },
+    "pr": {
+      "Property Taxes": 537.47135578,
+      "Other Taxes": 13.05786001,
+      "Sales Tax": 135.02142601,
+      "Sales & Services": 190.64736911,
+      "Intergovernmental": 207.24045465,
+      "Debt Proceeds": 55.00352745,
+      "Other Misc": 130.53467028,
+      "Total Revenue": 1268.97666329
+    },
+    "pe": {
+      "Education": 223.92162851,
+      "Debt Service": 76.68228435,
+      "Human Services": 254.85997975,
+      "General Government": 120.38287553,
+      "Public Safety": 235.15125584,
+      "Other": 298.80959924,
+      "Total Expenditures": 1209.80762322
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 17838977,
+      "pct": 0.31320811,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Stokes",
+    "pop": 46763,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 24632037.0,
+      "Other Taxes": 2419232.0,
+      "Sales Tax": 6337768.0,
+      "Sales & Services": 3514565.0,
+      "Intergovernmental": 12428197.0,
+      "Debt Proceeds": 6693100.0,
+      "Other Misc": 380135.0,
+      "Total Revenue": 56405034.0
+    },
+    "e": {
+      "Education": 14780791.0,
+      "Debt Service": 5322131.0,
+      "Human Services": 11448148.0,
+      "General Government": 5725225.0,
+      "Public Safety": 12378934.0,
+      "Other": 3214644.0,
+      "Total Expenditures": 52869873.0
+    },
+    "pr": {
+      "Property Taxes": 526.74201826,
+      "Other Taxes": 51.73389218,
+      "Sales Tax": 135.52954259,
+      "Sales & Services": 75.1569617,
+      "Intergovernmental": 265.76988217,
+      "Debt Proceeds": 143.12811411,
+      "Other Misc": 8.12896948,
+      "Total Revenue": 1206.18938049
+    },
+    "pe": {
+      "Education": 316.07875885,
+      "Debt Service": 113.81072643,
+      "Human Services": 244.81209503,
+      "General Government": 122.43066099,
+      "Public Safety": 264.7164211,
+      "Other": 68.74332271,
+      "Total Expenditures": 1130.59198512
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 19300754,
+      "pct": 0.44429477,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Surry",
+    "pop": 73195,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 29057973.0,
+      "Other Taxes": 7938036.0,
+      "Sales Tax": 17233158.0,
+      "Sales & Services": 9978168.0,
+      "Intergovernmental": 15114326.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 4054933.0,
+      "Total Revenue": 83376594.0
+    },
+    "e": {
+      "Education": 19930262.0,
+      "Debt Service": 6323006.0,
+      "Human Services": 18608548.0,
+      "General Government": 6958637.0,
+      "Public Safety": 20170693.0,
+      "Other": 8562195.0,
+      "Total Expenditures": 80553341.0
+    },
+    "pr": {
+      "Property Taxes": 396.99396134,
+      "Other Taxes": 108.45052258,
+      "Sales Tax": 235.44173782,
+      "Sales & Services": 136.32308218,
+      "Intergovernmental": 206.49396817,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 55.39904365,
+      "Total Revenue": 1139.10231573
+    },
+    "pe": {
+      "Education": 272.28993784,
+      "Debt Service": 86.38576405,
+      "Human Services": 254.23250222,
+      "General Government": 95.06984084,
+      "Public Safety": 275.57473871,
+      "Other": 116.97786734,
+      "Total Expenditures": 1100.530651
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 27023569,
+      "pct": 0.37051209,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Swain",
+    "pop": 14953,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 5998572.0,
+      "Other Taxes": 899425.0,
+      "Sales Tax": 2894875.0,
+      "Sales & Services": 3435585.0,
+      "Intergovernmental": 7540285.0,
+      "Debt Proceeds": 500000.0,
+      "Other Misc": 1137028.0,
+      "Total Revenue": 22405770.0
+    },
+    "e": {
+      "Education": 1399541.0,
+      "Debt Service": 3054681.0,
+      "Human Services": 6313916.0,
+      "General Government": 3684020.0,
+      "Public Safety": 5607768.0,
+      "Other": 3309387.0,
+      "Total Expenditures": 23369313.0
+    },
+    "pr": {
+      "Property Taxes": 401.16177356,
+      "Other Taxes": 60.1501371,
+      "Sales Tax": 193.59827459,
+      "Sales & Services": 229.75891126,
+      "Intergovernmental": 504.26569919,
+      "Debt Proceeds": 33.43810607,
+      "Other Misc": 76.04012573,
+      "Total Revenue": 1498.41302749
+    },
+    "pe": {
+      "Education": 93.5960008,
+      "Debt Service": 204.28549455,
+      "Human Services": 422.2507858,
+      "General Government": 246.37330302,
+      "Public Safety": 375.02628235,
+      "Other": 221.31926704,
+      "Total Expenditures": 1562.85113355
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 8448413,
+      "pct": 0.38612978,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Transylvania",
+    "pop": 33745,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 27649456.0,
+      "Other Taxes": 3784073.0,
+      "Sales Tax": 6728385.0,
+      "Sales & Services": 5185534.0,
+      "Intergovernmental": 8411942.0,
+      "Debt Proceeds": 1825335.0,
+      "Other Misc": 666743.0,
+      "Total Revenue": 54251468.0
+    },
+    "e": {
+      "Education": 13191706.0,
+      "Debt Service": 2476132.0,
+      "Human Services": 8957031.0,
+      "General Government": 6747930.0,
+      "Public Safety": 15340266.0,
+      "Other": 5540230.0,
+      "Total Expenditures": 52253295.0
+    },
+    "pr": {
+      "Property Taxes": 819.36452808,
+      "Other Taxes": 112.13729441,
+      "Sales Tax": 199.38909468,
+      "Sales & Services": 153.66821751,
+      "Intergovernmental": 249.27965625,
+      "Debt Proceeds": 54.09201363,
+      "Other Misc": 19.7582753,
+      "Total Revenue": 1607.68907986
+    },
+    "pe": {
+      "Education": 390.92327752,
+      "Debt Service": 73.37774485,
+      "Human Services": 265.43283449,
+      "General Government": 199.9682916,
+      "Public Safety": 454.59374722,
+      "Other": 164.17928582,
+      "Total Expenditures": 1548.47518151
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 21576663,
+      "pct": 0.46349052,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Tyrrell",
+    "pop": 4217,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 3780550.0,
+      "Other Taxes": 42443.0,
+      "Sales Tax": 454408.0,
+      "Sales & Services": 1247203.0,
+      "Intergovernmental": 2509207.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 2568069.0,
+      "Total Revenue": 10601880.0
+    },
+    "e": {
+      "Education": 638764.0,
+      "Debt Service": 385634.0,
+      "Human Services": 1435625.0,
+      "General Government": 1434153.0,
+      "Public Safety": 1956046.0,
+      "Other": 2139254.0,
+      "Total Expenditures": 7989476.0
+    },
+    "pr": {
+      "Property Taxes": 896.50225279,
+      "Other Taxes": 10.06473797,
+      "Sales Tax": 107.7562248,
+      "Sales & Services": 295.75598767,
+      "Intergovernmental": 595.02181646,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 608.98008063,
+      "Total Revenue": 2514.08110031
+    },
+    "pe": {
+      "Education": 151.4735594,
+      "Debt Service": 91.44747451,
+      "Human Services": 340.43751482,
+      "General Government": 340.08845151,
+      "Public Safety": 463.84775907,
+      "Other": 507.29286222,
+      "Total Expenditures": 1894.58762153
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 2233391,
+      "pct": 0.35809261,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Union",
+    "pop": 219992,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 187270253.0,
+      "Other Taxes": 7661904.0,
+      "Sales Tax": 37420597.0,
+      "Sales & Services": 55833624.0,
+      "Intergovernmental": 35687049.0,
+      "Debt Proceeds": 340000.0,
+      "Other Misc": 27197124.0,
+      "Total Revenue": 351410551.0
+    },
+    "e": {
+      "Education": 114206262.0,
+      "Debt Service": 59424269.0,
+      "Human Services": 41007054.0,
+      "General Government": 14446743.0,
+      "Public Safety": 56162293.0,
+      "Other": 64956861.0,
+      "Total Expenditures": 350203482.0
+    },
+    "pr": {
+      "Property Taxes": 851.25937761,
+      "Other Taxes": 34.82810284,
+      "Sales Tax": 170.09980817,
+      "Sales & Services": 253.79842903,
+      "Intergovernmental": 162.21975799,
+      "Debt Proceeds": 1.54551075,
+      "Other Misc": 123.62778646,
+      "Total Revenue": 1597.37877286
+    },
+    "pe": {
+      "Education": 519.13825048,
+      "Debt Service": 270.12013619,
+      "Human Services": 186.40247827,
+      "General Government": 65.66940161,
+      "Public Safety": 255.29243336,
+      "Other": 295.26919615,
+      "Total Expenditures": 1591.89189607
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 73608693,
+      "pct": 0.27487091,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Vance",
+    "pop": 45097,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 23378108.0,
+      "Other Taxes": 992597.0,
+      "Sales Tax": 8173715.0,
+      "Sales & Services": 5699225.0,
+      "Intergovernmental": 15253540.0,
+      "Debt Proceeds": 2400431.0,
+      "Other Misc": 867864.0,
+      "Total Revenue": 56765480.0
+    },
+    "e": {
+      "Education": 11599124.0,
+      "Debt Service": 3678413.0,
+      "Human Services": 13078213.0,
+      "General Government": 3824963.0,
+      "Public Safety": 13680123.0,
+      "Other": 7757285.0,
+      "Total Expenditures": 53618121.0
+    },
+    "pr": {
+      "Property Taxes": 518.39607956,
+      "Other Taxes": 22.01026676,
+      "Sales Tax": 181.24742222,
+      "Sales & Services": 126.37703173,
+      "Intergovernmental": 338.23846376,
+      "Debt Proceeds": 53.22817482,
+      "Other Misc": 19.24438433,
+      "Total Revenue": 1258.74182318
+    },
+    "pe": {
+      "Education": 257.20389383,
+      "Debt Service": 81.56668958,
+      "Human Services": 290.00184048,
+      "General Government": 84.81635142,
+      "Public Safety": 303.34884804,
+      "Other": 172.01332683,
+      "Total Expenditures": 1188.95095017
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 17148385,
+      "pct": 0.35774087,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Wake",
+    "pop": 1007631,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 813067807.0,
+      "Other Taxes": 88137840.0,
+      "Sales Tax": 155052350.0,
+      "Sales & Services": 69300950.0,
+      "Intergovernmental": 172718037.0,
+      "Debt Proceeds": 2184956.0,
+      "Other Misc": 22489026.0,
+      "Total Revenue": 1322950966.0
+    },
+    "e": {
+      "Education": 743976648.0,
+      "Debt Service": 268666713.0,
+      "Human Services": 191903474.0,
+      "General Government": 94697144.0,
+      "Public Safety": 171686900.0,
+      "Other": 152625764.0,
+      "Total Expenditures": 1623556643.0
+    },
+    "pr": {
+      "Property Taxes": 806.91027469,
+      "Other Taxes": 87.47035373,
+      "Sales Tax": 153.87810617,
+      "Sales & Services": 68.77611943,
+      "Intergovernmental": 171.41000723,
+      "Debt Proceeds": 2.16840887,
+      "Other Misc": 22.31871191,
+      "Total Revenue": 1312.93198205
+    },
+    "pe": {
+      "Education": 738.34235747,
+      "Debt Service": 266.63204387,
+      "Human Services": 190.45014891,
+      "General Government": 93.97998275,
+      "Public Safety": 170.38667925,
+      "Other": 151.46989721,
+      "Total Expenditures": 1611.26110947
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 202184838,
+      "pct": 0.17733595,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Warren",
+    "pop": 20473,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 17273503.0,
+      "Other Taxes": 1001667.0,
+      "Sales Tax": 2388583.0,
+      "Sales & Services": 7021686.0,
+      "Intergovernmental": 5638295.0,
+      "Debt Proceeds": 450715.0,
+      "Other Misc": 299728.0,
+      "Total Revenue": 34074177.0
+    },
+    "e": {
+      "Education": 5828533.0,
+      "Debt Service": 13357263.0,
+      "Human Services": 9271702.0,
+      "General Government": 3571002.0,
+      "Public Safety": 9493006.0,
+      "Other": 5422385.0,
+      "Total Expenditures": 46943891.0
+    },
+    "pr": {
+      "Property Taxes": 843.72114492,
+      "Other Taxes": 48.92624432,
+      "Sales Tax": 116.66990671,
+      "Sales & Services": 342.97298881,
+      "Intergovernmental": 275.40150442,
+      "Debt Proceeds": 22.01509305,
+      "Other Misc": 14.64016021,
+      "Total Revenue": 1664.34704245
+    },
+    "pe": {
+      "Education": 284.69364529,
+      "Debt Service": 652.43310702,
+      "Human Services": 452.87461535,
+      "General Government": 174.42494993,
+      "Public Safety": 463.68416939,
+      "Other": 264.85541933,
+      "Total Expenditures": 2292.96590632
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 8436084,
+      "pct": 0.28821712,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Washington",
+    "pop": 12589,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7551559.0,
+      "Other Taxes": 29834.0,
+      "Sales Tax": 1923410.0,
+      "Sales & Services": 3595944.0,
+      "Intergovernmental": 5977034.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 182521.0,
+      "Total Revenue": 19260302.0
+    },
+    "e": {
+      "Education": 2160827.0,
+      "Debt Service": 830208.0,
+      "Human Services": 5003478.0,
+      "General Government": 2308618.0,
+      "Public Safety": 4867495.0,
+      "Other": 3069743.0,
+      "Total Expenditures": 18240369.0
+    },
+    "pr": {
+      "Property Taxes": 599.85376122,
+      "Other Taxes": 2.36984669,
+      "Sales Tax": 152.78497101,
+      "Sales & Services": 285.64175073,
+      "Intergovernmental": 474.78227024,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 14.49845103,
+      "Total Revenue": 1529.93105092
+    },
+    "pe": {
+      "Education": 171.64405433,
+      "Debt Service": 65.94709667,
+      "Human Services": 397.44840734,
+      "General Government": 183.38374772,
+      "Public Safety": 386.64667567,
+      "Other": 243.84327588,
+      "Total Expenditures": 1448.91325761
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 3444461,
+      "pct": 0.2074007,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Watauga",
+    "pop": 53737,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 28151345.0,
+      "Other Taxes": 4981167.0,
+      "Sales Tax": 11166662.0,
+      "Sales & Services": 5901637.0,
+      "Intergovernmental": 10360377.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 947638.0,
+      "Total Revenue": 61508826.0
+    },
+    "e": {
+      "Education": 14425668.0,
+      "Debt Service": 6170220.0,
+      "Human Services": 7593928.0,
+      "General Government": 7054863.0,
+      "Public Safety": 13547808.0,
+      "Other": 7042750.0,
+      "Total Expenditures": 55835237.0
+    },
+    "pr": {
+      "Property Taxes": 523.87265757,
+      "Other Taxes": 92.69529375,
+      "Sales Tax": 207.80211028,
+      "Sales & Services": 109.82445987,
+      "Intergovernmental": 192.79783017,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 17.63473956,
+      "Total Revenue": 1144.6270912
+    },
+    "pe": {
+      "Education": 268.44944824,
+      "Debt Service": 114.82256174,
+      "Human Services": 141.31656028,
+      "General Government": 131.28501777,
+      "Public Safety": 252.11321808,
+      "Other": 131.05960511,
+      "Total Expenditures": 1039.04641123
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 21865813,
+      "pct": 0.44210775,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Wayne",
+    "pop": 124984,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 49484431.0,
+      "Other Taxes": 10229492.0,
+      "Sales Tax": 19529448.0,
+      "Sales & Services": 15021960.0,
+      "Intergovernmental": 29881829.0,
+      "Debt Proceeds": 1790539.0,
+      "Other Misc": 4705799.0,
+      "Total Revenue": 130643498.0
+    },
+    "e": {
+      "Education": 38074421.0,
+      "Debt Service": 6568222.0,
+      "Human Services": 30602899.0,
+      "General Government": 10910837.0,
+      "Public Safety": 42552963.0,
+      "Other": 13625930.0,
+      "Total Expenditures": 142335272.0
+    },
+    "pr": {
+      "Property Taxes": 395.92612654,
+      "Other Taxes": 81.84641234,
+      "Sales Tax": 156.25558471,
+      "Sales & Services": 120.19106446,
+      "Intergovernmental": 239.08523491,
+      "Debt Proceeds": 14.32614575,
+      "Other Misc": 37.65121136,
+      "Total Revenue": 1045.28178007
+    },
+    "pe": {
+      "Education": 304.6343612,
+      "Debt Service": 52.55250272,
+      "Human Services": 244.85453338,
+      "General Government": 87.29787013,
+      "Public Safety": 340.46728381,
+      "Other": 109.02139474,
+      "Total Expenditures": 1138.82794598
+    },
+    "gr": {
+      "Property Taxes": 718.71160069,
+      "Other Taxes": 52.39633017,
+      "Sales Tax": 192.61780824,
+      "Sales & Services": 113.70416705,
+      "Intergovernmental": 195.26103722,
+      "Debt Proceeds": 86.95368951,
+      "Other Misc": 25.76505957,
+      "Total Revenue": 1385.40969245
+    },
+    "ge": {
+      "Education": 457.68971673,
+      "Debt Service": 179.41871825,
+      "Human Services": 251.49089228,
+      "General Government": 114.01664259,
+      "Public Safety": 226.96773447,
+      "Other": 159.45559646,
+      "Total Expenditures": 1389.03930078
+    },
+    "fb": {
+      "dollars": 51885989,
+      "pct": 0.51340938,
+      "grp_pct": 0.26751543,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Wilkes",
+    "pop": 69663,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 40522512.0,
+      "Other Taxes": 312968.0,
+      "Sales Tax": 13520533.0,
+      "Sales & Services": 11304733.0,
+      "Intergovernmental": 15291412.0,
+      "Debt Proceeds": 310371.0,
+      "Other Misc": 742497.0,
+      "Total Revenue": 82005026.0
+    },
+    "e": {
+      "Education": 17408830.0,
+      "Debt Service": 5456928.0,
+      "Human Services": 21426422.0,
+      "General Government": 8055650.0,
+      "Public Safety": 19649403.0,
+      "Other": 6221261.0,
+      "Total Expenditures": 78218494.0
+    },
+    "pr": {
+      "Property Taxes": 581.69346712,
+      "Other Taxes": 4.49260009,
+      "Sales Tax": 194.08485136,
+      "Sales & Services": 162.27743565,
+      "Intergovernmental": 219.50550507,
+      "Debt Proceeds": 4.45532061,
+      "Other Misc": 10.65841264,
+      "Total Revenue": 1177.16759255
+    },
+    "pe": {
+      "Education": 249.90066463,
+      "Debt Service": 78.33323285,
+      "Human Services": 307.57248468,
+      "General Government": 115.63742589,
+      "Public Safety": 282.06369235,
+      "Other": 89.3050974,
+      "Total Expenditures": 1122.81259779
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 23200068,
+      "pct": 0.32508199,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Wilson",
+    "pop": 81689,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 51310162.0,
+      "Other Taxes": 1945571.0,
+      "Sales Tax": 13808648.0,
+      "Sales & Services": 14265488.0,
+      "Intergovernmental": 23987501.0,
+      "Debt Proceeds": 1063886.0,
+      "Other Misc": 928604.0,
+      "Total Revenue": 107309860.0
+    },
+    "e": {
+      "Education": 22712089.0,
+      "Debt Service": 6540478.0,
+      "Human Services": 35989528.0,
+      "General Government": 8100682.0,
+      "Public Safety": 23198318.0,
+      "Other": 8814487.0,
+      "Total Expenditures": 105355582.0
+    },
+    "pr": {
+      "Property Taxes": 628.11592748,
+      "Other Taxes": 23.8168052,
+      "Sales Tax": 169.03925865,
+      "Sales & Services": 174.63168848,
+      "Intergovernmental": 293.64419934,
+      "Debt Proceeds": 13.02361395,
+      "Other Misc": 11.36755255,
+      "Total Revenue": 1313.63904565
+    },
+    "pe": {
+      "Education": 278.03117923,
+      "Debt Service": 80.06559023,
+      "Human Services": 440.5676162,
+      "General Government": 99.16490592,
+      "Public Safety": 283.98337597,
+      "Other": 107.90298571,
+      "Total Expenditures": 1289.71565327
+    },
+    "gr": {
+      "Property Taxes": 598.59966843,
+      "Other Taxes": 50.51643511,
+      "Sales Tax": 162.42360514,
+      "Sales & Services": 170.15250216,
+      "Intergovernmental": 235.82640564,
+      "Debt Proceeds": 68.18549262,
+      "Other Misc": 46.5042181,
+      "Total Revenue": 1332.2083272
+    },
+    "ge": {
+      "Education": 286.81286994,
+      "Debt Service": 108.58120056,
+      "Human Services": 274.82859437,
+      "General Government": 114.94547835,
+      "Public Safety": 280.52743041,
+      "Other": 174.6439979,
+      "Total Expenditures": 1240.33957153
+    },
+    "fb": {
+      "dollars": 35798893,
+      "pct": 0.36635365,
+      "grp_pct": 0.31278772,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Yadkin",
+    "pop": 37705,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 19559560.0,
+      "Other Taxes": 1968394.0,
+      "Sales Tax": 5459084.0,
+      "Sales & Services": 4826352.0,
+      "Intergovernmental": 6514908.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 652258.0,
+      "Total Revenue": 38980556.0
+    },
+    "e": {
+      "Education": 6696850.0,
+      "Debt Service": 4172247.0,
+      "Human Services": 9773764.0,
+      "General Government": 4449755.0,
+      "Public Safety": 10858746.0,
+      "Other": 8545092.0,
+      "Total Expenditures": 44496454.0
+    },
+    "pr": {
+      "Property Taxes": 518.7524201,
+      "Other Taxes": 52.20511868,
+      "Sales Tax": 144.78408699,
+      "Sales & Services": 128.00297043,
+      "Intergovernmental": 172.78631481,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 17.29897892,
+      "Total Revenue": 1033.82988994
+    },
+    "pe": {
+      "Education": 177.61172258,
+      "Debt Service": 110.65500597,
+      "Human Services": 259.21665562,
+      "General Government": 118.01498475,
+      "Public Safety": 287.99220263,
+      "Other": 226.6302082,
+      "Total Expenditures": 1180.12077974
+    },
+    "gr": {
+      "Property Taxes": 704.26262468,
+      "Other Taxes": 79.68893503,
+      "Sales Tax": 194.85253084,
+      "Sales & Services": 229.373675,
+      "Intergovernmental": 279.65730451,
+      "Debt Proceeds": 79.72784239,
+      "Other Misc": 38.53516493,
+      "Total Revenue": 1606.09807738
+    },
+    "ge": {
+      "Education": 334.33587066,
+      "Debt Service": 129.04713184,
+      "Human Services": 303.45121878,
+      "General Government": 157.05700378,
+      "Public Safety": 360.0811135,
+      "Other": 244.92642786,
+      "Total Expenditures": 1528.89876642
+    },
+    "fb": {
+      "dollars": 10152021,
+      "pct": 0.28644393,
+      "grp_pct": 0.32767822,
+      "state_pct": 0.28284909
+    }
+  },
+  {
+    "name": "Yancey",
+    "pop": 17959,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 12056969.0,
+      "Other Taxes": 2195819.0,
+      "Sales Tax": 2934004.0,
+      "Sales & Services": 1083558.0,
+      "Intergovernmental": 4531951.0,
+      "Debt Proceeds": 248085.0,
+      "Other Misc": 768457.0,
+      "Total Revenue": 23818843.0
+    },
+    "e": {
+      "Education": 4112315.0,
+      "Debt Service": 515177.0,
+      "Human Services": 4373852.0,
+      "General Government": 3570482.0,
+      "Public Safety": 6241061.0,
+      "Other": 3694115.0,
+      "Total Expenditures": 22507002.0
+    },
+    "pr": {
+      "Property Taxes": 671.36082187,
+      "Other Taxes": 122.26844479,
+      "Sales Tax": 163.37234813,
+      "Sales & Services": 60.33509661,
+      "Intergovernmental": 252.34985244,
+      "Debt Proceeds": 13.81396514,
+      "Other Misc": 42.78952057,
+      "Total Revenue": 1326.29004956
+    },
+    "pe": {
+      "Education": 228.98351801,
+      "Debt Service": 28.68628543,
+      "Human Services": 243.54652263,
+      "General Government": 198.81296286,
+      "Public Safety": 347.51717802,
+      "Other": 205.69714349,
+      "Total Expenditures": 1253.24361045
+    },
+    "gr": {
+      "Property Taxes": 650.98537496,
+      "Other Taxes": 51.68654361,
+      "Sales Tax": 154.05084489,
+      "Sales & Services": 204.17868017,
+      "Intergovernmental": 362.1240248,
+      "Debt Proceeds": 39.67374631,
+      "Other Misc": 39.99861124,
+      "Total Revenue": 1502.69782598
+    },
+    "ge": {
+      "Education": 228.05214758,
+      "Debt Service": 123.38201091,
+      "Human Services": 314.28698092,
+      "General Government": 183.76729573,
+      "Public Safety": 368.07288438,
+      "Other": 244.00179049,
+      "Total Expenditures": 1461.56311001
+    },
+    "fb": {
+      "dollars": 1890381,
+      "pct": 0.09006635,
+      "grp_pct": 0.31672564,
+      "state_pct": 0.28284909
+    }
+  }
+]

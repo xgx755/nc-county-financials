@@ -1,5 +1,82 @@
 [
   {
+    "name": "Alamance",
+    "pop": 181097,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 110908239.0,
+      "Other Taxes": 11021457.0,
+      "Sales Tax": 44930558.0,
+      "Sales & Services": 22030248.0,
+      "Intergovernmental": 47603893.0,
+      "Debt Proceeds": 35584838.0,
+      "Other Misc": 15801873.0,
+      "Total Revenue": 287881106.0
+    },
+    "e": {
+      "Education": 104807935.0,
+      "Debt Service": 21919398.0,
+      "Human Services": 40717677.0,
+      "General Government": 27317473.0,
+      "Public Safety": 63254257.0,
+      "Other": 13134140.0,
+      "Total Expenditures": 271150880.0
+    },
+    "pr": {
+      "Property Taxes": 612.42449626,
+      "Other Taxes": 60.85941236,
+      "Sales Tax": 248.10216624,
+      "Sales & Services": 121.6488843,
+      "Intergovernmental": 262.8640618,
+      "Debt Proceeds": 196.49601043,
+      "Other Misc": 87.25640403,
+      "Total Revenue": 1589.65143542
+    },
+    "pe": {
+      "Education": 578.73921158,
+      "Debt Service": 121.03678139,
+      "Human Services": 224.83904758,
+      "General Government": 150.84442592,
+      "Public Safety": 349.28384788,
+      "Other": 72.52544217,
+      "Total Expenditures": 1497.26875652
+    },
+    "gr": {
+      "Property Taxes": 937.26295136,
+      "Other Taxes": 90.93909171,
+      "Sales Tax": 315.28285919,
+      "Sales & Services": 171.08782685,
+      "Intergovernmental": 254.71806829,
+      "Debt Proceeds": 139.0322699,
+      "Other Misc": 129.72948613,
+      "Total Revenue": 2038.05255343
+    },
+    "ge": {
+      "Education": 639.87727667,
+      "Debt Service": 209.01458348,
+      "Human Services": 294.03257939,
+      "General Government": 198.58194776,
+      "Public Safety": 349.19795481,
+      "Other": 273.50116922,
+      "Total Expenditures": 1964.20551133
+    },
+    "fb": {
+      "dollars": 80799564,
+      "pct": 0.37533459,
+      "grp_pct": 0.46449031,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.494,
+      "effective_rate": 0.4592,
+      "appraisal_year": 2023,
+      "sales_ratio": 0.9296
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
     "name": "Alexander",
     "pop": 35958,
     "pg": "25,000 to 49,999",
@@ -71,7 +148,10 @@
       "effective_rate": 0.5491,
       "appraisal_year": 2023,
       "sales_ratio": 0.8448
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Alleghany",
@@ -145,7 +225,10 @@
       "effective_rate": 0.4864,
       "appraisal_year": 2021,
       "sales_ratio": 0.8147
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Anson",
@@ -219,7 +302,10 @@
       "effective_rate": 0.7064,
       "appraisal_year": 2018,
       "sales_ratio": 0.9091
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Ashe",
@@ -293,7 +379,10 @@
       "effective_rate": 0.3423,
       "appraisal_year": 2023,
       "sales_ratio": 0.778
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Avery",
@@ -367,7 +456,10 @@
       "effective_rate": 0.2618,
       "appraisal_year": 2022,
       "sales_ratio": 0.6545
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Beaufort",
@@ -441,7 +533,87 @@
       "effective_rate": 0.4431,
       "appraisal_year": 2025,
       "sales_ratio": 0.9958
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Bertie",
+    "pop": 17214,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 12362018.0,
+      "Other Taxes": 655789.0,
+      "Sales Tax": 3159189.0,
+      "Sales & Services": 7562097.0,
+      "Intergovernmental": 6908874.0,
+      "Debt Proceeds": 1192195.0,
+      "Other Misc": 634651.0,
+      "Total Revenue": 32474813.0
+    },
+    "e": {
+      "Education": 3858846.0,
+      "Debt Service": 3203894.0,
+      "Human Services": 5457970.0,
+      "General Government": 5197118.0,
+      "Public Safety": 9564691.0,
+      "Other": 3642151.0,
+      "Total Expenditures": 30924670.0
+    },
+    "pr": {
+      "Property Taxes": 718.13744626,
+      "Other Taxes": 38.09625886,
+      "Sales Tax": 183.52439875,
+      "Sales & Services": 439.29923318,
+      "Intergovernmental": 401.35203904,
+      "Debt Proceeds": 69.25729058,
+      "Other Misc": 36.86830487,
+      "Total Revenue": 1886.53497153
+    },
+    "pe": {
+      "Education": 224.16904845,
+      "Debt Service": 186.1214128,
+      "Human Services": 317.06576043,
+      "General Government": 301.9122807,
+      "Public Safety": 555.63442547,
+      "Other": 211.58074823,
+      "Total Expenditures": 1796.48367608
+    },
+    "gr": {
+      "Property Taxes": 867.94513274,
+      "Other Taxes": 63.01385316,
+      "Sales Tax": 304.8707472,
+      "Sales & Services": 288.71747568,
+      "Intergovernmental": 484.16637872,
+      "Debt Proceeds": 33.75046711,
+      "Other Misc": 62.64091557,
+      "Total Revenue": 2105.10497018
+    },
+    "ge": {
+      "Education": 324.27040236,
+      "Debt Service": 99.40349408,
+      "Human Services": 341.89627544,
+      "General Government": 250.12374954,
+      "Public Safety": 533.6057179,
+      "Other": 326.0765953,
+      "Total Expenditures": 1875.37623462
+    },
+    "fb": {
+      "dollars": 1971903,
+      "pct": 0.07116004,
+      "grp_pct": 0.50673808,
+      "state_pct": 0.44664538
+    },
+    "tax": {
+      "county_rate": 0.93,
+      "effective_rate": 0.6629,
+      "appraisal_year": 2020,
+      "sales_ratio": 0.7128
+    },
+    "data_year": 2022,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Bladen",
@@ -510,7 +682,10 @@
       "effective_rate": 0.5533,
       "appraisal_year": 2022,
       "sales_ratio": 0.7049
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Brunswick",
@@ -584,7 +759,10 @@
       "effective_rate": 0.3073,
       "appraisal_year": 2023,
       "sales_ratio": 0.8985
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Buncombe",
@@ -658,7 +836,10 @@
       "effective_rate": 0.3374,
       "appraisal_year": 2021,
       "sales_ratio": 0.6172
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Burke",
@@ -732,7 +913,10 @@
       "effective_rate": 0.4379,
       "appraisal_year": 2023,
       "sales_ratio": 0.7891
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Cabarrus",
@@ -806,7 +990,10 @@
       "effective_rate": 0.5418,
       "appraisal_year": 2024,
       "sales_ratio": 0.9406
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Caldwell",
@@ -880,7 +1067,10 @@
       "effective_rate": 0.4774,
       "appraisal_year": 2025,
       "sales_ratio": 0.9596
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Camden",
@@ -954,7 +1144,10 @@
       "effective_rate": 0.6178,
       "appraisal_year": 2023,
       "sales_ratio": 0.8463
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Carteret",
@@ -1028,7 +1221,87 @@
       "effective_rate": 0.2212,
       "appraisal_year": 2025,
       "sales_ratio": 0.9833
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Caswell",
+    "pop": 22680,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 12840795.0,
+      "Other Taxes": 1067135.0,
+      "Sales Tax": 5959706.0,
+      "Sales & Services": 2676004.0,
+      "Intergovernmental": 23462279.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 269825.0,
+      "Total Revenue": 46275744.0
+    },
+    "e": {
+      "Education": 20334636.0,
+      "Debt Service": 1215017.0,
+      "Human Services": 8660896.0,
+      "General Government": 4945149.0,
+      "Public Safety": 9150496.0,
+      "Other": 3693341.0,
+      "Total Expenditures": 47999535.0
+    },
+    "pr": {
+      "Property Taxes": 566.17261905,
+      "Other Taxes": 47.05180776,
+      "Sales Tax": 262.77363316,
+      "Sales & Services": 117.98959436,
+      "Intergovernmental": 1034.4920194,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 11.89704586,
+      "Total Revenue": 2040.37671958
+    },
+    "pe": {
+      "Education": 896.58888889,
+      "Debt Service": 53.57217813,
+      "Human Services": 381.87372134,
+      "General Government": 218.04007937,
+      "Public Safety": 403.46102293,
+      "Other": 162.8457231,
+      "Total Expenditures": 2116.38161376
+    },
+    "gr": {
+      "Property Taxes": 801.12410791,
+      "Other Taxes": 57.93253488,
+      "Sales Tax": 278.34380792,
+      "Sales & Services": 278.73907975,
+      "Intergovernmental": 488.03985833,
+      "Debt Proceeds": 26.63957424,
+      "Other Misc": 51.50044424,
+      "Total Revenue": 1982.31940727
+    },
+    "ge": {
+      "Education": 405.65387742,
+      "Debt Service": 104.47649652,
+      "Human Services": 329.09666475,
+      "General Government": 233.03313052,
+      "Public Safety": 485.58014335,
+      "Other": 304.10125322,
+      "Total Expenditures": 1861.94156578
+    },
+    "fb": {
+      "dollars": 8378289,
+      "pct": 0.30485808,
+      "grp_pct": 0.45505131,
+      "state_pct": 0.43399845
+    },
+    "tax": {
+      "county_rate": 0.627,
+      "effective_rate": 0.6582,
+      "appraisal_year": 2024,
+      "sales_ratio": 1.0497
+    },
+    "data_year": 2021,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Catawba",
@@ -1102,7 +1375,10 @@
       "effective_rate": 0.3493,
       "appraisal_year": 2023,
       "sales_ratio": 0.8765
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Chatham",
@@ -1176,7 +1452,87 @@
       "effective_rate": 0.5704,
       "appraisal_year": 2025,
       "sales_ratio": 0.9506
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Cherokee",
+    "pop": 29275,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 15795279.0,
+      "Other Taxes": 4157139.0,
+      "Sales Tax": 8287213.0,
+      "Sales & Services": 5829333.0,
+      "Intergovernmental": 8899806.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 361223.0,
+      "Total Revenue": 43329993.0
+    },
+    "e": {
+      "Education": 9009422.0,
+      "Debt Service": 5537265.0,
+      "Human Services": 8391621.0,
+      "General Government": 4183737.0,
+      "Public Safety": 12585950.0,
+      "Other": 5474203.0,
+      "Total Expenditures": 45182198.0
+    },
+    "pr": {
+      "Property Taxes": 539.54838599,
+      "Other Taxes": 142.00304014,
+      "Sales Tax": 283.08157131,
+      "Sales & Services": 199.12324509,
+      "Intergovernmental": 304.00703672,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 12.33895816,
+      "Total Revenue": 1480.1022374
+    },
+    "pe": {
+      "Education": 307.75139197,
+      "Debt Service": 189.14654142,
+      "Human Services": 286.64802733,
+      "General Government": 142.91159693,
+      "Public Safety": 429.92143467,
+      "Other": 186.99241674,
+      "Total Expenditures": 1543.37140905
+    },
+    "gr": {
+      "Property Taxes": 747.6933886,
+      "Other Taxes": 102.93512581,
+      "Sales Tax": 249.03897317,
+      "Sales & Services": 244.88997558,
+      "Intergovernmental": 245.7908117,
+      "Debt Proceeds": 89.99512427,
+      "Other Misc": 82.63547226,
+      "Total Revenue": 1762.97887139
+    },
+    "ge": {
+      "Education": 405.09280895,
+      "Debt Service": 165.0315811,
+      "Human Services": 276.48147601,
+      "General Government": 178.16874247,
+      "Public Safety": 413.68022359,
+      "Other": 277.90895929,
+      "Total Expenditures": 1716.36379141
+    },
+    "fb": {
+      "dollars": 16439667,
+      "pct": 0.40781061,
+      "grp_pct": 0.34493774,
+      "state_pct": 0.29055241
+    },
+    "tax": {
+      "county_rate": 0.61,
+      "effective_rate": 0.3547,
+      "appraisal_year": 2020,
+      "sales_ratio": 0.5815
+    },
+    "data_year": 2019,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Chowan",
@@ -1250,7 +1606,10 @@
       "effective_rate": 0.4877,
       "appraisal_year": 2022,
       "sales_ratio": 0.7018
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Clay",
@@ -1324,7 +1683,164 @@
       "effective_rate": 0.2328,
       "appraisal_year": 2018,
       "sales_ratio": 0.5415
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Cleveland",
+    "pop": 100498,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 77536091.0,
+      "Other Taxes": 11955246.0,
+      "Sales Tax": 22627998.0,
+      "Sales & Services": 31260141.0,
+      "Intergovernmental": 57043028.0,
+      "Debt Proceeds": 22512.0,
+      "Other Misc": 8140872.0,
+      "Total Revenue": 208585888.0
+    },
+    "e": {
+      "Education": 47966519.0,
+      "Debt Service": 8944606.0,
+      "Human Services": 42064764.0,
+      "General Government": 18666490.0,
+      "Public Safety": 67201160.0,
+      "Other": 20672933.0,
+      "Total Expenditures": 205516472.0
+    },
+    "pr": {
+      "Property Taxes": 771.51874664,
+      "Other Taxes": 118.96003901,
+      "Sales Tax": 225.15868973,
+      "Sales & Services": 311.0523692,
+      "Intergovernmental": 567.603614,
+      "Debt Proceeds": 0.22400446,
+      "Other Misc": 81.00531354,
+      "Total Revenue": 2075.52277657
+    },
+    "pe": {
+      "Education": 477.28829429,
+      "Debt Service": 89.00282593,
+      "Human Services": 418.56319529,
+      "General Government": 185.73991522,
+      "Public Safety": 668.6815658,
+      "Other": 205.7049195,
+      "Total Expenditures": 2044.98071603
+    },
+    "gr": {
+      "Property Taxes": 937.26295136,
+      "Other Taxes": 90.93909171,
+      "Sales Tax": 315.28285919,
+      "Sales & Services": 171.08782685,
+      "Intergovernmental": 254.71806829,
+      "Debt Proceeds": 139.0322699,
+      "Other Misc": 129.72948613,
+      "Total Revenue": 2038.05255343
+    },
+    "ge": {
+      "Education": 639.87727667,
+      "Debt Service": 209.01458348,
+      "Human Services": 294.03257939,
+      "General Government": 198.58194776,
+      "Public Safety": 349.19795481,
+      "Other": 273.50116922,
+      "Total Expenditures": 1964.20551133
+    },
+    "fb": {
+      "dollars": 54424477,
+      "pct": 0.34571187,
+      "grp_pct": 0.46449031,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.545,
+      "effective_rate": 0.5168,
+      "appraisal_year": 2025,
+      "sales_ratio": 0.9482
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
+    "name": "Columbus",
+    "pop": 50389,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 38827370.0,
+      "Other Taxes": 14935709.0,
+      "Sales Tax": 0.0,
+      "Sales & Services": 13016946.0,
+      "Intergovernmental": 41162147.0,
+      "Debt Proceeds": 1485131.0,
+      "Other Misc": 5469219.0,
+      "Total Revenue": 114896522.0
+    },
+    "e": {
+      "Education": 17690668.0,
+      "Debt Service": 5732402.0,
+      "Human Services": 21452372.0,
+      "General Government": 10615122.0,
+      "Public Safety": 33262178.0,
+      "Other": 24562186.0,
+      "Total Expenditures": 113314928.0
+    },
+    "pr": {
+      "Property Taxes": 770.55250154,
+      "Other Taxes": 296.40812479,
+      "Sales Tax": 0.0,
+      "Sales & Services": 258.32911945,
+      "Intergovernmental": 816.88755482,
+      "Debt Proceeds": 29.47331759,
+      "Other Misc": 108.53993927,
+      "Total Revenue": 2280.19055746
+    },
+    "pe": {
+      "Education": 351.08194249,
+      "Debt Service": 113.76296414,
+      "Human Services": 425.73521999,
+      "General Government": 210.66347814,
+      "Public Safety": 660.10792038,
+      "Other": 487.45134851,
+      "Total Expenditures": 2248.80287364
+    },
+    "gr": {
+      "Property Taxes": 762.80243371,
+      "Other Taxes": 142.45524768,
+      "Sales Tax": 309.50767931,
+      "Sales & Services": 214.5929544,
+      "Intergovernmental": 383.88320705,
+      "Debt Proceeds": 107.48658291,
+      "Other Misc": 139.19484704,
+      "Total Revenue": 2059.9229521
+    },
+    "ge": {
+      "Education": 403.51908959,
+      "Debt Service": 133.48075556,
+      "Human Services": 301.05575778,
+      "General Government": 228.25782791,
+      "Public Safety": 499.72935288,
+      "Other": 293.48246446,
+      "Total Expenditures": 1859.52524818
+    },
+    "fb": {
+      "dollars": 15189648,
+      "pct": 0.18959351,
+      "grp_pct": 0.48710336,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.805,
+      "effective_rate": 0.709,
+      "appraisal_year": 2021,
+      "sales_ratio": 0.8808
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Craven",
@@ -1398,7 +1914,10 @@
       "effective_rate": 0.3624,
       "appraisal_year": 2023,
       "sales_ratio": 0.8147
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Cumberland",
@@ -1472,7 +1991,87 @@
       "effective_rate": 0.5035,
       "appraisal_year": 2025,
       "sales_ratio": 1.009
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Currituck",
+    "pop": 31396,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 48488722.0,
+      "Other Taxes": 33632162.0,
+      "Sales Tax": 18969794.0,
+      "Sales & Services": 23460548.0,
+      "Intergovernmental": 6539127.0,
+      "Debt Proceeds": 59017682.0,
+      "Other Misc": 14817512.0,
+      "Total Revenue": 204925547.0
+    },
+    "e": {
+      "Education": 30789600.0,
+      "Debt Service": 7730242.0,
+      "Human Services": 5135489.0,
+      "General Government": 23738995.0,
+      "Public Safety": 36132869.0,
+      "Other": 32531211.0,
+      "Total Expenditures": 136058406.0
+    },
+    "pr": {
+      "Property Taxes": 1544.42355714,
+      "Other Taxes": 1071.22442349,
+      "Sales Tax": 604.21053637,
+      "Sales & Services": 747.24640082,
+      "Intergovernmental": 208.27898458,
+      "Debt Proceeds": 1879.7834756,
+      "Other Misc": 471.95540833,
+      "Total Revenue": 6527.12278634
+    },
+    "pe": {
+      "Education": 980.68543764,
+      "Debt Service": 246.21741623,
+      "Human Services": 163.57144222,
+      "General Government": 756.11526946,
+      "Public Safety": 1150.87492037,
+      "Other": 1036.15782265,
+      "Total Expenditures": 4333.62230857
+    },
+    "gr": {
+      "Property Taxes": 932.82164796,
+      "Other Taxes": 141.77206358,
+      "Sales Tax": 371.19707031,
+      "Sales & Services": 309.75128201,
+      "Intergovernmental": 434.99603528,
+      "Debt Proceeds": 138.55514429,
+      "Other Misc": 164.60727276,
+      "Total Revenue": 2493.70051619
+    },
+    "ge": {
+      "Education": 436.63480595,
+      "Debt Service": 135.33679713,
+      "Human Services": 368.93366039,
+      "General Government": 265.19422784,
+      "Public Safety": 618.96668161,
+      "Other": 393.79906644,
+      "Total Expenditures": 2218.86523936
+    },
+    "fb": {
+      "dollars": 45993191,
+      "pct": 0.62663902,
+      "grp_pct": 0.52699897,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.62,
+      "effective_rate": 0.4007,
+      "appraisal_year": 2021,
+      "sales_ratio": 0.6463
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Dare",
@@ -1546,7 +2145,10 @@
       "effective_rate": 0.2607,
       "appraisal_year": 2025,
       "sales_ratio": 0.9907
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Davidson",
@@ -1620,7 +2222,10 @@
       "effective_rate": 0.3648,
       "appraisal_year": 2021,
       "sales_ratio": 0.6755
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Davie",
@@ -1694,7 +2299,10 @@
       "effective_rate": 0.649,
       "appraisal_year": 2025,
       "sales_ratio": 1.0007
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Duplin",
@@ -1768,7 +2376,10 @@
       "effective_rate": 0.5689,
       "appraisal_year": 2025,
       "sales_ratio": 0.9808
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Durham",
@@ -1842,7 +2453,10 @@
       "effective_rate": 0.5555,
       "appraisal_year": 2025,
       "sales_ratio": 1.0023
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Edgecombe",
@@ -1916,7 +2530,10 @@
       "effective_rate": 0.8338,
       "appraisal_year": 2024,
       "sales_ratio": 0.9368
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Forsyth",
@@ -1990,7 +2607,10 @@
       "effective_rate": 0.5414,
       "appraisal_year": 2025,
       "sales_ratio": 1.0116
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Franklin",
@@ -2064,7 +2684,10 @@
       "effective_rate": 0.4778,
       "appraisal_year": 2024,
       "sales_ratio": 0.9462
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Gaston",
@@ -2138,7 +2761,10 @@
       "effective_rate": 0.5311,
       "appraisal_year": 2023,
       "sales_ratio": 0.8866
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Gates",
@@ -2212,7 +2838,87 @@
       "effective_rate": 0.6498,
       "appraisal_year": 2025,
       "sales_ratio": 0.9699
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Graham",
+    "pop": 8044,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7209826.0,
+      "Other Taxes": 928938.0,
+      "Sales Tax": 3238410.0,
+      "Sales & Services": 1335110.0,
+      "Intergovernmental": 8996957.0,
+      "Debt Proceeds": 3114017.0,
+      "Other Misc": 1009128.0,
+      "Total Revenue": 25832386.0
+    },
+    "e": {
+      "Education": 4065459.0,
+      "Debt Service": 1008220.0,
+      "Human Services": 4980408.0,
+      "General Government": 4891131.0,
+      "Public Safety": 6793229.0,
+      "Other": 2557294.0,
+      "Total Expenditures": 24295741.0
+    },
+    "pr": {
+      "Property Taxes": 896.29860766,
+      "Other Taxes": 115.48209846,
+      "Sales Tax": 402.58702138,
+      "Sales & Services": 165.97588265,
+      "Intergovernmental": 1118.46805072,
+      "Debt Proceeds": 387.12294878,
+      "Other Misc": 125.45101939,
+      "Total Revenue": 3211.38562904
+    },
+    "pe": {
+      "Education": 505.40266037,
+      "Debt Service": 125.33814023,
+      "Human Services": 619.14569866,
+      "General Government": 608.04711586,
+      "Public Safety": 844.50882645,
+      "Other": 317.91322725,
+      "Total Expenditures": 3020.35566882
+    },
+    "gr": {
+      "Property Taxes": 867.94513274,
+      "Other Taxes": 63.01385316,
+      "Sales Tax": 304.8707472,
+      "Sales & Services": 288.71747568,
+      "Intergovernmental": 484.16637872,
+      "Debt Proceeds": 33.75046711,
+      "Other Misc": 62.64091557,
+      "Total Revenue": 2105.10497018
+    },
+    "ge": {
+      "Education": 324.27040236,
+      "Debt Service": 99.40349408,
+      "Human Services": 341.89627544,
+      "General Government": 250.12374954,
+      "Public Safety": 533.6057179,
+      "Other": 326.0765953,
+      "Total Expenditures": 1875.37623462
+    },
+    "fb": {
+      "dollars": 8440765,
+      "pct": 0.4506281,
+      "grp_pct": 0.50673808,
+      "state_pct": 0.44664538
+    },
+    "tax": {
+      "county_rate": 0.59,
+      "effective_rate": 0.4246,
+      "appraisal_year": 2023,
+      "sales_ratio": 0.7197
+    },
+    "data_year": 2022,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Granville",
@@ -2286,7 +2992,10 @@
       "effective_rate": 0.6142,
       "appraisal_year": 2024,
       "sales_ratio": 0.9733
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Greene",
@@ -2355,7 +3064,10 @@
       "effective_rate": 0.5551,
       "appraisal_year": 2021,
       "sales_ratio": 0.7062
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Guilford",
@@ -2429,7 +3141,10 @@
       "effective_rate": 0.499,
       "appraisal_year": 2022,
       "sales_ratio": 0.6831
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Halifax",
@@ -2503,7 +3218,10 @@
       "effective_rate": 0.6714,
       "appraisal_year": 2024,
       "sales_ratio": 0.9592
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Harnett",
@@ -2577,7 +3295,10 @@
       "effective_rate": 0.4656,
       "appraisal_year": 2022,
       "sales_ratio": 0.7878
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Haywood",
@@ -2651,7 +3372,10 @@
       "effective_rate": 0.326,
       "appraisal_year": 2021,
       "sales_ratio": 0.5927
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Henderson",
@@ -2725,7 +3449,241 @@
       "effective_rate": 0.3763,
       "appraisal_year": 2023,
       "sales_ratio": 0.873
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Hertford",
+    "pop": 21357,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 14468955.0,
+      "Other Taxes": 158524.0,
+      "Sales Tax": 5874916.0,
+      "Sales & Services": 4520624.0,
+      "Intergovernmental": 16179345.0,
+      "Debt Proceeds": 232040.0,
+      "Other Misc": 593877.0,
+      "Total Revenue": 42028281.0
+    },
+    "e": {
+      "Education": 15896850.0,
+      "Debt Service": 2474125.0,
+      "Human Services": 5887296.0,
+      "General Government": 4595789.0,
+      "Public Safety": 8673275.0,
+      "Other": 2985552.0,
+      "Total Expenditures": 40512887.0
+    },
+    "pr": {
+      "Property Taxes": 677.48068549,
+      "Other Taxes": 7.42257808,
+      "Sales Tax": 275.08151894,
+      "Sales & Services": 211.66942923,
+      "Intergovernmental": 757.56637168,
+      "Debt Proceeds": 10.86482184,
+      "Other Misc": 27.80713583,
+      "Total Revenue": 1967.89254109
+    },
+    "pe": {
+      "Education": 744.33909257,
+      "Debt Service": 115.84609262,
+      "Human Services": 275.66118837,
+      "General Government": 215.18888421,
+      "Public Safety": 406.10923819,
+      "Other": 139.79266751,
+      "Total Expenditures": 1896.93716346
+    },
+    "gr": {
+      "Property Taxes": 801.12410791,
+      "Other Taxes": 57.93253488,
+      "Sales Tax": 278.34380792,
+      "Sales & Services": 278.73907975,
+      "Intergovernmental": 488.03985833,
+      "Debt Proceeds": 26.63957424,
+      "Other Misc": 51.50044424,
+      "Total Revenue": 1982.31940727
+    },
+    "ge": {
+      "Education": 405.65387742,
+      "Debt Service": 104.47649652,
+      "Human Services": 329.09666475,
+      "General Government": 233.03313052,
+      "Public Safety": 485.58014335,
+      "Other": 304.10125322,
+      "Total Expenditures": 1861.94156578
+    },
+    "fb": {
+      "dollars": 10259160,
+      "pct": 0.3865238,
+      "grp_pct": 0.45505131,
+      "state_pct": 0.43399845
+    },
+    "tax": {
+      "county_rate": 0.84,
+      "effective_rate": 0.6486,
+      "appraisal_year": 2019,
+      "sales_ratio": 0.7722
+    },
+    "data_year": 2021,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
+  },
+  {
+    "name": "Hoke",
+    "pop": 55054,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 35216530.0,
+      "Other Taxes": 4168607.0,
+      "Sales Tax": 15655767.0,
+      "Sales & Services": 18298662.0,
+      "Intergovernmental": 17514196.0,
+      "Debt Proceeds": 203034.0,
+      "Other Misc": 6904645.0,
+      "Total Revenue": 97961441.0
+    },
+    "e": {
+      "Education": 22061707.0,
+      "Debt Service": 6458685.0,
+      "Human Services": 16432444.0,
+      "General Government": 11056567.0,
+      "Public Safety": 27584440.0,
+      "Other": 23421322.0,
+      "Total Expenditures": 107015165.0
+    },
+    "pr": {
+      "Property Taxes": 639.67250336,
+      "Other Taxes": 75.71851273,
+      "Sales Tax": 284.37110837,
+      "Sales & Services": 332.37661205,
+      "Intergovernmental": 318.12758383,
+      "Debt Proceeds": 3.68790642,
+      "Other Misc": 125.41586442,
+      "Total Revenue": 1779.37009118
+    },
+    "pe": {
+      "Education": 400.72850292,
+      "Debt Service": 117.31545392,
+      "Human Services": 298.47865732,
+      "General Government": 200.83131108,
+      "Public Safety": 501.04333927,
+      "Other": 425.42452864,
+      "Total Expenditures": 1943.82179315
+    },
+    "gr": {
+      "Property Taxes": 762.80243371,
+      "Other Taxes": 142.45524768,
+      "Sales Tax": 309.50767931,
+      "Sales & Services": 214.5929544,
+      "Intergovernmental": 383.88320705,
+      "Debt Proceeds": 107.48658291,
+      "Other Misc": 139.19484704,
+      "Total Revenue": 2059.9229521
+    },
+    "ge": {
+      "Education": 403.51908959,
+      "Debt Service": 133.48075556,
+      "Human Services": 301.05575778,
+      "General Government": 228.25782791,
+      "Public Safety": 499.72935288,
+      "Other": 293.48246446,
+      "Total Expenditures": 1859.52524818
+    },
+    "fb": {
+      "dollars": 48697274,
+      "pct": 0.75770735,
+      "grp_pct": 0.48710336,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.73,
+      "effective_rate": 0.5722,
+      "appraisal_year": 2022,
+      "sales_ratio": 0.7838
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
+    "name": "Hyde",
+    "pop": 5621,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7506035.0,
+      "Other Taxes": 589419.0,
+      "Sales Tax": 1402349.0,
+      "Sales & Services": 2296599.0,
+      "Intergovernmental": 3033892.0,
+      "Debt Proceeds": 35050.0,
+      "Other Misc": 541805.0,
+      "Total Revenue": 15405149.0
+    },
+    "e": {
+      "Education": 1873886.0,
+      "Debt Service": 581873.0,
+      "Human Services": 2920526.0,
+      "General Government": 2140897.0,
+      "Public Safety": 4296165.0,
+      "Other": 3293890.0,
+      "Total Expenditures": 15107237.0
+    },
+    "pr": {
+      "Property Taxes": 1335.35580857,
+      "Other Taxes": 104.86016723,
+      "Sales Tax": 249.48389966,
+      "Sales & Services": 408.57480875,
+      "Intergovernmental": 539.74239459,
+      "Debt Proceeds": 6.23554528,
+      "Other Misc": 96.38943249,
+      "Total Revenue": 2740.64205657
+    },
+    "pe": {
+      "Education": 333.37235367,
+      "Debt Service": 103.51770148,
+      "Human Services": 519.57409714,
+      "General Government": 380.87475538,
+      "Public Safety": 764.30617328,
+      "Other": 585.99715353,
+      "Total Expenditures": 2687.64223448
+    },
+    "gr": {
+      "Property Taxes": 654.2734561,
+      "Other Taxes": 47.31972274,
+      "Sales Tax": 183.53866787,
+      "Sales & Services": 204.21057632,
+      "Intergovernmental": 350.6438816,
+      "Debt Proceeds": 67.39656045,
+      "Other Misc": 36.10832903,
+      "Total Revenue": 1543.49119411
+    },
+    "ge": {
+      "Education": 242.84615947,
+      "Debt Service": 94.38236974,
+      "Human Services": 312.78064077,
+      "General Government": 201.50959355,
+      "Public Safety": 381.12440354,
+      "Other": 270.33940515,
+      "Total Expenditures": 1502.98257222
+    },
+    "fb": {
+      "dollars": 5445312,
+      "pct": 0.41734399,
+      "grp_pct": 0.31802352,
+      "state_pct": 0.29326273
+    },
+    "tax": {
+      "county_rate": 0.92,
+      "effective_rate": 0.7667,
+      "appraisal_year": 2024,
+      "sales_ratio": 0.8333
+    },
+    "data_year": 2017,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Iredell",
@@ -2799,7 +3757,10 @@
       "effective_rate": 0.4545,
       "appraisal_year": 2023,
       "sales_ratio": 0.909
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Jackson",
@@ -2873,7 +3834,10 @@
       "effective_rate": 0.3101,
       "appraisal_year": 2025,
       "sales_ratio": 1.0004
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Johnston",
@@ -2947,7 +3911,87 @@
       "effective_rate": 0.5137,
       "appraisal_year": 2025,
       "sales_ratio": 0.9878
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Jones",
+    "pop": 9208,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 8969605.0,
+      "Other Taxes": 146005.0,
+      "Sales Tax": 3059714.0,
+      "Sales & Services": 3667094.0,
+      "Intergovernmental": 5885113.0,
+      "Debt Proceeds": 212683.0,
+      "Other Misc": 3237912.0,
+      "Total Revenue": 25178126.0
+    },
+    "e": {
+      "Education": 3473515.0,
+      "Debt Service": 1366708.0,
+      "Human Services": 3820690.0,
+      "General Government": 2917851.0,
+      "Public Safety": 6631428.0,
+      "Other": 3359425.0,
+      "Total Expenditures": 21569617.0
+    },
+    "pr": {
+      "Property Taxes": 974.11001303,
+      "Other Taxes": 15.85632059,
+      "Sales Tax": 332.28866203,
+      "Sales & Services": 398.25086881,
+      "Intergovernmental": 639.13043006,
+      "Debt Proceeds": 23.09763249,
+      "Other Misc": 351.64118158,
+      "Total Revenue": 2734.3751086
+    },
+    "pe": {
+      "Education": 377.22795395,
+      "Debt Service": 148.42615117,
+      "Human Services": 414.93158123,
+      "General Government": 316.88216768,
+      "Public Safety": 720.18114683,
+      "Other": 364.83764118,
+      "Total Expenditures": 2342.48664205
+    },
+    "gr": {
+      "Property Taxes": 875.35794087,
+      "Other Taxes": 128.92685161,
+      "Sales Tax": 351.41139053,
+      "Sales & Services": 343.35949449,
+      "Intergovernmental": 780.8406367,
+      "Debt Proceeds": 5.4915925,
+      "Other Misc": 290.5346908,
+      "Total Revenue": 2775.9225975
+    },
+    "ge": {
+      "Education": 663.07540554,
+      "Debt Service": 83.83364907,
+      "Human Services": 394.93433757,
+      "General Government": 290.25998952,
+      "Public Safety": 675.90071855,
+      "Other": 432.28156066,
+      "Total Expenditures": 2540.28566091
+    },
+    "fb": {
+      "dollars": 12506477,
+      "pct": 0.66328508,
+      "grp_pct": 0.55454044,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.74,
+      "effective_rate": 0.6801,
+      "appraisal_year": 2022,
+      "sales_ratio": 0.919
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Lee",
@@ -3021,7 +4065,10 @@
       "effective_rate": 0.5611,
       "appraisal_year": 2023,
       "sales_ratio": 0.8633
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Lenoir",
@@ -3095,7 +4142,10 @@
       "effective_rate": 0.6703,
       "appraisal_year": 2025,
       "sales_ratio": 0.9931
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Lincoln",
@@ -3169,7 +4219,10 @@
       "effective_rate": 0.4379,
       "appraisal_year": 2023,
       "sales_ratio": 0.8776
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Macon",
@@ -3243,7 +4296,87 @@
       "effective_rate": 0.228,
       "appraisal_year": 2023,
       "sales_ratio": 0.8446
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Madison",
+    "pop": 21446,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 14430118.0,
+      "Other Taxes": 2947147.0,
+      "Sales Tax": 6903451.0,
+      "Sales & Services": 6235824.0,
+      "Intergovernmental": 13279231.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 216460.0,
+      "Total Revenue": 44012231.0
+    },
+    "e": {
+      "Education": 4895043.0,
+      "Debt Service": 1227147.0,
+      "Human Services": 8796314.0,
+      "General Government": 3086455.0,
+      "Public Safety": 9941746.0,
+      "Other": 5619579.0,
+      "Total Expenditures": 33566284.0
+    },
+    "pr": {
+      "Property Taxes": 672.85824862,
+      "Other Taxes": 137.42175697,
+      "Sales Tax": 321.89923529,
+      "Sales & Services": 290.76862818,
+      "Intergovernmental": 619.19383568,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 10.09325748,
+      "Total Revenue": 2052.23496223
+    },
+    "pe": {
+      "Education": 228.24969691,
+      "Debt Service": 57.22032081,
+      "Human Services": 410.16105567,
+      "General Government": 143.91751376,
+      "Public Safety": 463.57110883,
+      "Other": 262.0338991,
+      "Total Expenditures": 1565.15359508
+    },
+    "gr": {
+      "Property Taxes": 867.94513274,
+      "Other Taxes": 63.01385316,
+      "Sales Tax": 304.8707472,
+      "Sales & Services": 288.71747568,
+      "Intergovernmental": 484.16637872,
+      "Debt Proceeds": 33.75046711,
+      "Other Misc": 62.64091557,
+      "Total Revenue": 2105.10497018
+    },
+    "ge": {
+      "Education": 324.27040236,
+      "Debt Service": 99.40349408,
+      "Human Services": 341.89627544,
+      "General Government": 250.12374954,
+      "Public Safety": 533.6057179,
+      "Other": 326.0765953,
+      "Total Expenditures": 1875.37623462
+    },
+    "fb": {
+      "dollars": 12410774,
+      "pct": 0.44345155,
+      "grp_pct": 0.50673808,
+      "state_pct": 0.44664538
+    },
+    "tax": {
+      "county_rate": 0.36,
+      "effective_rate": 0.3435,
+      "appraisal_year": 2024,
+      "sales_ratio": 0.9541
+    },
+    "data_year": 2022,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Martin",
@@ -3317,7 +4450,10 @@
       "effective_rate": 0.7163,
       "appraisal_year": 2025,
       "sales_ratio": 0.9949
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "McDowell",
@@ -3391,7 +4527,10 @@
       "effective_rate": 0.4374,
       "appraisal_year": 2023,
       "sales_ratio": 0.7707
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Mecklenburg",
@@ -3465,7 +4604,10 @@
       "effective_rate": 0.4374,
       "appraisal_year": 2023,
       "sales_ratio": 0.8878
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Mitchell",
@@ -3539,7 +4681,87 @@
       "effective_rate": 0.4222,
       "appraisal_year": 2022,
       "sales_ratio": 0.7539
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Montgomery",
+    "pop": 25833,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 23484874.0,
+      "Other Taxes": 1205565.0,
+      "Sales Tax": 7860648.0,
+      "Sales & Services": 8343736.0,
+      "Intergovernmental": 13167980.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 4260837.0,
+      "Total Revenue": 58323640.0
+    },
+    "e": {
+      "Education": 9189542.0,
+      "Debt Service": 4455401.0,
+      "Human Services": 8522698.0,
+      "General Government": 5572809.0,
+      "Public Safety": 10312230.0,
+      "Other": 8899199.0,
+      "Total Expenditures": 46951879.0
+    },
+    "pr": {
+      "Property Taxes": 909.10362714,
+      "Other Taxes": 46.66763442,
+      "Sales Tax": 304.28707467,
+      "Sales & Services": 322.98749661,
+      "Intergovernmental": 509.73483529,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 164.93775404,
+      "Total Revenue": 2257.71842217
+    },
+    "pe": {
+      "Education": 355.7287965,
+      "Debt Service": 172.46936089,
+      "Human Services": 329.91514729,
+      "General Government": 215.72442225,
+      "Public Safety": 399.18824759,
+      "Other": 344.48956761,
+      "Total Expenditures": 1817.51554214
+    },
+    "gr": {
+      "Property Taxes": 932.82164796,
+      "Other Taxes": 141.77206358,
+      "Sales Tax": 371.19707031,
+      "Sales & Services": 309.75128201,
+      "Intergovernmental": 434.99603528,
+      "Debt Proceeds": 138.55514429,
+      "Other Misc": 164.60727276,
+      "Total Revenue": 2493.70051619
+    },
+    "ge": {
+      "Education": 436.63480595,
+      "Debt Service": 135.33679713,
+      "Human Services": 368.93366039,
+      "General Government": 265.19422784,
+      "Public Safety": 618.96668161,
+      "Other": 393.79906644,
+      "Total Expenditures": 2218.86523936
+    },
+    "fb": {
+      "dollars": 43301926,
+      "pct": 1.04002057,
+      "grp_pct": 0.52699897,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.615,
+      "effective_rate": 0.3707,
+      "appraisal_year": 2020,
+      "sales_ratio": 0.6028
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Moore",
@@ -3613,7 +4835,10 @@
       "effective_rate": 0.256,
       "appraisal_year": 2023,
       "sales_ratio": 0.8679
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Nash",
@@ -3687,7 +4912,10 @@
       "effective_rate": 0.5608,
       "appraisal_year": 2024,
       "sales_ratio": 0.8902
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "New Hanover",
@@ -3761,7 +4989,87 @@
       "effective_rate": 0.3054,
       "appraisal_year": 2025,
       "sales_ratio": 0.9981
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Northampton",
+    "pop": 20318,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 18241868.0,
+      "Other Taxes": 191116.0,
+      "Sales Tax": 2329405.0,
+      "Sales & Services": 5722001.0,
+      "Intergovernmental": 6962230.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 202059.0,
+      "Total Revenue": 33648679.0
+    },
+    "e": {
+      "Education": 3974707.0,
+      "Debt Service": 848551.0,
+      "Human Services": 8691883.0,
+      "General Government": 3714093.0,
+      "Public Safety": 10158595.0,
+      "Other": 4829619.0,
+      "Total Expenditures": 32217448.0
+    },
+    "pr": {
+      "Property Taxes": 897.81809233,
+      "Other Taxes": 9.40624077,
+      "Sales Tax": 114.64735702,
+      "Sales & Services": 281.62225613,
+      "Intergovernmental": 342.66315582,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 9.94482725,
+      "Total Revenue": 1656.10192932
+    },
+    "pe": {
+      "Education": 195.62491387,
+      "Debt Service": 41.76351019,
+      "Human Services": 427.79225317,
+      "General Government": 182.79815927,
+      "Public Safety": 499.98006694,
+      "Other": 237.70149621,
+      "Total Expenditures": 1585.66039965
+    },
+    "gr": {
+      "Property Taxes": 706.57813076,
+      "Other Taxes": 46.12052515,
+      "Sales Tax": 215.26628429,
+      "Sales & Services": 220.43321861,
+      "Intergovernmental": 393.70893651,
+      "Debt Proceeds": 104.47257886,
+      "Other Misc": 47.49972003,
+      "Total Revenue": 1734.07939421
+    },
+    "ge": {
+      "Education": 331.07253851,
+      "Debt Service": 99.74736732,
+      "Human Services": 299.62401124,
+      "General Government": 200.89183889,
+      "Public Safety": 412.7349294,
+      "Other": 296.51886866,
+      "Total Expenditures": 1640.58955402
+    },
+    "fb": {
+      "dollars": 17218026,
+      "pct": 0.54937123,
+      "grp_pct": 0.40177016,
+      "state_pct": 0.34449376
+    },
+    "tax": {
+      "county_rate": 0.825,
+      "effective_rate": 0.6647,
+      "appraisal_year": 2023,
+      "sales_ratio": 0.8057
+    },
+    "data_year": 2020,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Onslow",
@@ -3835,7 +5143,10 @@
       "effective_rate": 0.4985,
       "appraisal_year": 2022,
       "sales_ratio": 0.761
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Orange",
@@ -3909,7 +5220,10 @@
       "effective_rate": 0.6317,
       "appraisal_year": 2025,
       "sales_ratio": 0.9896
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Pamlico",
@@ -3983,7 +5297,10 @@
       "effective_rate": 0.4041,
       "appraisal_year": 2020,
       "sales_ratio": 0.6265
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Pasquotank",
@@ -4057,7 +5374,87 @@
       "effective_rate": 0.4799,
       "appraisal_year": 2022,
       "sales_ratio": 0.774
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Pender",
+    "pop": 59459,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 46905658.0,
+      "Other Taxes": 11223419.0,
+      "Sales Tax": 11962131.0,
+      "Sales & Services": 15487554.0,
+      "Intergovernmental": 18101585.0,
+      "Debt Proceeds": 57475565.0,
+      "Other Misc": 3943034.0,
+      "Total Revenue": 165098946.0
+    },
+    "e": {
+      "Education": 46535057.0,
+      "Debt Service": 11920913.0,
+      "Human Services": 15003335.0,
+      "General Government": 8944054.0,
+      "Public Safety": 19706025.0,
+      "Other": 26210949.0,
+      "Total Expenditures": 128320333.0
+    },
+    "pr": {
+      "Property Taxes": 788.87398039,
+      "Other Taxes": 188.75895996,
+      "Sales Tax": 201.18284869,
+      "Sales & Services": 260.47451185,
+      "Intergovernmental": 304.4381002,
+      "Debt Proceeds": 966.64197178,
+      "Other Misc": 66.31517516,
+      "Total Revenue": 2776.68554802
+    },
+    "pe": {
+      "Education": 782.64109723,
+      "Debt Service": 200.48963151,
+      "Human Services": 252.33076574,
+      "General Government": 150.42388873,
+      "Public Safety": 331.42207235,
+      "Other": 440.82391228,
+      "Total Expenditures": 2158.13136783
+    },
+    "gr": {
+      "Property Taxes": 612.97038066,
+      "Other Taxes": 55.60847321,
+      "Sales Tax": 178.55419042,
+      "Sales & Services": 171.60870576,
+      "Intergovernmental": 241.7466255,
+      "Debt Proceeds": 120.67053226,
+      "Other Misc": 35.96860125,
+      "Total Revenue": 1417.12750906
+    },
+    "ge": {
+      "Education": 344.55562071,
+      "Debt Service": 119.6959196,
+      "Human Services": 271.22414333,
+      "General Government": 116.38725924,
+      "Public Safety": 293.63223851,
+      "Other": 182.05794245,
+      "Total Expenditures": 1327.55312384
+    },
+    "fb": {
+      "dollars": 27077293,
+      "pct": 0.42433265,
+      "grp_pct": 0.33626655,
+      "state_pct": 0.29326273
+    },
+    "tax": {
+      "county_rate": 0.7375,
+      "effective_rate": 0.4006,
+      "appraisal_year": 2019,
+      "sales_ratio": 0.5432
+    },
+    "data_year": 2017,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Perquimans",
@@ -4131,7 +5528,10 @@
       "effective_rate": 0.4546,
       "appraisal_year": 2024,
       "sales_ratio": 0.8742
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Person",
@@ -4205,7 +5605,10 @@
       "effective_rate": 0.6286,
       "appraisal_year": 2025,
       "sales_ratio": 0.9977
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Pitt",
@@ -4279,7 +5682,10 @@
       "effective_rate": 0.5436,
       "appraisal_year": 2024,
       "sales_ratio": 0.9599
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Polk",
@@ -4353,7 +5759,10 @@
       "effective_rate": 0.4297,
       "appraisal_year": 2025,
       "sales_ratio": 1.0047
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Randolph",
@@ -4427,7 +5836,241 @@
       "effective_rate": 0.3777,
       "appraisal_year": 2023,
       "sales_ratio": 0.7555
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Richmond",
+    "pop": 42068,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 31315947.0,
+      "Other Taxes": 769996.0,
+      "Sales Tax": 13129953.0,
+      "Sales & Services": 14814201.0,
+      "Intergovernmental": 20844201.0,
+      "Debt Proceeds": 632438.0,
+      "Other Misc": 5127430.0,
+      "Total Revenue": 86634166.0
+    },
+    "e": {
+      "Education": 13610113.0,
+      "Debt Service": 4666471.0,
+      "Human Services": 17811416.0,
+      "General Government": 7744640.0,
+      "Public Safety": 17425226.0,
+      "Other": 18558508.0,
+      "Total Expenditures": 79816374.0
+    },
+    "pr": {
+      "Property Taxes": 744.41254635,
+      "Other Taxes": 18.30360369,
+      "Sales Tax": 312.1126034,
+      "Sales & Services": 352.14892555,
+      "Intergovernmental": 495.48828088,
+      "Debt Proceeds": 15.03370733,
+      "Other Misc": 121.88433013,
+      "Total Revenue": 2059.38399734
+    },
+    "pe": {
+      "Education": 323.52650471,
+      "Debt Service": 110.92685652,
+      "Human Services": 423.39583531,
+      "General Government": 184.09812684,
+      "Public Safety": 414.21569839,
+      "Other": 441.15498716,
+      "Total Expenditures": 1897.31800894
+    },
+    "gr": {
+      "Property Taxes": 932.82164796,
+      "Other Taxes": 141.77206358,
+      "Sales Tax": 371.19707031,
+      "Sales & Services": 309.75128201,
+      "Intergovernmental": 434.99603528,
+      "Debt Proceeds": 138.55514429,
+      "Other Misc": 164.60727276,
+      "Total Revenue": 2493.70051619
+    },
+    "ge": {
+      "Education": 436.63480595,
+      "Debt Service": 135.33679713,
+      "Human Services": 368.93366039,
+      "General Government": 265.19422784,
+      "Public Safety": 618.96668161,
+      "Other": 393.79906644,
+      "Total Expenditures": 2218.86523936
+    },
+    "fb": {
+      "dollars": 22218799,
+      "pct": 0.36448653,
+      "grp_pct": 0.52699897,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.73,
+      "effective_rate": 0.7512,
+      "appraisal_year": 2024,
+      "sales_ratio": 1.029
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
+    "name": "Robeson",
+    "pop": 116438,
+    "pg": "100,000 or Above",
+    "r": {
+      "Property Taxes": 67125963.0,
+      "Other Taxes": 8069234.0,
+      "Sales Tax": 35558511.0,
+      "Sales & Services": 48055523.0,
+      "Intergovernmental": 33348264.0,
+      "Debt Proceeds": 1131683.0,
+      "Other Misc": 11701740.0,
+      "Total Revenue": 204990918.0
+    },
+    "e": {
+      "Education": 27055809.0,
+      "Debt Service": 6287314.0,
+      "Human Services": 46435943.0,
+      "General Government": 17354925.0,
+      "Public Safety": 51634798.0,
+      "Other": 34482834.0,
+      "Total Expenditures": 183251623.0
+    },
+    "pr": {
+      "Property Taxes": 576.49532799,
+      "Other Taxes": 69.30069221,
+      "Sales Tax": 305.3857933,
+      "Sales & Services": 412.71340112,
+      "Intergovernmental": 286.40361394,
+      "Debt Proceeds": 9.71918961,
+      "Other Misc": 100.49760388,
+      "Total Revenue": 1760.51562205
+    },
+    "pe": {
+      "Education": 232.36236452,
+      "Debt Service": 53.99709717,
+      "Human Services": 398.80402446,
+      "General Government": 149.04863533,
+      "Public Safety": 443.45315103,
+      "Other": 296.14759786,
+      "Total Expenditures": 1573.81287037
+    },
+    "gr": {
+      "Property Taxes": 937.26295136,
+      "Other Taxes": 90.93909171,
+      "Sales Tax": 315.28285919,
+      "Sales & Services": 171.08782685,
+      "Intergovernmental": 254.71806829,
+      "Debt Proceeds": 139.0322699,
+      "Other Misc": 129.72948613,
+      "Total Revenue": 2038.05255343
+    },
+    "ge": {
+      "Education": 639.87727667,
+      "Debt Service": 209.01458348,
+      "Human Services": 294.03257939,
+      "General Government": 198.58194776,
+      "Public Safety": 349.19795481,
+      "Other": 273.50116922,
+      "Total Expenditures": 1964.20551133
+    },
+    "fb": {
+      "dollars": 71309120,
+      "pct": 0.45495471,
+      "grp_pct": 0.46449031,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.75,
+      "effective_rate": 0.719,
+      "appraisal_year": 2024,
+      "sales_ratio": 0.9587
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
+    "name": "Rockingham",
+    "pop": 92416,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 66055815.0,
+      "Other Taxes": 953029.0,
+      "Sales Tax": 24869409.0,
+      "Sales & Services": 10360836.0,
+      "Intergovernmental": 45661219.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 10852315.0,
+      "Total Revenue": 158752623.0
+    },
+    "e": {
+      "Education": 28695003.0,
+      "Debt Service": 8882087.0,
+      "Human Services": 28258533.0,
+      "General Government": 20226819.0,
+      "Public Safety": 36500488.0,
+      "Other": 15966448.0,
+      "Total Expenditures": 138529378.0
+    },
+    "pr": {
+      "Property Taxes": 714.76600372,
+      "Other Taxes": 10.31238097,
+      "Sales Tax": 269.10285016,
+      "Sales & Services": 112.11084661,
+      "Intergovernmental": 494.08348122,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 117.42896252,
+      "Total Revenue": 1717.80452519
+    },
+    "pe": {
+      "Education": 310.49821459,
+      "Debt Service": 96.10984029,
+      "Human Services": 305.77533111,
+      "General Government": 218.86706847,
+      "Public Safety": 394.95853532,
+      "Other": 172.76713989,
+      "Total Expenditures": 1498.97612967
+    },
+    "gr": {
+      "Property Taxes": 762.80243371,
+      "Other Taxes": 142.45524768,
+      "Sales Tax": 309.50767931,
+      "Sales & Services": 214.5929544,
+      "Intergovernmental": 383.88320705,
+      "Debt Proceeds": 107.48658291,
+      "Other Misc": 139.19484704,
+      "Total Revenue": 2059.9229521
+    },
+    "ge": {
+      "Education": 403.51908959,
+      "Debt Service": 133.48075556,
+      "Human Services": 301.05575778,
+      "General Government": 228.25782791,
+      "Public Safety": 499.72935288,
+      "Other": 293.48246446,
+      "Total Expenditures": 1859.52524818
+    },
+    "fb": {
+      "dollars": 63599574,
+      "pct": 0.55246499,
+      "grp_pct": 0.48710336,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.5801,
+      "effective_rate": 0.528,
+      "appraisal_year": 2024,
+      "sales_ratio": 0.9102
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Rowan",
@@ -4501,7 +6144,10 @@
       "effective_rate": 0.4963,
       "appraisal_year": 2023,
       "sales_ratio": 0.8557
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Rutherford",
@@ -4575,7 +6221,159 @@
       "effective_rate": 0.4069,
       "appraisal_year": 2023,
       "sales_ratio": 0.8963
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Sampson",
+    "pop": null,
+    "pg": null,
+    "r": {
+      "Property Taxes": null,
+      "Other Taxes": null,
+      "Sales Tax": null,
+      "Sales & Services": null,
+      "Intergovernmental": null,
+      "Debt Proceeds": null,
+      "Other Misc": null,
+      "Total Revenue": null
+    },
+    "e": {
+      "Education": null,
+      "Debt Service": null,
+      "Human Services": null,
+      "General Government": null,
+      "Public Safety": null,
+      "Other": null,
+      "Total Expenditures": null
+    },
+    "pr": {
+      "Property Taxes": null,
+      "Other Taxes": null,
+      "Sales Tax": null,
+      "Sales & Services": null,
+      "Intergovernmental": null,
+      "Debt Proceeds": null,
+      "Other Misc": null,
+      "Total Revenue": null
+    },
+    "pe": {
+      "Education": null,
+      "Debt Service": null,
+      "Human Services": null,
+      "General Government": null,
+      "Public Safety": null,
+      "Other": null,
+      "Total Expenditures": null
+    },
+    "gr": {
+      "Property Taxes": null,
+      "Other Taxes": null,
+      "Sales Tax": null,
+      "Sales & Services": null,
+      "Intergovernmental": null,
+      "Debt Proceeds": null,
+      "Other Misc": null,
+      "Total Revenue": null
+    },
+    "ge": {
+      "Education": null,
+      "Debt Service": null,
+      "Human Services": null,
+      "General Government": null,
+      "Public Safety": null,
+      "Other": null,
+      "Total Expenditures": null
+    },
+    "fb": null,
+    "tax": {
+      "county_rate": 0.685,
+      "effective_rate": 0.6575,
+      "appraisal_year": 2024,
+      "sales_ratio": 0.9599
+    },
+    "data_year": null,
+    "is_fallback": true,
+    "fallback_reason": "missing_all_afir_data"
+  },
+  {
+    "name": "Scotland",
+    "pop": 33567,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 25146242.0,
+      "Other Taxes": 899123.0,
+      "Sales Tax": 11097203.0,
+      "Sales & Services": 8993192.0,
+      "Intergovernmental": 16222258.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 5119400.0,
+      "Total Revenue": 67477418.0
+    },
+    "e": {
+      "Education": 13748433.0,
+      "Debt Service": 4157717.0,
+      "Human Services": 14827897.0,
+      "General Government": 6866724.0,
+      "Public Safety": 16778411.0,
+      "Other": 9274887.0,
+      "Total Expenditures": 65654069.0
+    },
+    "pr": {
+      "Property Taxes": 749.13581792,
+      "Other Taxes": 26.7859207,
+      "Sales Tax": 330.59859386,
+      "Sales & Services": 267.91765722,
+      "Intergovernmental": 483.27994757,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 152.51288468,
+      "Total Revenue": 2010.23082194
+    },
+    "pe": {
+      "Education": 409.58182143,
+      "Debt Service": 123.86322877,
+      "Human Services": 441.74031042,
+      "General Government": 204.56770042,
+      "Public Safety": 499.84839277,
+      "Other": 276.30967915,
+      "Total Expenditures": 1955.91113296
+    },
+    "gr": {
+      "Property Taxes": 932.82164796,
+      "Other Taxes": 141.77206358,
+      "Sales Tax": 371.19707031,
+      "Sales & Services": 309.75128201,
+      "Intergovernmental": 434.99603528,
+      "Debt Proceeds": 138.55514429,
+      "Other Misc": 164.60727276,
+      "Total Revenue": 2493.70051619
+    },
+    "ge": {
+      "Education": 436.63480595,
+      "Debt Service": 135.33679713,
+      "Human Services": 368.93366039,
+      "General Government": 265.19422784,
+      "Public Safety": 618.96668161,
+      "Other": 393.79906644,
+      "Total Expenditures": 2218.86523936
+    },
+    "fb": {
+      "dollars": 12064422,
+      "pct": 0.21027618,
+      "grp_pct": 0.52699897,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.99,
+      "effective_rate": 0.6649,
+      "appraisal_year": 2019,
+      "sales_ratio": 0.6716
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Stanly",
@@ -4649,7 +6447,10 @@
       "effective_rate": 0.493,
       "appraisal_year": 2025,
       "sales_ratio": 0.9666
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Stokes",
@@ -4723,7 +6524,241 @@
       "effective_rate": 0.6232,
       "appraisal_year": 2025,
       "sales_ratio": 0.9972
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Surry",
+    "pop": 71774,
+    "pg": "50,000 to 99,999",
+    "r": {
+      "Property Taxes": 41971922.0,
+      "Other Taxes": 7202104.0,
+      "Sales Tax": 28071059.0,
+      "Sales & Services": 15065437.0,
+      "Intergovernmental": 18803209.0,
+      "Debt Proceeds": 349403.0,
+      "Other Misc": 4149985.0,
+      "Total Revenue": 115613119.0
+    },
+    "e": {
+      "Education": 26455891.0,
+      "Debt Service": 11352251.0,
+      "Human Services": 21785166.0,
+      "General Government": 17034508.0,
+      "Public Safety": 35401954.0,
+      "Other": 19685669.0,
+      "Total Expenditures": 131715439.0
+    },
+    "pr": {
+      "Property Taxes": 584.77891716,
+      "Other Taxes": 100.34419149,
+      "Sales Tax": 391.10344972,
+      "Sales & Services": 209.90103659,
+      "Intergovernmental": 261.97800039,
+      "Debt Proceeds": 4.86809987,
+      "Other Misc": 57.82017165,
+      "Total Revenue": 1610.79386686
+    },
+    "pe": {
+      "Education": 368.59992476,
+      "Debt Service": 158.16662022,
+      "Human Services": 303.52447962,
+      "General Government": 237.33535821,
+      "Public Safety": 493.24203751,
+      "Other": 274.27298186,
+      "Total Expenditures": 1835.14140218
+    },
+    "gr": {
+      "Property Taxes": 762.80243371,
+      "Other Taxes": 142.45524768,
+      "Sales Tax": 309.50767931,
+      "Sales & Services": 214.5929544,
+      "Intergovernmental": 383.88320705,
+      "Debt Proceeds": 107.48658291,
+      "Other Misc": 139.19484704,
+      "Total Revenue": 2059.9229521
+    },
+    "ge": {
+      "Education": 403.51908959,
+      "Debt Service": 133.48075556,
+      "Human Services": 301.05575778,
+      "General Government": 228.25782791,
+      "Public Safety": 499.72935288,
+      "Other": 293.48246446,
+      "Total Expenditures": 1859.52524818
+    },
+    "fb": {
+      "dollars": 48419499,
+      "pct": 0.47019295,
+      "grp_pct": 0.48710336,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.513,
+      "effective_rate": 0.5056,
+      "appraisal_year": 2025,
+      "sales_ratio": 0.9857
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
+    "name": "Swain",
+    "pop": 13827,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 7484517.0,
+      "Other Taxes": 170315.0,
+      "Sales Tax": 6661650.0,
+      "Sales & Services": 4567811.0,
+      "Intergovernmental": 8534908.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 3815943.0,
+      "Total Revenue": 31235144.0
+    },
+    "e": {
+      "Education": 2178448.0,
+      "Debt Service": 1469689.0,
+      "Human Services": 7837740.0,
+      "General Government": 5186394.0,
+      "Public Safety": 9664976.0,
+      "Other": 3437909.0,
+      "Total Expenditures": 29775156.0
+    },
+    "pr": {
+      "Property Taxes": 541.29724452,
+      "Other Taxes": 12.31756708,
+      "Sales Tax": 481.7856368,
+      "Sales & Services": 330.35445144,
+      "Intergovernmental": 617.26390396,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 275.97765242,
+      "Total Revenue": 2258.99645621
+    },
+    "pe": {
+      "Education": 157.55030014,
+      "Debt Service": 106.29124177,
+      "Human Services": 566.843133,
+      "General Government": 375.09177696,
+      "Public Safety": 698.99298474,
+      "Other": 248.63737615,
+      "Total Expenditures": 2153.40681276
+    },
+    "gr": {
+      "Property Taxes": 875.35794087,
+      "Other Taxes": 128.92685161,
+      "Sales Tax": 351.41139053,
+      "Sales & Services": 343.35949449,
+      "Intergovernmental": 780.8406367,
+      "Debt Proceeds": 5.4915925,
+      "Other Misc": 290.5346908,
+      "Total Revenue": 2775.9225975
+    },
+    "ge": {
+      "Education": 663.07540554,
+      "Debt Service": 83.83364907,
+      "Human Services": 394.93433757,
+      "General Government": 290.25998952,
+      "Public Safety": 675.90071855,
+      "Other": 432.28156066,
+      "Total Expenditures": 2540.28566091
+    },
+    "fb": {
+      "dollars": 8271202,
+      "pct": 0.29891835,
+      "grp_pct": 0.55454044,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.41,
+      "effective_rate": 0.2506,
+      "appraisal_year": 2021,
+      "sales_ratio": 0.6111
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
+  },
+  {
+    "name": "Transylvania",
+    "pop": 33361,
+    "pg": "25,000 to 49,999",
+    "r": {
+      "Property Taxes": 45025007.0,
+      "Other Taxes": 3622135.0,
+      "Sales Tax": 13296729.0,
+      "Sales & Services": 6451339.0,
+      "Intergovernmental": 12935609.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 4585437.0,
+      "Total Revenue": 85916256.0
+    },
+    "e": {
+      "Education": 15018858.0,
+      "Debt Service": 761904.0,
+      "Human Services": 8252266.0,
+      "General Government": 10997255.0,
+      "Public Safety": 22156085.0,
+      "Other": 9160323.0,
+      "Total Expenditures": 66346691.0
+    },
+    "pr": {
+      "Property Taxes": 1349.63001709,
+      "Other Taxes": 108.57393364,
+      "Sales Tax": 398.57105602,
+      "Sales & Services": 193.37966488,
+      "Intergovernmental": 387.74644045,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 137.44902731,
+      "Total Revenue": 2575.35013938
+    },
+    "pe": {
+      "Education": 450.19208057,
+      "Debt Service": 22.83816432,
+      "Human Services": 247.36266898,
+      "General Government": 329.64404544,
+      "Public Safety": 664.131321,
+      "Other": 274.58178712,
+      "Total Expenditures": 1988.75006744
+    },
+    "gr": {
+      "Property Taxes": 852.34585322,
+      "Other Taxes": 158.48106917,
+      "Sales Tax": 343.82890651,
+      "Sales & Services": 283.67723956,
+      "Intergovernmental": 370.56939158,
+      "Debt Proceeds": 102.04574615,
+      "Other Misc": 64.79060669,
+      "Total Revenue": 2175.73881288
+    },
+    "ge": {
+      "Education": 364.97559768,
+      "Debt Service": 139.00488665,
+      "Human Services": 339.1315881,
+      "General Government": 225.51049925,
+      "Public Safety": 502.82651888,
+      "Other": 320.07669619,
+      "Total Expenditures": 1891.52578675
+    },
+    "fb": {
+      "dollars": 26880353,
+      "pct": 0.36079958,
+      "grp_pct": 0.45236591,
+      "state_pct": 0.44664538
+    },
+    "tax": {
+      "county_rate": 0.4105,
+      "effective_rate": 0.4061,
+      "appraisal_year": 2025,
+      "sales_ratio": 0.9893
+    },
+    "data_year": 2022,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025_and_2024"
   },
   {
     "name": "Tyrrell",
@@ -4797,7 +6832,10 @@
       "effective_rate": 0.873,
       "appraisal_year": 2025,
       "sales_ratio": 1.0034
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Union",
@@ -4871,7 +6909,10 @@
       "effective_rate": 0.4335,
       "appraisal_year": 2025,
       "sales_ratio": 0.9985
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Vance",
@@ -4945,7 +6986,10 @@
       "effective_rate": 0.6083,
       "appraisal_year": 2024,
       "sales_ratio": 0.8532
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Wake",
@@ -5019,7 +7063,87 @@
       "effective_rate": 0.4933,
       "appraisal_year": 2024,
       "sales_ratio": 0.9539
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
+  },
+  {
+    "name": "Warren",
+    "pop": 18615,
+    "pg": "Below 25,000",
+    "r": {
+      "Property Taxes": 21953306.0,
+      "Other Taxes": 1486987.0,
+      "Sales Tax": 5797202.0,
+      "Sales & Services": 8968440.0,
+      "Intergovernmental": 5888128.0,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 2912977.0,
+      "Total Revenue": 47007040.0
+    },
+    "e": {
+      "Education": 7326180.0,
+      "Debt Service": 1809588.0,
+      "Human Services": 9363308.0,
+      "General Government": 5459441.0,
+      "Public Safety": 14720456.0,
+      "Other": 9320749.0,
+      "Total Expenditures": 47999722.0
+    },
+    "pr": {
+      "Property Taxes": 1179.33419286,
+      "Other Taxes": 79.88111738,
+      "Sales Tax": 311.42637658,
+      "Sales & Services": 481.78565673,
+      "Intergovernmental": 316.31093204,
+      "Debt Proceeds": 0.0,
+      "Other Misc": 156.48546871,
+      "Total Revenue": 2525.22374429
+    },
+    "pe": {
+      "Education": 393.56325544,
+      "Debt Service": 97.21128122,
+      "Human Services": 502.99801236,
+      "General Government": 293.28181574,
+      "Public Safety": 790.78463605,
+      "Other": 500.71173785,
+      "Total Expenditures": 2578.55073865
+    },
+    "gr": {
+      "Property Taxes": 875.35794087,
+      "Other Taxes": 128.92685161,
+      "Sales Tax": 351.41139053,
+      "Sales & Services": 343.35949449,
+      "Intergovernmental": 780.8406367,
+      "Debt Proceeds": 5.4915925,
+      "Other Misc": 290.5346908,
+      "Total Revenue": 2775.9225975
+    },
+    "ge": {
+      "Education": 663.07540554,
+      "Debt Service": 83.83364907,
+      "Human Services": 394.93433757,
+      "General Government": 290.25998952,
+      "Public Safety": 675.90071855,
+      "Other": 432.28156066,
+      "Total Expenditures": 2540.28566091
+    },
+    "fb": {
+      "dollars": 25708211,
+      "pct": 0.65890468,
+      "grp_pct": 0.55454044,
+      "state_pct": 0.47730198
+    },
+    "tax": {
+      "county_rate": 0.5796,
+      "effective_rate": 0.5705,
+      "appraisal_year": 2025,
+      "sales_ratio": 0.9843
+    },
+    "data_year": 2024,
+    "is_fallback": true,
+    "fallback_reason": "missing_2025"
   },
   {
     "name": "Washington",
@@ -5093,7 +7217,10 @@
       "effective_rate": 0.81,
       "appraisal_year": 2021,
       "sales_ratio": 0.9529
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Watauga",
@@ -5167,7 +7294,10 @@
       "effective_rate": 0.2104,
       "appraisal_year": 2022,
       "sales_ratio": 0.6617
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Wayne",
@@ -5241,7 +7371,10 @@
       "effective_rate": 0.6243,
       "appraisal_year": 2025,
       "sales_ratio": 0.9975
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Wilkes",
@@ -5315,7 +7448,10 @@
       "effective_rate": 0.4138,
       "appraisal_year": 2025,
       "sales_ratio": 0.9853
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Wilson",
@@ -5389,7 +7525,10 @@
       "effective_rate": 0.553,
       "appraisal_year": 2024,
       "sales_ratio": 0.9293
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Yadkin",
@@ -5463,7 +7602,10 @@
       "effective_rate": 0.4776,
       "appraisal_year": 2023,
       "sales_ratio": 0.7348
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   },
   {
     "name": "Yancey",
@@ -5537,6 +7679,9 @@
       "effective_rate": 0.4778,
       "appraisal_year": 2024,
       "sales_ratio": 0.9188
-    }
+    },
+    "data_year": 2025,
+    "is_fallback": false,
+    "fallback_reason": null
   }
 ]
