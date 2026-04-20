@@ -286,7 +286,7 @@ function TabBar({ activeTab, setActiveTab, isMobile, dark }) {
             aria-selected={isActive}
             onClick={() => setActiveTab(key)}
             style={{
-              padding: isMobile ? "8px 12px" : "10px 20px",
+              padding: isMobile ? "12px 12px" : "13px 20px",
               border: "none",
               borderBottom: isActive ? `2px solid ${activeColor}` : "2px solid transparent",
               marginBottom: "-1px",
