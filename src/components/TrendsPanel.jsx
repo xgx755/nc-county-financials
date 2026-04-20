@@ -190,9 +190,17 @@ export default function TrendsPanel({ county, history, isMobile }) {
   const peerAvgExp = useMemo(() => computePeerAvgMetric(history, pg, years, "exp_pc"), [history, pg, years]);
 
   if (countyHistory.length === 0) {
+    const countiesWithData = history ? Object.keys(history).filter(k => history[k]?.length > 0).length : 0;
     return (
-      <div style={{ padding: "40px 0", textAlign: "center", color: "#4A6480" }}>
-        Trend data not available for {county.name}.
+      <div style={{ padding: "40px 24px", textAlign: "center", color: "#4A6480" }}>
+        <div style={{ fontSize: 15, color: "#7A9AB8", marginBottom: 8 }}>
+          No multi-year history for {county.name}.
+        </div>
+        <div style={{ fontSize: 13 }}>
+          {countiesWithData > 0
+            ? `Trend data is available for ${countiesWithData} counties — try searching above.`
+            : "Trend data is loaded from multi-year AFIR filings and may not be available for all counties."}
+        </div>
       </div>
     );
   }
