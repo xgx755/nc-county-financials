@@ -10,6 +10,8 @@ html,
 
 /* ─── Design tokens ──────────────────────────────────────────────────────────── */
 :root {
+  color-scheme: dark;
+
   /* Surfaces */
   --bg:         #0E1922;
   --surface:    #152030;
